@@ -453,9 +453,6 @@ const App = {
   },
 
   toggleReverse() {
-    const isHK = DataLoader.isHiraganaKatakana(this.currentCategory);
-    if (isHK) return;
-    
     this.isReversed = !this.isReversed;
     const btn = document.getElementById('btn-reverse');
     btn.classList.toggle('active', this.isReversed);
@@ -1547,9 +1544,9 @@ const App = {
       kanjiEl.textContent = question.romaji || question.meaning;
       kanjiEl.classList.add('reversed-text');
       kanjiEl.classList.remove('large-character');
-      readingEl.textContent = 'Pilih karakter yang sesuai';
+      readingEl.textContent = 'Pilih karakter Jepang yang sesuai';
       romajiEl.textContent = '';
-      questionTextEl.textContent = 'Karakter apa ini?';
+      questionTextEl.textContent = 'Aksara Jepang untuk bunyi ini?';
     } else if (this.isReversed && !isHiraganaKatakana) {
       questionCard.classList.add('reversed');
       kanjiEl.textContent = question.meaning;
