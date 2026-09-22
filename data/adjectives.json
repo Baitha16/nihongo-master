@@ -1,0 +1,2281 @@
+{
+  "category": "Kata Sifat",
+  "categoryJapanese": "形容詞",
+  "categoryRomaji": "Keiyoushi",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "きれい",
+          "reading": "きれい",
+          "romaji": "kirei",
+          "meaning": "Cantik / Bersih",
+          "options": [
+            "Biru",
+            "Cantik / Bersih",
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Hijau"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 2,
+          "kanji": "ハンサム",
+          "reading": "ハンサム",
+          "romaji": "hansamu",
+          "meaning": "Tampan",
+          "options": [
+            "Mudah, Sederhana",
+            "Iri Hati",
+            "Tampan",
+            "Manis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 3,
+          "kanji": "しんせつ",
+          "reading": "しんせつ",
+          "romaji": "shinsetsu",
+          "meaning": "Baik Hati",
+          "options": [
+            "Perlu",
+            "Takut",
+            "Bau Tidak Enak",
+            "Baik Hati"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 4,
+          "kanji": "げんき",
+          "reading": "げんき",
+          "romaji": "genki",
+          "meaning": "Sehat",
+          "options": [
+            "Cepat",
+            "Muda",
+            "Manis",
+            "Sehat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 5,
+          "kanji": "ゆうめい",
+          "reading": "ゆうめい",
+          "romaji": "yuumei",
+          "meaning": "Terkenal",
+          "options": [
+            "Rumit",
+            "Pendek",
+            "Tidak apa apa",
+            "Terkenal"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 6,
+          "kanji": "にぎやか",
+          "reading": "にぎやか",
+          "romaji": "nigiyaka",
+          "meaning": "Ramai",
+          "options": [
+            "Ramai",
+            "Baru",
+            "Betul",
+            "Tinggi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 7,
+          "kanji": "しずか",
+          "reading": "しずか",
+          "romaji": "shizuka",
+          "meaning": "Sepi, Tenang",
+          "options": [
+            "Mudah, Sederhana",
+            "Sepi, Tenang",
+            "Membosankan",
+            "Cantik / Bersih"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 8,
+          "kanji": "簡単な",
+          "reading": "かんたんな",
+          "romaji": "kantanna",
+          "meaning": "Mudah, Sederhana",
+          "options": [
+            "Mudah, Sederhana",
+            "Malu",
+            "Takut",
+            "Tiba- Tiba"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 9,
+          "kanji": "ふくざつ",
+          "reading": "ふくざつ",
+          "romaji": "fukuzatsu",
+          "meaning": "Rumit",
+          "options": [
+            "Rumit",
+            "Pekat",
+            "Murah",
+            "Baik Hati"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 10,
+          "kanji": "すき",
+          "reading": "すき",
+          "romaji": "suki",
+          "meaning": "Suka",
+          "options": [
+            "Panas (Benda)",
+            "Suka",
+            "Penting",
+            "Cukup"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 11,
+          "kanji": "きらい",
+          "reading": "きらい",
+          "romaji": "kirai",
+          "meaning": "Benci",
+          "options": [
+            "Ketat",
+            "Baik Hati",
+            "Kotor",
+            "Benci"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 12,
+          "kanji": "だいすき",
+          "reading": "だいすき",
+          "romaji": "daisuki",
+          "meaning": "Sangat Suka",
+          "options": [
+            "Sangat Suka",
+            "Bahagia",
+            "Encer",
+            "Kasual"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 13,
+          "kanji": "だいきらい",
+          "reading": "だいきらい",
+          "romaji": "daikirai",
+          "meaning": "Sangat Benci",
+          "options": [
+            "Gelap",
+            "Lambat",
+            "Sangat Benci",
+            "Power full"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 14,
+          "kanji": "じょうず",
+          "reading": "じょうず",
+          "romaji": "jyouzu",
+          "meaning": "Pandai",
+          "options": [
+            "Enak, Pandai",
+            "Sedikit (Orang)",
+            "Cantik / Bersih",
+            "Pandai"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 15,
+          "kanji": "へた",
+          "reading": "へた",
+          "romaji": "heta",
+          "meaning": "Bodoh",
+          "options": [
+            "Wangi",
+            "Bodoh",
+            "Simpel",
+            "Murah"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 16,
+          "kanji": "ひま",
+          "reading": "ひま",
+          "romaji": "hima",
+          "meaning": "Senggang",
+          "options": [
+            "Kasual",
+            "Senggang",
+            "Menyayangkan",
+            "Hangat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 17,
+          "kanji": "たいせつ",
+          "reading": "たいせつ",
+          "romaji": "taisetsu",
+          "meaning": "Penting",
+          "options": [
+            "Asam",
+            "Penting",
+            "Benci",
+            "Berat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 18,
+          "kanji": "べんり",
+          "reading": "べんり",
+          "romaji": "benri",
+          "meaning": "Praktis",
+          "options": [
+            "Panas tanpa angin",
+            "Gelap",
+            "Iri Hati",
+            "Praktis"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 19,
+          "kanji": "ふべん",
+          "reading": "ふべん",
+          "romaji": "fuben",
+          "meaning": "Tidak Praktis",
+          "options": [
+            "Bau Tidak Enak",
+            "Bahaya",
+            "Panas tanpa angin",
+            "Tidak Praktis"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 20,
+          "kanji": "ざんねん",
+          "reading": "ざんねん",
+          "romaji": "zannen",
+          "meaning": "Menyayangkan",
+          "options": [
+            "Menyayangkan",
+            "Kasar",
+            "Hal Langka",
+            "Enteng, Mudah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 21,
+          "kanji": "ふあん",
+          "reading": "ふあん",
+          "romaji": "fuan",
+          "meaning": "Cemas, Depresi",
+          "options": [
+            "Hal Langka",
+            "Tiba- Tiba",
+            "Tinggi",
+            "Cemas, Depresi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 22,
+          "kanji": "いろいろ",
+          "reading": "いろいろ",
+          "romaji": "iroiro",
+          "meaning": "Bermacam - macam",
+          "options": [
+            "Khawatir",
+            "Bermacam - macam",
+            "Pendek (Badan)",
+            "Mahal"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 23,
+          "kanji": "しあわせ",
+          "reading": "しあわせ",
+          "romaji": "shiawase",
+          "meaning": "Bahagia",
+          "options": [
+            "Sedikit (Orang)",
+            "Mudah, Sederhana",
+            "Bahagia",
+            "Tidak Boleh"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 24,
+          "kanji": "すてき",
+          "reading": "すてき",
+          "romaji": "suteki",
+          "meaning": "Bagus, Mempesona",
+          "options": [
+            "Hal Langka",
+            "Bagus, Mempesona",
+            "Rendah",
+            "Tidak Serius, Tidak Rajin"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 25,
+          "kanji": "だいじ",
+          "reading": "だいじ",
+          "romaji": "daiji",
+          "meaning": "Hal Terpenting",
+          "options": [
+            "Hal Terpenting",
+            "Hijau",
+            "Sehat",
+            "Rendah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 26,
+          "kanji": "だめ",
+          "reading": "だめ",
+          "romaji": "dame",
+          "meaning": "Tidak Boleh",
+          "options": [
+            "Senang",
+            "Tampan",
+            "Tidak Boleh",
+            "Benci"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 27,
+          "kanji": "へん",
+          "reading": "へん",
+          "romaji": "hen",
+          "meaning": "Error, Aneh",
+          "options": [
+            "Kasihan",
+            "Murah",
+            "Error, Aneh",
+            "Sehat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 28,
+          "kanji": "むだ",
+          "reading": "むだ",
+          "romaji": "muda",
+          "meaning": "Sia - Sia",
+          "options": [
+            "Sia - Sia",
+            "Kesepian",
+            "Kotor",
+            "Tua"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 29,
+          "kanji": "きゅう",
+          "reading": "きゅう",
+          "romaji": "kyuu",
+          "meaning": "Tiba- Tiba",
+          "options": [
+            "Tiba- Tiba",
+            "Encer",
+            "Asam",
+            "Tebal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 30,
+          "kanji": "かわいそう",
+          "reading": "かわいそう",
+          "romaji": "kawaisou",
+          "meaning": "Kasihan",
+          "options": [
+            "Panas (Suhu)",
+            "Kasihan",
+            "Mahal",
+            "Tua"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 31,
+          "kanji": "にがて",
+          "reading": "にがて",
+          "romaji": "nigate",
+          "meaning": "Tidak begitu suka",
+          "options": [
+            "Tidak begitu suka",
+            "Kuat",
+            "Benci",
+            "Sangat Benci"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 32,
+          "kanji": "たいへん",
+          "reading": "たいへん",
+          "romaji": "taihen",
+          "meaning": "Kesusahan, Berat",
+          "options": [
+            "Kasar",
+            "Kesusahan, Berat",
+            "Error, Aneh",
+            "Tua"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 33,
+          "kanji": "らく",
+          "reading": "らく",
+          "romaji": "raku",
+          "meaning": "Enteng, Mudah",
+          "options": [
+            "Encer",
+            "Hebat, Luar Biasa",
+            "Enteng, Mudah",
+            "Akrab, Akur"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 34,
+          "kanji": "むり",
+          "reading": "むり",
+          "romaji": "muri",
+          "meaning": "Tidak Bisa",
+          "options": [
+            "Khawatir",
+            "Jahat",
+            "Tidak Bisa",
+            "Membosankan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 35,
+          "kanji": "まじめ",
+          "reading": "まじめ",
+          "romaji": "majime",
+          "meaning": "Serius, Rajin",
+          "options": [
+            "Serius, Rajin",
+            "Biru",
+            "Murah",
+            "Hijau"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 36,
+          "kanji": "ふまじめ",
+          "reading": "ふまじめ",
+          "romaji": "fumajime",
+          "meaning": "Tidak Serius, Tidak Rajin",
+          "options": [
+            "Dingin (Benda)",
+            "Baik Hati",
+            "Tidak Serius, Tidak Rajin",
+            "Susah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 37,
+          "kanji": "じゃま",
+          "reading": "じゃま",
+          "romaji": "jyama",
+          "meaning": "Mengganggu",
+          "options": [
+            "Suka",
+            "Senang",
+            "Ajaib",
+            "Mengganggu"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 38,
+          "kanji": "じゅうぶん",
+          "reading": "じゅうぶん",
+          "romaji": "jyuubun",
+          "meaning": "Cukup",
+          "options": [
+            "Cantik, Indah",
+            "Kesepian",
+            "Cukup",
+            "Hal Langka"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 39,
+          "kanji": "とくべつ",
+          "reading": "とくべつ",
+          "romaji": "tokubetsu",
+          "meaning": "Spesial, Khusus",
+          "options": [
+            "Kuat",
+            "Bahaya",
+            "Sehat",
+            "Spesial, Khusus"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 40,
+          "kanji": "じゆう",
+          "reading": "じゆう",
+          "romaji": "jiyuu",
+          "meaning": "Bebas",
+          "options": [
+            "Sempit",
+            "Bebas",
+            "Cantik",
+            "Gatal"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 41,
+          "kanji": "ふしぎ",
+          "reading": "ふしぎ",
+          "romaji": "fushigi",
+          "meaning": "Masing - Masing べつ（な ） — Ajaib",
+          "options": [
+            "Enak",
+            "Bodoh",
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Spesial, Khusus"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 42,
+          "kanji": "ふしぎ",
+          "reading": "ふしぎ",
+          "romaji": "fushigi",
+          "meaning": "Ajaib",
+          "options": [
+            "Hangat",
+            "Ajaib",
+            "Silver",
+            "Masing - Masing べつ（な ） — Ajaib"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 43,
+          "kanji": "おなじ",
+          "reading": "おなじ",
+          "romaji": "onaji",
+          "meaning": "Sama",
+          "options": [
+            "Sama",
+            "Ringan",
+            "Hebat, Luar Biasa",
+            "Berat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 44,
+          "kanji": "だいじょうぶ",
+          "reading": "だいじょうぶ",
+          "romaji": "daijyoubu",
+          "meaning": "Tidak apa apa",
+          "options": [
+            "Ramai",
+            "Tidak apa apa",
+            "Mengagumkan / hebat sekali",
+            "Egois"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 45,
+          "kanji": "わがまま",
+          "reading": "わがまま",
+          "romaji": "wagamama",
+          "meaning": "Egois",
+          "options": [
+            "Buruk, Jelek",
+            "Enak, Pandai",
+            "Sama",
+            "Egois"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 46,
+          "kanji": "年上",
+          "reading": "としうえ",
+          "romaji": "toshiue",
+          "meaning": "Tua",
+          "options": [
+            "Tua",
+            "Pandai",
+            "Asin",
+            "Hitam"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 47,
+          "kanji": "緑",
+          "reading": "みどり",
+          "romaji": "midori",
+          "meaning": "Hijau",
+          "options": [
+            "Tinggi (Badan)",
+            "Hijau",
+            "Hal Terpenting",
+            "Malu"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 48,
+          "kanji": "心配",
+          "reading": "しんぱい",
+          "romaji": "shinpai",
+          "meaning": "Khawatir",
+          "options": [
+            "Khawatir",
+            "Perlu",
+            "Sejuk",
+            "Murah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 49,
+          "kanji": "カジュアルな",
+          "reading": "カジュアルな",
+          "romaji": "kajuaruna",
+          "meaning": "Kasual",
+          "options": [
+            "Menyayangkan",
+            "Kasual",
+            "Cemas, Depresi",
+            "Masing - Masing べつ（な ） — Ajaib"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 50,
+          "kanji": "パワフルな",
+          "reading": "パワフルな",
+          "romaji": "pawafuruna",
+          "meaning": "Power full",
+          "options": [
+            "Sehat",
+            "Orange",
+            "Power full",
+            "Hijau"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 51,
+          "kanji": "シンプルな",
+          "reading": "シンプルな",
+          "romaji": "shinpuruna",
+          "meaning": "Simpel",
+          "options": [
+            "Perasaan Jahat",
+            "Membosankan",
+            "Sejuk",
+            "Simpel"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 52,
+          "kanji": "必要な",
+          "reading": "ひつような",
+          "romaji": "hitsuyouna",
+          "meaning": "Perlu",
+          "options": [
+            "Hangat",
+            "Perlu",
+            "Pendiam",
+            "Tidak Enak"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 53,
+          "kanji": "かわいい",
+          "reading": "かわいい",
+          "romaji": "kawaii",
+          "meaning": "Cantik",
+          "options": [
+            "Berat",
+            "Dingin (Benda)",
+            "Dekat",
+            "Cantik"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 54,
+          "kanji": "かっこいい",
+          "reading": "かっこいい",
+          "romaji": "kakkoii",
+          "meaning": "Keren, Tampan",
+          "options": [
+            "Kasihan",
+            "Keren, Tampan",
+            "Mengganggu",
+            "Uang Receh, Pelit"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 55,
+          "kanji": "優しい",
+          "reading": "やさしい",
+          "romaji": "yasashii",
+          "meaning": "Baik Hati",
+          "options": [
+            "Cantik / Bersih",
+            "Pandai",
+            "Baik Hati",
+            "Tampan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 56,
+          "kanji": "酷い",
+          "reading": "ひどい",
+          "romaji": "hidoi",
+          "meaning": "Jahat",
+          "options": [
+            "Dekat",
+            "Sehat",
+            "Jahat",
+            "Simpel"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 57,
+          "kanji": "意地悪い",
+          "reading": "いじわるい",
+          "romaji": "ijiwarui",
+          "meaning": "Perasaan Jahat",
+          "options": [
+            "Ringan",
+            "Perasaan Jahat",
+            "Suka",
+            "Banyak (Orang)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 58,
+          "kanji": "強い",
+          "reading": "つよい",
+          "romaji": "tsuyoi",
+          "meaning": "Kuat",
+          "options": [
+            "Kuat",
+            "Muda",
+            "Gemuk",
+            "Keras"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 59,
+          "kanji": "弱い",
+          "reading": "よわい",
+          "romaji": "yowai",
+          "meaning": "Lemah",
+          "options": [
+            "Manis",
+            "Panas (Suhu)",
+            "Bermacam - macam",
+            "Lemah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 60,
+          "kanji": "楽しい",
+          "reading": "たのしい",
+          "romaji": "tanoshii",
+          "meaning": "Senang",
+          "options": [
+            "Pedas",
+            "Cantik / Bersih",
+            "Baik Hati",
+            "Senang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 61,
+          "kanji": "大きい",
+          "reading": "おおきい",
+          "romaji": "ookii",
+          "meaning": "Besar",
+          "options": [
+            "Sama",
+            "Besar",
+            "Bahaya",
+            "Sedih"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 62,
+          "kanji": "小さい",
+          "reading": "ちいさい",
+          "romaji": "chiisai",
+          "meaning": "Kecil",
+          "options": [
+            "Hitam",
+            "Kecil",
+            "Hijau",
+            "Ramai"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 63,
+          "kanji": "新しい",
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "meaning": "Baru",
+          "options": [
+            "Tidak begitu suka",
+            "Baru",
+            "Keren, Tampan",
+            "Tua"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 64,
+          "kanji": "古い",
+          "reading": "ふるい",
+          "romaji": "furui",
+          "meaning": "Lama",
+          "options": [
+            "Orange",
+            "Lucu, Menarik",
+            "Tiba- Tiba",
+            "Lama"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 65,
+          "kanji": "良い",
+          "reading": "いい",
+          "romaji": "ii",
+          "meaning": "Bagus, Baik, Boleh",
+          "options": [
+            "Suka",
+            "Tiba- Tiba",
+            "Penting",
+            "Bagus, Baik, Boleh"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 66,
+          "kanji": "悪い",
+          "reading": "わるい",
+          "romaji": "warui",
+          "meaning": "Buruk, Jelek",
+          "options": [
+            "Tua",
+            "Buruk, Jelek",
+            "Gelap",
+            "Bagus, Mempesona"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 67,
+          "kanji": "暑い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "meaning": "Panas (Suhu)",
+          "options": [
+            "Panas (Suhu)",
+            "Mengagumkan / hebat sekali",
+            "Baru",
+            "Rendah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 68,
+          "kanji": "寒い",
+          "reading": "さむい",
+          "romaji": "samui",
+          "meaning": "Dingin (Suhu)",
+          "options": [
+            "Sangat Suka",
+            "Dingin (Suhu)",
+            "Tidak Praktis",
+            "Susah"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 69,
+          "kanji": "熱い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "meaning": "Panas (Benda)",
+          "options": [
+            "Panas (Benda)",
+            "Coklat",
+            "Hebat, Luar Biasa",
+            "Tipis"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 70,
+          "kanji": "冷たい",
+          "reading": "つめたい",
+          "romaji": "tsumetai",
+          "meaning": "Dingin (Benda)",
+          "options": [
+            "Dingin (Benda)",
+            "Sedih",
+            "Murah",
+            "Tidak Praktis"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 71,
+          "kanji": "難しい",
+          "reading": "むずかしい",
+          "romaji": "muzukashii",
+          "meaning": "Susah",
+          "options": [
+            "Tampan",
+            "Baik Hati",
+            "Susah",
+            "Cepat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 72,
+          "kanji": "高い",
+          "reading": "たかい",
+          "romaji": "takai",
+          "meaning": "Tinggi",
+          "options": [
+            "Berat",
+            "Tidak Boleh",
+            "Perasaan Jahat",
+            "Tinggi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 73,
+          "kanji": "低い",
+          "reading": "ひくい",
+          "romaji": "hikui",
+          "meaning": "Rendah",
+          "options": [
+            "Rendah",
+            "Detail",
+            "Sangat Suka",
+            "Panas (Suhu)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 74,
+          "kanji": "高い",
+          "reading": "たかい",
+          "romaji": "takai",
+          "meaning": "Mahal",
+          "options": [
+            "Luas",
+            "Tidak Serius, Tidak Rajin",
+            "Pekat",
+            "Mahal"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 75,
+          "kanji": "安い",
+          "reading": "やすい",
+          "romaji": "yasui",
+          "meaning": "Murah",
+          "options": [
+            "Tipis",
+            "Sakit",
+            "Murah",
+            "Hebat, Luar Biasa"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 76,
+          "kanji": "背が高い",
+          "reading": "せがたかい",
+          "romaji": "segatakai",
+          "meaning": "Tinggi (Badan)",
+          "options": [
+            "Tidak Enak",
+            "Ramai",
+            "Tinggi (Badan)",
+            "Sibuk"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 77,
+          "kanji": "背が低い",
+          "reading": "せがひくい",
+          "romaji": "segahikui",
+          "meaning": "Pendek (Badan)",
+          "options": [
+            "Ketat",
+            "Praktis",
+            "Pendek (Badan)",
+            "Tidak Praktis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 78,
+          "kanji": "面白い",
+          "reading": "おもしろい",
+          "romaji": "omoshiroi",
+          "meaning": "Lucu, Menarik",
+          "options": [
+            "Lucu, Menarik",
+            "Jauh",
+            "Baik Hati",
+            "Tua"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 79,
+          "kanji": "つまらない",
+          "reading": "つまらない",
+          "romaji": "tsumaranai",
+          "meaning": "Membosankan",
+          "options": [
+            "Kesepian",
+            "Ingin",
+            "Membosankan",
+            "Bahaya"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 80,
+          "kanji": "美味しい",
+          "reading": "おいしい",
+          "romaji": "oishii",
+          "meaning": "Enak",
+          "options": [
+            "Enak",
+            "Kuat",
+            "Sedih",
+            "Hangat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 81,
+          "kanji": "うまい",
+          "reading": "うまい",
+          "romaji": "umai",
+          "meaning": "Enak, Pandai",
+          "options": [
+            "Cepat",
+            "Tipis",
+            "Kesepian",
+            "Enak, Pandai"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 82,
+          "kanji": "不味い",
+          "reading": "まずい",
+          "romaji": "mazui",
+          "meaning": "Tidak Enak",
+          "options": [
+            "Pedih / pahit",
+            "Panas (Suhu)",
+            "Tidak Enak",
+            "Encer"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 83,
+          "kanji": "近い",
+          "reading": "ちかい",
+          "romaji": "chikai",
+          "meaning": "Dekat",
+          "options": [
+            "Dekat",
+            "Cantik / Bersih",
+            "Hangat",
+            "Kesepian"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 84,
+          "kanji": "遠い",
+          "reading": "とおい",
+          "romaji": "tooi",
+          "meaning": "Jauh",
+          "options": [
+            "Perlu",
+            "Jauh",
+            "Sangat Suka",
+            "Kasihan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 85,
+          "kanji": "早い",
+          "reading": "はやい",
+          "romaji": "hayai",
+          "meaning": "Cepat",
+          "options": [
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Cepat",
+            "Kuning",
+            "Sehat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 86,
+          "kanji": "遅い",
+          "reading": "おそい",
+          "romaji": "osoi",
+          "meaning": "Lambat",
+          "options": [
+            "Sama",
+            "Senang",
+            "Lambat",
+            "Keren, Tampan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 87,
+          "kanji": "多い",
+          "reading": "おおい",
+          "romaji": "ooi",
+          "meaning": "Banyak (Orang)",
+          "options": [
+            "Cantik / Bersih",
+            "Banyak (Orang)",
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Keren, Tampan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 88,
+          "kanji": "少ない",
+          "reading": "すくない",
+          "romaji": "sukunai",
+          "meaning": "Sedikit (Orang)",
+          "options": [
+            "Tampan",
+            "Panas tanpa angin",
+            "Sedikit (Orang)",
+            "Kuat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 89,
+          "kanji": "暖かい",
+          "reading": "あたたかい",
+          "romaji": "atatakai",
+          "meaning": "Hangat",
+          "options": [
+            "Hangat",
+            "Sia - Sia",
+            "Bagus, Mempesona",
+            "Kesusahan, Berat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 90,
+          "kanji": "涼しい",
+          "reading": "すずしい",
+          "romaji": "suzushii",
+          "meaning": "Sejuk",
+          "options": [
+            "Sejuk",
+            "Ajaib",
+            "Sehat",
+            "Pandai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 91,
+          "kanji": "長い",
+          "reading": "ながい",
+          "romaji": "nagai",
+          "meaning": "Panjang",
+          "options": [
+            "Panjang",
+            "Takut",
+            "Pendek",
+            "Sedih"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 92,
+          "kanji": "短い",
+          "reading": "みじかい",
+          "romaji": "mijikai",
+          "meaning": "Pendek",
+          "options": [
+            "Pendek",
+            "Pendiam",
+            "Perasaan Jahat",
+            "Khawatir"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 93,
+          "kanji": "重い",
+          "reading": "おもい",
+          "romaji": "omoi",
+          "meaning": "Berat",
+          "options": [
+            "Murah",
+            "Sia - Sia",
+            "Bebas",
+            "Berat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 94,
+          "kanji": "軽い",
+          "reading": "かるい",
+          "romaji": "karui",
+          "meaning": "Ringan",
+          "options": [
+            "Keren, Tampan",
+            "Bodoh",
+            "Ringan",
+            "Cantik / Bersih"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 95,
+          "kanji": "甘い",
+          "reading": "あまい",
+          "romaji": "amai",
+          "meaning": "Manis",
+          "options": [
+            "Berat",
+            "Manis",
+            "Tinggi (Badan)",
+            "Senggang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 96,
+          "kanji": "辛い",
+          "reading": "からい",
+          "romaji": "karai",
+          "meaning": "Pedas",
+          "options": [
+            "Kasihan",
+            "Serius, Rajin",
+            "Baik Hati",
+            "Pedas"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 97,
+          "kanji": "忙しい",
+          "reading": "いそがしい",
+          "romaji": "isogashii",
+          "meaning": "Sibuk",
+          "options": [
+            "Sibuk",
+            "Kuat",
+            "Dingin (Benda)",
+            "Cantik / Bersih"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 98,
+          "kanji": "若い",
+          "reading": "わかい",
+          "romaji": "wakai",
+          "meaning": "Muda",
+          "options": [
+            "Banyak (Orang)",
+            "Muda",
+            "Hebat, Luar Biasa",
+            "Iri Hati"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 99,
+          "kanji": "欲しい",
+          "reading": "ほしい",
+          "romaji": "hoshii",
+          "meaning": "Ingin",
+          "options": [
+            "Pendek",
+            "Ingin",
+            "Error, Aneh",
+            "Kuat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 100,
+          "kanji": "明るい",
+          "reading": "あかるい",
+          "romaji": "akarui",
+          "meaning": "Terang",
+          "options": [
+            "Cantik / Bersih",
+            "Jahat",
+            "Terang",
+            "Mudah, Sederhana"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": 101,
+          "kanji": "暗い",
+          "reading": "くらい",
+          "romaji": "kurai",
+          "meaning": "Gelap",
+          "options": [
+            "Keren, Tampan",
+            "Kasual",
+            "Gelap",
+            "Berisik"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 102,
+          "kanji": "広い",
+          "reading": "ひろい",
+          "romaji": "hiroi",
+          "meaning": "Luas",
+          "options": [
+            "Kurang Panas",
+            "Ramai",
+            "Luas",
+            "Sepi, Tenang"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 103,
+          "kanji": "狭い",
+          "reading": "せまい",
+          "romaji": "semai",
+          "meaning": "Sempit",
+          "options": [
+            "Cantik",
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Sempit",
+            "Sepi, Tenang"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 104,
+          "kanji": "危ない",
+          "reading": "あぶない",
+          "romaji": "abunai",
+          "meaning": "Bahaya",
+          "options": [
+            "Ramai",
+            "Bahaya",
+            "Hitam putih",
+            "Kurang Panas"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 105,
+          "kanji": "やばい",
+          "reading": "やばい",
+          "romaji": "yabai",
+          "meaning": "Bahaya",
+          "options": [
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Bahaya",
+            "Power full",
+            "Kuat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 106,
+          "kanji": "嬉しい",
+          "reading": "うれしい",
+          "romaji": "ureshii",
+          "meaning": "Senang",
+          "options": [
+            "Benci",
+            "Cantik, Indah",
+            "Senang",
+            "Manis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 107,
+          "kanji": "悲しい",
+          "reading": "かなしい",
+          "romaji": "kanashii",
+          "meaning": "Sedih",
+          "options": [
+            "Cantik",
+            "Sepi, Tenang",
+            "Sedih",
+            "Lama"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 108,
+          "kanji": "寂しい",
+          "reading": "さびしい",
+          "romaji": "sabishii",
+          "meaning": "Kesepian",
+          "options": [
+            "Aneh, Orang Gila",
+            "Tidak Enak",
+            "Kesepian",
+            "Manis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 109,
+          "kanji": "眠い",
+          "reading": "ねむい",
+          "romaji": "nemui",
+          "meaning": "Ngantuk",
+          "options": [
+            "Ngantuk",
+            "Wangi",
+            "Pekat",
+            "Sakit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 110,
+          "kanji": "太い",
+          "reading": "ふとい",
+          "romaji": "futoi",
+          "meaning": "Gemuk",
+          "options": [
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Cantik",
+            "Gemuk",
+            "Dingin (Benda)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 111,
+          "kanji": "細い",
+          "reading": "ほそい",
+          "romaji": "hosoi",
+          "meaning": "Kurus",
+          "options": [
+            "Praktis",
+            "Kecil",
+            "Kurus",
+            "Cemas, Depresi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 112,
+          "kanji": "厚い",
+          "reading": "あつい",
+          "romaji": "atsui",
+          "meaning": "Tebal",
+          "options": [
+            "Buruk, Jelek",
+            "Dingin (Suhu)",
+            "Tebal",
+            "Power full"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 113,
+          "kanji": "薄い",
+          "reading": "うすい",
+          "romaji": "usui",
+          "meaning": "Tipis",
+          "options": [
+            "Tipis",
+            "Tidak Enak",
+            "Cantik / Bersih",
+            "Manis"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 114,
+          "kanji": "硬い",
+          "reading": "かたい",
+          "romaji": "katai",
+          "meaning": "Keras",
+          "options": [
+            "Cantik, Indah",
+            "Kuat",
+            "Kesepian",
+            "Keras"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 115,
+          "kanji": "柔らかい",
+          "reading": "やわらかい",
+          "romaji": "yawarakai",
+          "meaning": "Lunak",
+          "options": [
+            "Membosankan",
+            "Lunak",
+            "Sibuk",
+            "Gelap"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 116,
+          "kanji": "細かい",
+          "reading": "こまかい",
+          "romaji": "komakai",
+          "meaning": "Uang Receh, Pelit",
+          "options": [
+            "Pekat",
+            "Praktis",
+            "Uang Receh, Pelit",
+            "Bebas"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 117,
+          "kanji": "粗い",
+          "reading": "あらい",
+          "romaji": "arai",
+          "meaning": "Kasar",
+          "options": [
+            "Berisik",
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Kasar",
+            "Pandai"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 118,
+          "kanji": "ぬるい",
+          "reading": "ぬるい",
+          "romaji": "nurui",
+          "meaning": "Kurang Panas",
+          "options": [
+            "Kurang Panas",
+            "Cantik, Indah",
+            "Cantik / Bersih",
+            "Jahat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 119,
+          "kanji": "すっぱい",
+          "reading": "すっぱい",
+          "romaji": "suppai",
+          "meaning": "Asam",
+          "options": [
+            "Wangi",
+            "Sepi, Tenang",
+            "Kesusahan, Berat",
+            "Asam"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 120,
+          "kanji": "塩辛い",
+          "reading": "しおからい",
+          "romaji": "shiokarai",
+          "meaning": "Asin",
+          "options": [
+            "Aneh, Orang Gila",
+            "Dekat",
+            "Lama",
+            "Asin"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 121,
+          "kanji": "苦い",
+          "reading": "にがい",
+          "romaji": "nigai",
+          "meaning": "Pahit",
+          "options": [
+            "Pahit",
+            "Ramai",
+            "Cantik",
+            "Tidak apa apa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 122,
+          "kanji": "濃い",
+          "reading": "こい",
+          "romaji": "koi",
+          "meaning": "Pekat",
+          "options": [
+            "Suka",
+            "Tidak Bisa",
+            "Pekat",
+            "Mudah, Sederhana"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 123,
+          "kanji": "薄い",
+          "reading": "うすい",
+          "romaji": "usui",
+          "meaning": "Encer",
+          "options": [
+            "Encer",
+            "Iri Hati",
+            "Sakit",
+            "Pahit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 124,
+          "kanji": "詳しい",
+          "reading": "くわしい",
+          "romaji": "kuwashii",
+          "meaning": "Detail",
+          "options": [
+            "Detail",
+            "Enak, Pandai",
+            "Panjang",
+            "Besar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 125,
+          "kanji": "珍しい",
+          "reading": "めずらしい",
+          "romaji": "mezurashii",
+          "meaning": "Hal Langka",
+          "options": [
+            "Sangat Suka",
+            "Tipis",
+            "Gemuk",
+            "Hal Langka"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 126,
+          "kanji": "おかしい",
+          "reading": "おかしい",
+          "romaji": "okashii",
+          "meaning": "Aneh, Orang Gila",
+          "options": [
+            "Banyak (Orang)",
+            "Gatal",
+            "Khawatir",
+            "Aneh, Orang Gila"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 127,
+          "kanji": "うるさい",
+          "reading": "うるさい",
+          "romaji": "urusai",
+          "meaning": "Berisik",
+          "options": [
+            "Ngantuk",
+            "Pekat",
+            "Berisik",
+            "Banyak (Orang)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 128,
+          "kanji": "すごい",
+          "reading": "すごい",
+          "romaji": "sugoi",
+          "meaning": "Hebat, Luar Biasa",
+          "options": [
+            "Khawatir",
+            "Gemuk",
+            "Malu",
+            "Hebat, Luar Biasa"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 129,
+          "kanji": "素晴らしい",
+          "reading": "すばらしい",
+          "romaji": "subarashii",
+          "meaning": "Hebat, Luar Biasa",
+          "options": [
+            "Berisik",
+            "Sangat Suka",
+            "Hebat, Luar Biasa",
+            "Silver"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 130,
+          "kanji": "正しい",
+          "reading": "ただしい",
+          "romaji": "tadashii",
+          "meaning": "Betul",
+          "options": [
+            "Betul",
+            "Tidak Praktis",
+            "Muda",
+            "Pahit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 131,
+          "kanji": "厳しい",
+          "reading": "きびしい",
+          "romaji": "kibishii",
+          "meaning": "Ketat",
+          "options": [
+            "Ketat",
+            "Panas (Benda)",
+            "Jahat",
+            "Kecil"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 132,
+          "kanji": "美しい",
+          "reading": "うつくしい",
+          "romaji": "utsukushii",
+          "meaning": "Cantik, Indah",
+          "options": [
+            "Cantik, Indah",
+            "Sia - Sia",
+            "Sedikit (Orang)",
+            "Kuning"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 133,
+          "kanji": "仲がいい",
+          "reading": "なかがいい",
+          "romaji": "nakagaii",
+          "meaning": "Akrab, Akur",
+          "options": [
+            "Hal Langka",
+            "Terang",
+            "Akrab, Akur",
+            "Bagus, Baik, Boleh"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 134,
+          "kanji": "大人しい",
+          "reading": "おとなしい",
+          "romaji": "otonashii",
+          "meaning": "Pendiam",
+          "options": [
+            "Baik Hati",
+            "Aneh, Orang Gila",
+            "Gemuk",
+            "Pendiam"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 135,
+          "kanji": "怖い",
+          "reading": "こわい",
+          "romaji": "kowai",
+          "meaning": "Takut",
+          "options": [
+            "Takut",
+            "Buruk, Jelek",
+            "Keren, Tampan",
+            "Tidak apa apa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 136,
+          "kanji": "恥かしい",
+          "reading": "はずかしい",
+          "romaji": "hazukashii",
+          "meaning": "Malu",
+          "options": [
+            "Tinggi (Badan)",
+            "Pendek",
+            "Malu",
+            "Tidak apa apa"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 137,
+          "kanji": "羨ましい",
+          "reading": "うらやましい",
+          "romaji": "urayamashii",
+          "meaning": "Iri Hati",
+          "options": [
+            "Iri Hati",
+            "Bagus, Baik, Boleh",
+            "Bermacam - macam",
+            "Pandai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 138,
+          "kanji": "痛い",
+          "reading": "いたい",
+          "romaji": "itai",
+          "meaning": "Sakit",
+          "options": [
+            "Sakit",
+            "Tampan",
+            "Hal Langka",
+            "Pendek (Badan)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 139,
+          "kanji": "丸い",
+          "reading": "まるい",
+          "romaji": "marui",
+          "meaning": "Bulat",
+          "options": [
+            "Power full",
+            "Bulat",
+            "Bahagia",
+            "Simpel"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 140,
+          "kanji": "汚い",
+          "reading": "きたない",
+          "romaji": "kitanai",
+          "meaning": "Kotor",
+          "options": [
+            "Tua",
+            "Cantik / Bersih",
+            "Sangat Suka",
+            "Kotor"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 141,
+          "kanji": "白い",
+          "reading": "しろい",
+          "romaji": "shiroi",
+          "meaning": "Putih",
+          "options": [
+            "Tiba- Tiba",
+            "Enak, Pandai",
+            "Putih",
+            "Banyak (Orang)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 142,
+          "kanji": "黒い",
+          "reading": "くろい",
+          "romaji": "kuroi",
+          "meaning": "Hitam",
+          "options": [
+            "Bahagia",
+            "Hitam",
+            "Terkenal",
+            "Dingin (Benda)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 143,
+          "kanji": "赤い",
+          "reading": "あかい",
+          "romaji": "akai",
+          "meaning": "Merah",
+          "options": [
+            "Sedikit (Orang)",
+            "Membosankan",
+            "Asin",
+            "Merah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 144,
+          "kanji": "青い",
+          "reading": "あおい",
+          "romaji": "aoi",
+          "meaning": "Biru",
+          "options": [
+            "Ketat",
+            "Rendah",
+            "Biru",
+            "Tinggi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 145,
+          "kanji": "茶色い",
+          "reading": "ちゃいろい",
+          "romaji": "cyairoi",
+          "meaning": "Coklat",
+          "options": [
+            "Kasual",
+            "Serius, Rajin",
+            "Mudah, Sederhana",
+            "Coklat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 146,
+          "kanji": "黄色い",
+          "reading": "きいろい",
+          "romaji": "kiiroi",
+          "meaning": "Kuning",
+          "options": [
+            "Buruk, Jelek",
+            "Khawatir",
+            "Tua",
+            "Kuning"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 147,
+          "kanji": "オレンジ",
+          "reading": "オレンジ",
+          "romaji": "orenji",
+          "meaning": "Orange",
+          "options": [
+            "Sepi, Tenang",
+            "Power full",
+            "Keren, Tampan",
+            "Orange"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 148,
+          "kanji": "シルバ",
+          "reading": "シルバ",
+          "romaji": "shiruba",
+          "meaning": "Silver",
+          "options": [
+            "Enak",
+            "Bulat",
+            "Silver",
+            "Kasihan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 149,
+          "kanji": "臭い",
+          "reading": "くさい",
+          "romaji": "kusai",
+          "meaning": "Bau Tidak Enak",
+          "options": [
+            "Bahaya",
+            "Pendek",
+            "Bau Tidak Enak",
+            "Praktis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 150,
+          "kanji": "い匂い",
+          "reading": "いのい",
+          "romaji": "inoi",
+          "meaning": "Wangi",
+          "options": [
+            "Sempit",
+            "Pedas",
+            "Wangi",
+            "Tidak Bisa"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        {
+          "id": 151,
+          "kanji": "えらい",
+          "reading": "えらい",
+          "romaji": "erai",
+          "meaning": "Mengagumkan / hebat sekali",
+          "options": [
+            "Mengagumkan / hebat sekali",
+            "Tidak Boleh",
+            "Tidak begitu suka",
+            "Hal Terpenting"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 152,
+          "kanji": "つらい",
+          "reading": "つらい",
+          "romaji": "tsurai",
+          "meaning": "Pedih / pahit",
+          "options": [
+            "Pedih / pahit",
+            "Benci",
+            "Sempit",
+            "Dekat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 153,
+          "kanji": "蒸し暑い",
+          "reading": "むしあつい",
+          "romaji": "mushiatsui",
+          "meaning": "Panas tanpa angin",
+          "options": [
+            "Hangat",
+            "Panas tanpa angin",
+            "Enteng, Mudah",
+            "Tua"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 154,
+          "kanji": "白黒い",
+          "reading": "しろくろい",
+          "romaji": "shirokuroi",
+          "meaning": "Hitam putih",
+          "options": [
+            "Benci",
+            "Merah",
+            "Cantik / Bersih",
+            "Hitam putih"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 155,
+          "kanji": "しかくい",
+          "reading": "しかくい",
+          "romaji": "shikakui",
+          "meaning": "Persegi empat",
+          "options": [
+            "Hebat, Luar Biasa",
+            "Bebas",
+            "Persegi empat",
+            "Lama"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 156,
+          "kanji": "ぬるい",
+          "reading": "ぬるい",
+          "romaji": "nurui",
+          "meaning": "Hangat",
+          "options": [
+            "Kecil",
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Murah",
+            "Hangat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 157,
+          "kanji": "甘辛い",
+          "reading": "あまからい",
+          "romaji": "amakarai",
+          "meaning": "Pedas manis",
+          "options": [
+            "Egois",
+            "Pedas manis",
+            "Masing - Masing べつ（な ） — Ajaib",
+            "Tiba- Tiba"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 158,
+          "kanji": "めんどくさい",
+          "reading": "めんどくさい",
+          "romaji": "mendokusai",
+          "meaning": "Membosankan",
+          "options": [
+            "Coklat",
+            "Membosankan",
+            "Pedih / pahit",
+            "Pekat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 159,
+          "kanji": "かゆい",
+          "reading": "かゆい",
+          "romaji": "kayui",
+          "meaning": "Gatal",
+          "options": [
+            "Jauh",
+            "Gatal",
+            "Berisik",
+            "Kotor"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 160,
+          "kanji": "もったいない",
+          "reading": "もったいない",
+          "romaji": "mottainai",
+          "meaning": "Mubazir",
+          "options": [
+            "Kesusahan, Berat",
+            "Pandai",
+            "Spesial, Khusus",
+            "Mubazir"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 161,
+          "kanji": "激しい",
+          "reading": "はげしい",
+          "romaji": "hageshii",
+          "meaning": "Kuat",
+          "options": [
+            "Baru",
+            "Kesusahan, Berat",
+            "Sehat",
+            "Kuat"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1560 @@
+{
+  "category": "Kanji JLPT N5",
+  "categoryJapanese": "漢字 N5",
+  "categoryRomaji": "Kanji N5",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "P",
+          "reading": "き",
+          "meaning": "Pohon",
+          "onyomi": "",
+          "options": [
+            "Seratus",
+            "Siang",
+            "Uang",
+            "Pohon"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 2,
+          "kanji": "⽊",
+          "reading": "つち",
+          "meaning": "Tanah",
+          "onyomi": "モク",
+          "options": [
+            "Gerbang",
+            "Tanah",
+            "Sedikit",
+            "Kanan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 3,
+          "kanji": "⽕",
+          "reading": "ひ",
+          "meaning": "Api",
+          "onyomi": "カ",
+          "options": [
+            "Orang",
+            "Pohon",
+            "Seribu",
+            "Api"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 4,
+          "kanji": "川",
+          "reading": "やま",
+          "meaning": "Gunung",
+          "onyomi": "",
+          "options": [
+            "Panjang",
+            "Gunung",
+            "Makan",
+            "Setiap"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 5,
+          "kanji": "⼟",
+          "reading": "かわ",
+          "meaning": "Sungai",
+          "onyomi": "",
+          "options": [
+            "Tangan",
+            "Sungai",
+            "Makan",
+            "Delapan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 6,
+          "kanji": "⽔",
+          "reading": "みず",
+          "meaning": "Air",
+          "onyomi": "スイ",
+          "options": [
+            "Jalan",
+            "Bulan",
+            "Air",
+            "Listrik"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 7,
+          "kanji": "⽉",
+          "reading": "つき",
+          "meaning": "Bulan",
+          "onyomi": "ガツ",
+          "options": [
+            "Siang",
+            "Bulan",
+            "Keluar",
+            "Mobil, Kendaraan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 8,
+          "kanji": "⽇",
+          "reading": "ひ",
+          "meaning": "Hari/Matahari",
+          "onyomi": "ジツ",
+          "options": [
+            "Membeli",
+            "Sekolah, Belajar",
+            "Hari/Matahari",
+            "Bahasa, Kata"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 9,
+          "kanji": "U",
+          "reading": "かね",
+          "meaning": "Uang",
+          "onyomi": "",
+          "options": [
+            "Kiri",
+            "Sungai",
+            "Api",
+            "Uang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 10,
+          "kanji": "S",
+          "reading": "たんぼ",
+          "meaning": "Sawah",
+          "onyomi": "",
+          "options": [
+            "Sawah",
+            "Ikan",
+            "Seratus",
+            "Delapan"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "⼋",
+          "reading": "とう",
+          "meaning": "Sepuluh",
+          "onyomi": "",
+          "options": [
+            "Sepuluh",
+            "Listrik",
+            "Sekarang",
+            "Bahasa, Kata"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 2,
+          "kanji": "六",
+          "reading": "むっ（つ）",
+          "meaning": "Enam",
+          "onyomi": "ロク",
+          "options": [
+            "Pergi",
+            "Api",
+            "Kuda",
+            "Enam"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 3,
+          "kanji": "⼆",
+          "reading": "ひと.つ",
+          "meaning": "Satu",
+          "onyomi": "",
+          "options": [
+            "Satu",
+            "Pohon",
+            "Membeli",
+            "Bahasa, Kata"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 4,
+          "kanji": "D",
+          "reading": "ふた.つ",
+          "meaning": "Dua",
+          "onyomi": "",
+          "options": [
+            "Dua",
+            "Lima",
+            "Semangat, Pikiran",
+            "Luar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 5,
+          "kanji": "三",
+          "reading": "やっ（つ） ）",
+          "meaning": "Delapan",
+          "onyomi": "",
+          "options": [
+            "Air",
+            "Delapan",
+            "Toko",
+            "Tiga"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 6,
+          "kanji": "九",
+          "reading": "み.つ",
+          "meaning": "Tiga",
+          "onyomi": "キュウ",
+          "options": [
+            "Besar",
+            "Mobil, Kendaraan",
+            "Membaca",
+            "Tiga"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 7,
+          "kanji": "五",
+          "reading": "よっ（つ）",
+          "meaning": "Empat",
+          "onyomi": "",
+          "options": [
+            "Membeli",
+            "Empat",
+            "Ketika",
+            "Delapan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 8,
+          "kanji": "七",
+          "reading": "いつ（つ）",
+          "meaning": "Lima",
+          "onyomi": "",
+          "options": [
+            "Buku",
+            "Berbicara",
+            "Hari/Matahari",
+            "Lima"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 9,
+          "kanji": "S",
+          "reading": "ここの（つ）",
+          "meaning": "Sembilan",
+          "onyomi": "",
+          "options": [
+            "Sembilan",
+            "Pohon",
+            "Negara",
+            "Langit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 10,
+          "kanji": "T",
+          "reading": "なな（つ）",
+          "meaning": "Tujuh",
+          "onyomi": "",
+          "options": [
+            "Lama, Tua",
+            "Hari/Matahari",
+            "Lima",
+            "Tujuh"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "中",
+          "reading": "なか",
+          "meaning": "Tengah",
+          "onyomi": "チュウ",
+          "options": [
+            "Gerbang",
+            "Tengah",
+            "Membaca",
+            "Menulis"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 2,
+          "kanji": "上",
+          "reading": "うえ",
+          "meaning": "Atas",
+          "onyomi": "ジョウ",
+          "options": [
+            "Siang",
+            "Kiri",
+            "Sebelumnya",
+            "Atas"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 3,
+          "kanji": "千",
+          "reading": "ひゃく",
+          "meaning": "Seratus",
+          "onyomi": "",
+          "options": [
+            "Delapan",
+            "Mulut",
+            "Seratus",
+            "Hari/Matahari"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 4,
+          "kanji": "分",
+          "reading": "せん",
+          "meaning": "Seribu",
+          "onyomi": "",
+          "options": [
+            "Seribu",
+            "Bunga",
+            "Yen / Bulat",
+            "Baru"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 5,
+          "kanji": "下",
+          "reading": "した",
+          "meaning": "Bawah",
+          "onyomi": "ゲ",
+          "options": [
+            "Uang",
+            "Murah, Aman",
+            "Bawah",
+            "Kanan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 6,
+          "kanji": "年",
+          "reading": "ねん",
+          "meaning": "Tahun",
+          "onyomi": "ネン",
+          "options": [
+            "Mendengar",
+            "Tahun",
+            "Mobil, Kendaraan",
+            "Pohon"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 7,
+          "kanji": "円",
+          "reading": "えん",
+          "meaning": "Yen / Bulat",
+          "onyomi": "シ",
+          "options": [
+            "Antara",
+            "Berdiri",
+            "Cepat",
+            "Yen / Bulat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 8,
+          "kanji": "S",
+          "reading": "はん",
+          "meaning": "Setengah",
+          "onyomi": "",
+          "options": [
+            "Ketika",
+            "Membaca",
+            "Cepat",
+            "Setengah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 9,
+          "kanji": "S",
+          "reading": "まん",
+          "meaning": "Sepuluh Ribu",
+          "onyomi": "",
+          "options": [
+            "Putih",
+            "Kerang",
+            "Listrik",
+            "Sepuluh Ribu"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 10,
+          "kanji": "T",
+          "reading": "て",
+          "meaning": "Tangan",
+          "onyomi": "",
+          "options": [
+            "Telinga",
+            "Surga",
+            "Mulut",
+            "Tangan"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "⼿",
+          "reading": "ちから",
+          "meaning": "Kekuatan",
+          "onyomi": "ズ",
+          "options": [
+            "Bunga",
+            "Datang",
+            "Kekuatan",
+            "Berdiri"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 2,
+          "kanji": "⼝",
+          "reading": "く ち",
+          "meaning": "Mulut",
+          "onyomi": "ク",
+          "options": [
+            "Kekuatan",
+            "Mulut",
+            "Tahun",
+            "Baru"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 3,
+          "kanji": "⼦",
+          "reading": "ひと",
+          "meaning": "Orang",
+          "onyomi": "",
+          "options": [
+            "Setelah, Belakang",
+            "Perempuan",
+            "Orang",
+            "Listrik"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 4,
+          "kanji": "⼒",
+          "reading": "こ",
+          "meaning": "Anak",
+          "onyomi": "",
+          "options": [
+            "Anak",
+            "Delapan",
+            "Mobil, Kendaraan",
+            "Bahasa, Kata"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 5,
+          "kanji": "⽿",
+          "reading": "みみ",
+          "meaning": "Telinga",
+          "onyomi": "ジ",
+          "options": [
+            "Telinga",
+            "Sekolah",
+            "Kanan",
+            "Yen / Bulat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 6,
+          "kanji": "⽬",
+          "reading": "め",
+          "meaning": "Mata",
+          "onyomi": "モク",
+          "options": [
+            "Mata",
+            "Pergi",
+            "Luar",
+            "Sekarang"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 7,
+          "kanji": "男",
+          "reading": "おとこ",
+          "meaning": "Laki-laki",
+          "onyomi": "ナン",
+          "options": [
+            "Berdiri",
+            "Laki-laki",
+            "Kiri",
+            "Sepuluh"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 8,
+          "kanji": "K",
+          "reading": "あし",
+          "meaning": "Kaki",
+          "onyomi": "",
+          "options": [
+            "Berdiri",
+            "Kerang",
+            "Kaki",
+            "Kuda"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 9,
+          "kanji": "P",
+          "reading": "おんな",
+          "meaning": "Perempuan",
+          "onyomi": "",
+          "options": [
+            "Membaca",
+            "Air",
+            "Telinga",
+            "Perempuan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 10,
+          "kanji": "本",
+          "reading": "ほん",
+          "meaning": "Buku",
+          "onyomi": "ホン",
+          "options": [
+            "Bulan",
+            "Setiap",
+            "Berdiri",
+            "Buku"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "校",
+          "reading": "コウ",
+          "meaning": "Sekolah",
+          "onyomi": "",
+          "options": [
+            "Membaca",
+            "Kehidupan",
+            "Jalan",
+            "Sekolah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 2,
+          "kanji": "⺟",
+          "reading": "ちち",
+          "meaning": "Ayah",
+          "onyomi": "",
+          "options": [
+            "Ayah",
+            "Selatan",
+            "Bulan",
+            "Antara"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "kanji": "何",
+          "reading": "はは",
+          "meaning": "Ibu",
+          "onyomi": "",
+          "options": [
+            "Delapan",
+            "Sepuluh Ribu",
+            "Ibu",
+            "Air"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 4,
+          "kanji": "友",
+          "reading": "ともだち",
+          "meaning": "Teman",
+          "onyomi": "ユウ",
+          "options": [
+            "Teman",
+            "Air",
+            "Ibu",
+            "Delapan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 5,
+          "kanji": "学",
+          "reading": "まなぶ",
+          "meaning": "Sekolah, Belajar",
+          "onyomi": "ガク",
+          "options": [
+            "Sekolah, Belajar",
+            "Bicara",
+            "Barat",
+            "Putih"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 6,
+          "kanji": "⽣",
+          "reading": "い.きる",
+          "meaning": "Kehidupan",
+          "onyomi": "セイ",
+          "options": [
+            "Besar",
+            "Antara",
+            "Kehidupan",
+            "Bulan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 7,
+          "kanji": "S",
+          "reading": "まい",
+          "meaning": "Setiap",
+          "onyomi": "",
+          "options": [
+            "Kanan",
+            "Sekarang",
+            "Setiap",
+            "Cepat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 8,
+          "kanji": "S",
+          "reading": "さき",
+          "meaning": "Sebelumnya",
+          "onyomi": "",
+          "options": [
+            "Sebelumnya",
+            "Murah, Aman",
+            "Keluar",
+            "Pohon"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 9,
+          "kanji": "南",
+          "reading": "みなみ",
+          "meaning": "Selatan",
+          "onyomi": "ナン",
+          "options": [
+            "Tengah",
+            "Hujan",
+            "Gerbang",
+            "Selatan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 10,
+          "kanji": "東",
+          "reading": "ひがし",
+          "meaning": "Timur",
+          "onyomi": "トウ",
+          "options": [
+            "Timur",
+            "Ikan",
+            "Mulut",
+            "Kaki"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "後",
+          "reading": "まえ",
+          "meaning": "Sebelum, Depan",
+          "onyomi": "",
+          "options": [
+            "Keluar",
+            "Hari/Matahari",
+            "Pohon",
+            "Sebelum, Depan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 2,
+          "kanji": "名",
+          "reading": "うし.ろ",
+          "meaning": "Setelah, Belakang",
+          "onyomi": "",
+          "options": [
+            "Stasiun",
+            "Banyak",
+            "Setelah, Belakang",
+            "Delapan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 3,
+          "kanji": "西",
+          "reading": "にし",
+          "meaning": "Barat",
+          "onyomi": "セイ",
+          "options": [
+            "Tengah",
+            "Barat",
+            "Jalan",
+            "Bicara"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 4,
+          "kanji": "左",
+          "reading": "ひだり",
+          "meaning": "Kiri",
+          "onyomi": "サ",
+          "options": [
+            "Pohon",
+            "Kiri",
+            "Menulis",
+            "Bahasa, Kata"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 5,
+          "kanji": "右",
+          "reading": "みぎ",
+          "meaning": "Kanan",
+          "onyomi": "ユウ",
+          "options": [
+            "Kanan",
+            "Kaki",
+            "Kecil",
+            "Selatan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 6,
+          "kanji": "U",
+          "reading": "きた",
+          "meaning": "Utara",
+          "onyomi": "",
+          "options": [
+            "Utara",
+            "Yen / Bulat",
+            "Keluar",
+            "Setiap"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 7,
+          "kanji": "L",
+          "reading": "そと",
+          "meaning": "Luar",
+          "onyomi": "",
+          "options": [
+            "Pohon",
+            "Besar",
+            "Luar",
+            "Sekolah, Belajar"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 8,
+          "kanji": "⾞",
+          "reading": "くるま",
+          "meaning": "Mobil, Kendaraan",
+          "onyomi": "シャ",
+          "options": [
+            "Kanan",
+            "Pohon",
+            "Bulan",
+            "Mobil, Kendaraan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 9,
+          "kanji": "天",
+          "reading": "てん",
+          "meaning": "Surga",
+          "onyomi": "テン",
+          "options": [
+            "Seribu",
+            "Sebelumnya",
+            "Orang",
+            "Surga"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 10,
+          "kanji": "⾺",
+          "reading": "うし",
+          "meaning": "Sapi",
+          "onyomi": "",
+          "options": [
+            "Atas",
+            "Mobil, Kendaraan",
+            "Orang",
+            "Sapi"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "午",
+          "reading": "うま",
+          "meaning": "Kuda",
+          "onyomi": "",
+          "options": [
+            "Luar",
+            "Enam",
+            "Kuda",
+            "Pohon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 2,
+          "kanji": "⿂",
+          "reading": "ご",
+          "meaning": "Siang",
+          "onyomi": "",
+          "options": [
+            "Siang",
+            "Atas",
+            "Sebelumnya",
+            "Empat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "kanji": "気",
+          "reading": "き",
+          "meaning": "Semangat, Pikiran",
+          "onyomi": "キ",
+          "options": [
+            "Orang",
+            "Tujuh",
+            "Tahun",
+            "Semangat, Pikiran"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 4,
+          "kanji": "⾬",
+          "reading": "あめ",
+          "meaning": "Hujan",
+          "onyomi": "ウ",
+          "options": [
+            "Selatan",
+            "Hujan",
+            "Kiri",
+            "Gunung"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 5,
+          "kanji": "⾙",
+          "reading": "かい",
+          "meaning": "Kerang",
+          "onyomi": "バイ",
+          "options": [
+            "Kerang",
+            "Perempuan",
+            "Tangan",
+            "Pekan, Seminggu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 6,
+          "kanji": "G",
+          "reading": "もん",
+          "meaning": "Gerbang",
+          "onyomi": "",
+          "options": [
+            "Sekolah, Belajar",
+            "Delapan",
+            "Sepuluh",
+            "Gerbang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 7,
+          "kanji": "I",
+          "reading": "さかな",
+          "meaning": "Ikan",
+          "onyomi": "",
+          "options": [
+            "Delapan",
+            "Atas",
+            "Ikan",
+            "Timur"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 8,
+          "kanji": "B",
+          "reading": "おおい",
+          "meaning": "Banyak",
+          "onyomi": "",
+          "options": [
+            "Banyak",
+            "Gerbang",
+            "Pekan, Seminggu",
+            "Perusahaan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 9,
+          "kanji": "C",
+          "reading": "はやい",
+          "meaning": "Cepat",
+          "onyomi": "",
+          "options": [
+            "Mobil, Kendaraan",
+            "Utara",
+            "Sepuluh Ribu",
+            "Cepat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 10,
+          "kanji": "⼩",
+          "reading": "ちいさい",
+          "meaning": "Kecil",
+          "onyomi": "バ",
+          "options": [
+            "Kecil",
+            "Air",
+            "Luar",
+            "Kerang"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "B",
+          "reading": "おおきい",
+          "meaning": "Besar",
+          "onyomi": "",
+          "options": [
+            "Sungai",
+            "Teman",
+            "Yen / Bulat",
+            "Besar"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 2,
+          "kanji": "⼤",
+          "reading": "たかい",
+          "meaning": "Mahal, Tinggi",
+          "onyomi": "",
+          "options": [
+            "Mahal, Tinggi",
+            "Tiga",
+            "Sapi",
+            "Minum"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "kanji": "多",
+          "reading": "ふるい",
+          "meaning": "Lama, Tua",
+          "onyomi": "",
+          "options": [
+            "Bulan",
+            "Lama, Tua",
+            "Kiri",
+            "Berdiri"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 4,
+          "kanji": "⻑",
+          "reading": "すく ない",
+          "meaning": "Sedikit",
+          "onyomi": "",
+          "options": [
+            "Sedikit",
+            "Empat",
+            "Enam",
+            "Sepuluh Ribu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 5,
+          "kanji": "⾼",
+          "reading": "あたらしい",
+          "meaning": "Baru",
+          "onyomi": "シン",
+          "options": [
+            "Pohon",
+            "Baru",
+            "Tanah",
+            "Bawah"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 6,
+          "kanji": "M",
+          "reading": "やすい",
+          "meaning": "Murah, Aman",
+          "onyomi": "アン",
+          "options": [
+            "Berdiri",
+            "Dua",
+            "Murah, Aman",
+            "Surga"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 7,
+          "kanji": "安",
+          "reading": "ながい",
+          "meaning": "Panjang",
+          "onyomi": "",
+          "options": [
+            "Panjang",
+            "Kekuatan",
+            "Negara",
+            "Empat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 8,
+          "kanji": "M",
+          "reading": "かく",
+          "meaning": "Menulis",
+          "onyomi": "",
+          "options": [
+            "Kehidupan",
+            "Menulis",
+            "Pergi",
+            "Masuk"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 9,
+          "kanji": "書",
+          "reading": "のむ",
+          "meaning": "Minum",
+          "onyomi": "ショ",
+          "options": [
+            "Minum",
+            "Tiga",
+            "Barat",
+            "Gunung"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 10,
+          "kanji": "出",
+          "reading": "でる",
+          "meaning": "Keluar",
+          "onyomi": "シュツ",
+          "options": [
+            "Sepuluh",
+            "Kekuatan",
+            "Keluar",
+            "Kuda"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "来",
+          "reading": "いく",
+          "meaning": "Pergi",
+          "onyomi": "",
+          "options": [
+            "Luar",
+            "Pergi",
+            "Utara",
+            "Bahasa, Kata"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 2,
+          "kanji": "飲",
+          "reading": "く る",
+          "meaning": "Datang",
+          "onyomi": "",
+          "options": [
+            "Cepat",
+            "Listrik",
+            "Datang",
+            "Baru"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 3,
+          "kanji": "⽴",
+          "reading": "たつ",
+          "meaning": "Berdiri",
+          "onyomi": "リツ",
+          "options": [
+            "Keluar",
+            "Minum",
+            "Tujuh",
+            "Berdiri"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 4,
+          "kanji": "⼊",
+          "reading": "はいる",
+          "meaning": "Masuk",
+          "onyomi": "ニュウ",
+          "options": [
+            "Kiri",
+            "Kanan",
+            "Sapi",
+            "Masuk"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 5,
+          "kanji": "⾒",
+          "reading": "みる",
+          "meaning": "Melihat",
+          "onyomi": "ケン",
+          "options": [
+            "Kekuatan",
+            "Melihat",
+            "Telinga",
+            "Api"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 6,
+          "kanji": "B",
+          "reading": "いう",
+          "meaning": "Bicara",
+          "onyomi": "",
+          "options": [
+            "Dua",
+            "Bawah",
+            "Sepuluh Ribu",
+            "Bicara"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 7,
+          "kanji": "M",
+          "reading": "たべる",
+          "meaning": "Makan",
+          "onyomi": "",
+          "options": [
+            "Enam",
+            "Pohon",
+            "Hari/Matahari",
+            "Makan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 8,
+          "kanji": "時",
+          "reading": "みち",
+          "meaning": "Jalan",
+          "onyomi": "",
+          "options": [
+            "Jalan",
+            "Perempuan",
+            "Delapan",
+            "Semangat, Pikiran"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 9,
+          "kanji": "買",
+          "reading": "かう",
+          "meaning": "Membeli",
+          "onyomi": "バイ",
+          "options": [
+            "Pohon",
+            "Membeli",
+            "Selatan",
+            "Hari/Matahari"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 10,
+          "kanji": "読",
+          "reading": "はなす",
+          "meaning": "Berbicara",
+          "onyomi": "",
+          "options": [
+            "Berbicara",
+            "Panjang",
+            "Membeli",
+            "Perempuan"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "M",
+          "reading": "よむ",
+          "meaning": "Membaca",
+          "onyomi": "",
+          "options": [
+            "Sapi",
+            "Membaca",
+            "Semangat, Pikiran",
+            "Kanan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 2,
+          "kanji": "語",
+          "reading": "とき",
+          "meaning": "Ketika",
+          "onyomi": "",
+          "options": [
+            "Lama, Tua",
+            "Kanan",
+            "Ketika",
+            "Kiri"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 3,
+          "kanji": "間",
+          "reading": "かたる",
+          "meaning": "Bahasa, Kata",
+          "onyomi": "",
+          "options": [
+            "Api",
+            "Membeli",
+            "Panjang",
+            "Bahasa, Kata"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 4,
+          "kanji": "聞",
+          "reading": "あいだ",
+          "meaning": "Antara",
+          "onyomi": "",
+          "options": [
+            "Antara",
+            "Enam",
+            "Siang",
+            "Anak"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 5,
+          "kanji": "休",
+          "reading": "きく",
+          "meaning": "Mendengar",
+          "onyomi": "",
+          "options": [
+            "Bertemu",
+            "Kerang",
+            "Mendengar",
+            "Air"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 6,
+          "kanji": "P",
+          "reading": "しゅう",
+          "meaning": "Pekan, Seminggu",
+          "onyomi": "",
+          "options": [
+            "Teman",
+            "Pekan, Seminggu",
+            "Tengah",
+            "Kuda"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 7,
+          "kanji": "B",
+          "reading": "やすむ",
+          "meaning": "Beristirahat, Libur",
+          "onyomi": "",
+          "options": [
+            "Semangat, Pikiran",
+            "Beristirahat, Libur",
+            "Ikan",
+            "Antara"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 8,
+          "kanji": "P",
+          "reading": "しろ",
+          "meaning": "Putih",
+          "onyomi": "",
+          "options": [
+            "Sungai",
+            "Air",
+            "Kerang",
+            "Putih"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 9,
+          "kanji": "⽩",
+          "reading": "でんき",
+          "meaning": "Listrik",
+          "onyomi": "ハク",
+          "options": [
+            "Listrik",
+            "Sapi",
+            "Mahal, Tinggi",
+            "Luar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 10,
+          "kanji": "花",
+          "reading": "はな",
+          "meaning": "Bunga",
+          "onyomi": "カ",
+          "options": [
+            "Setengah",
+            "Hari/Matahari",
+            "Bunga",
+            "Seratus"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "会",
+          "reading": "いま",
+          "meaning": "Sekarang",
+          "onyomi": "",
+          "options": [
+            "Putih",
+            "Lima",
+            "Sekarang",
+            "Ikan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 2,
+          "kanji": "電",
+          "reading": "あう",
+          "meaning": "Bertemu",
+          "onyomi": "",
+          "options": [
+            "Tengah",
+            "Bertemu",
+            "Perusahaan",
+            "Setiap"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 3,
+          "kanji": "国",
+          "reading": "く に",
+          "meaning": "Negara",
+          "onyomi": "コク",
+          "options": [
+            "Menulis",
+            "Bahasa, Kata",
+            "Negara",
+            "Bunga"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 4,
+          "kanji": "駅",
+          "reading": "えき",
+          "meaning": "Stasiun",
+          "onyomi": "エキ",
+          "options": [
+            "Surga",
+            "Air",
+            "Sapi",
+            "Stasiun"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 5,
+          "kanji": "店",
+          "reading": "みせ",
+          "meaning": "Toko",
+          "onyomi": "テン",
+          "options": [
+            "Kehidupan",
+            "Setelah, Belakang",
+            "Membeli",
+            "Toko"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 6,
+          "kanji": "L",
+          "reading": "そら",
+          "meaning": "Langit",
+          "onyomi": "",
+          "options": [
+            "Langit",
+            "Sapi",
+            "Sedikit",
+            "Api"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 7,
+          "kanji": "P",
+          "reading": "かいしゃ",
+          "meaning": "Perusahaan",
+          "onyomi": "",
+          "options": [
+            "Setengah",
+            "Utara",
+            "Perusahaan",
+            "Ikan"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ]
+}

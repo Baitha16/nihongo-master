@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>日本語マスター - Belajar Kosakata Jepang</title>
+  <link rel="stylesheet" href="css/style.css?v=54">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app">
+    <!-- Login Screen -->
+    <section id="screen-login" class="screen active login-screen">
+      <div class="login-container">
+        <div class="login-card">
+          <div class="login-logo">
+            <span class="logo-kanji">日本語</span>
+            <span class="logo-text">マスター</span>
+          </div>
+          <p class="login-subtitle">Masukkan kode lisensi Anda untuk mulai belajar</p>
+          <div class="login-form">
+            <input type="text" id="license-input" class="login-input" placeholder="XXXX-XXXX-XXXX-XXXX" maxlength="30" autocomplete="off" spellcheck="false">
+            <button id="btn-activate" class="btn-activate">Aktivasi</button>
+          </div>
+          <p class="login-error" id="login-error"></p>
+          <p class="login-info">Made with 💜 for Japanese learners everywhere</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main App (hidden until login) -->
+    <div id="app-main" style="display:none;">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-content">
+        <div class="logo">
+          <span class="logo-kanji">日本語</span>
+          <span class="logo-text">マスター</span>
+        </div>
+        <div class="header-actions">
+          <div class="streak-badge" id="streak-badge">
+            <span class="streak-fire">🔥</span>
+            <span class="streak-count" id="streak-count">0</span>
+          </div>
+          <button id="theme-toggle" class="btn-icon" title="Ganti Tema">
+            <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+            <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+          </button>
+          <div class="user-profile" id="user-profile">
+            <div class="user-avatar" id="user-avatar">👤</div>
+            <span class="user-name" id="user-name"></span>
+            <div class="user-dropdown" id="user-dropdown">
+              <div class="dropdown-header">
+                <div class="dropdown-avatar">👤</div>
+                <div class="dropdown-info">
+                  <span class="dropdown-owner" id="dropdown-owner"></span>
+                  <span class="dropdown-type" id="dropdown-type"></span>
+                </div>
+              </div>
+              <div class="dropdown-countdown" id="dropdown-countdown"></div>
+              <button class="btn-logout" id="btn-logout">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" y1="12" x2="9" y2="12"></line></svg>
+                Logout
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Home Screen -->
+      <section id="screen-home" class="screen active">
+        <div class="hero">
+          <div class="hero-kanji">学</div>
+          <h1 class="hero-title">日本語マスター</h1>
+          <p class="hero-subtitle">Belajar Kosakata Jepang dengan Menyenangkan</p>
+        </div>
+
+        <div class="stats-bar">
+          <button class="stat-card clickable" id="btn-show-mastered">
+            <span class="stat-value" id="total-mastered">0</span>
+            <span class="stat-label">Dikuasai</span>
+          </button>
+          <button class="stat-card clickable" id="btn-show-studied">
+            <span class="stat-value" id="total-studied">0</span>
+            <span class="stat-label">Dipelajari</span>
+          </button>
+          <button class="stat-card clickable" id="btn-show-score">
+            <span class="stat-value" id="best-score">0%</span>
+            <span class="stat-label">Skor Terbaik</span>
+          </button>
+        </div>
+
+        <!-- Hiragana & Katakana Section -->
+        <h2 class="section-title">Dasar Jepang</h2>
+        <div class="category-grid">
+          <button class="category-card" data-category="hiragana">
+            <div class="category-icon hiragana-icon">あ</div>
+            <div class="category-info">
+              <h3>Hiragana</h3>
+              <span class="category-jp">ひらがな</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill hiragana-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="katakana">
+            <div class="category-icon katakana-icon">ア</div>
+            <div class="category-info">
+              <h3>Katakana</h3>
+              <span class="category-jp">カタカナ</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill katakana-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+        </div>
+
+        <!-- Marked Words Review -->
+        <div class="marked-words-section" id="marked-words-section" style="display: none;">
+          <h2 class="section-title">📝 Kosakata Belum Hafal</h2>
+          <div class="marked-words-list" id="marked-words-list">
+          </div>
+        </div>
+
+        <!-- N4 Vocabulary Section -->
+        <h2 class="section-title">Kosakata JLPT N4</h2>
+        <div class="category-grid">
+          <button class="category-card" data-category="nouns">
+            <div class="category-icon">名</div>
+            <div class="category-info">
+              <h3>Kata Benda</h3>
+              <span class="category-jp">名詞 / Meishi</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill nouns-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="verbs">
+            <div class="category-icon">動</div>
+            <div class="category-info">
+              <h3>Kata Kerja</h3>
+              <span class="category-jp">動詞 / Doushi</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill verbs-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="adjectives">
+            <div class="category-icon">形</div>
+            <div class="category-info">
+              <h3>Kata Sifat</h3>
+              <span class="category-jp">形容詞 / Keiyoushi</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill adjectives-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="kanji">
+            <div class="category-icon kanji-icon">漢</div>
+            <div class="category-info">
+              <h3>Kuis Khusus Kanji</h3>
+              <span class="category-jp">漢字 / Kanji</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill kanji-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+        </div>
+
+        <!-- N5 Database Section -->
+        <h2 class="section-title">Kosakata JLPT N5</h2>
+        <div class="category-grid">
+          <button class="category-card" data-category="kotoba-n5">
+            <div class="category-icon" style="background: linear-gradient(135deg, #f39c12, #e67e22);">語</div>
+            <div class="category-info">
+              <h3>Kosakata N5</h3>
+              <span class="category-jp">語彙 / Kotoba N5</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill kotoba-n5-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="kanji-n5">
+            <div class="category-icon" style="background: linear-gradient(135deg, #8e44ad, #9b59b6);">漢</div>
+            <div class="category-info">
+              <h3>Kanji N5</h3>
+              <span class="category-jp">漢字 / Kanji N5</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill kanji-n5-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="bunpou-n5">
+            <div class="category-icon" style="background: linear-gradient(135deg, #16a085, #1abc9c);">文</div>
+            <div class="category-info">
+              <h3>Tata Bahasa N5</h3>
+              <span class="category-jp">文法 / Bunpou N5</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill bunpou-n5-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+        </div>
+
+        <!-- Coming Soon Section -->
+        <h2 class="section-title coming-soon-title">Segera Hadir</h2>
+        <div class="category-grid coming-soon">
+          <div class="category-card disabled" data-category="n3">
+            <div class="category-icon n3-icon">N3</div>
+            <div class="category-info">
+              <h3>JLPT N3</h3>
+              <span class="category-jp">中级</span>
+            </div>
+            <span class="coming-badge">Soon</span>
+          </div>
+          <div class="category-card disabled" data-category="bunpou">
+            <div class="category-icon bunpou-icon">文</div>
+            <div class="category-info">
+              <h3>Bunpou</h3>
+              <span class="category-jp">文法 / Grammar</span>
+            </div>
+            <span class="coming-badge">Soon</span>
+          </div>
+          <div class="category-card disabled" data-category="kaiwa">
+            <div class="category-icon kaiwa-icon">会</div>
+            <div class="category-info">
+              <h3>Kaiwa</h3>
+              <span class="category-jp">会話 / Conversation</span>
+            </div>
+            <span class="coming-badge">Soon</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Level Selection Screen -->
+      <section id="screen-levels" class="screen">
+        <button class="btn-back" id="btn-back-home">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+          Kembali
+        </button>
+        <h2 class="screen-title" id="level-screen-title">Pilih Level</h2>
+        <div class="level-grid" id="level-grid">
+          <!-- Levels will be generated by JS -->
+        </div>
+      </section>
+
+      <!-- Quiz Screen -->
+      <section id="screen-quiz" class="screen">
+        <div class="quiz-header">
+          <button class="btn-back" id="btn-back-levels">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            Keluar
+          </button>
+          <div class="quiz-info">
+            <span class="quiz-category-badge" id="quiz-category-badge"></span>
+            <span class="quiz-level-badge" id="quiz-level-badge"></span>
+          </div>
+          <button class="btn-reverse" id="btn-reverse" title="Ganti Mode Soal">
+            <span class="reverse-text">Soal Indonesia</span>
+          </button>
+          <div class="quiz-progress-bar">
+            <div class="quiz-progress-fill" id="quiz-progress-fill"></div>
+          </div>
+          <span class="quiz-counter" id="quiz-counter">1 / 10</span>
+        </div>
+
+        <div class="quiz-body">
+          <button class="question-nav-toggle" id="question-nav-toggle" title="Nomor Soal">
+            <span id="nav-toggle-text">1/10</span>
+          </button>
+          <div class="question-nav-overlay" id="question-nav-overlay"></div>
+          <div class="question-nav" id="question-nav">
+            <!-- Generated by JS -->
+          </div>
+          <div class="question-card" id="question-card">
+            <div class="question-kanji" id="question-kanji">山</div>
+            <div class="question-reading" id="question-reading">やま</div>
+            <div class="question-romaji" id="question-romaji"></div>
+            <p class="question-text">Apa artinya?</p>
+          </div>
+
+          <div class="options-grid" id="options-grid">
+            <button class="option-btn" data-index="0">
+              <span class="option-label">A</span>
+              <span class="option-text">Gunung</span>
+            </button>
+            <button class="option-btn" data-index="1">
+              <span class="option-label">B</span>
+              <span class="option-text">Laut</span>
+            </button>
+            <button class="option-btn" data-index="2">
+              <span class="option-label">C</span>
+              <span class="option-text">Sungai</span>
+            </button>
+            <button class="option-btn" data-index="3">
+              <span class="option-label">D</span>
+              <span class="option-text">Danau</span>
+            </button>
+          </div>
+          <div class="quiz-bottom-actions">
+            <button class="btn-mark" id="btn-mark">☐ Kosakata Belum Hafal</button>
+            <button class="btn-skip" id="btn-skip">Lewati →</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Repeat Screen -->
+      <section id="screen-repeat" class="screen">
+        <div class="quiz-header">
+          <button class="btn-back" id="btn-back-repeat">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            Keluar
+          </button>
+          <div class="quiz-info">
+            <span class="quiz-category-badge" id="repeat-category-badge">📝 Repeat</span>
+            <span class="quiz-level-badge" id="repeat-level-badge"></span>
+          </div>
+        </div>
+        <div class="quiz-body">
+          <div class="question-card" id="repeat-card">
+            <p class="question-text" id="repeat-question-text">Apa artinya?</p>
+            <h1 class="question-kanji" id="repeat-kanji"></h1>
+            <p class="question-reading" id="repeat-reading"></p>
+            <p class="question-romaji" id="repeat-romaji"></p>
+          </div>
+          <div class="repeat-answer" id="repeat-answer" style="display: none;">
+            <div class="repeat-answer-text" id="repeat-answer-text"></div>
+          </div>
+          <div class="repeat-actions">
+            <button class="btn-repeat-show" id="btn-repeat-show">Tampilkan Jawaban</button>
+            <div class="repeat-btn-group" id="repeat-btn-group" style="display: none;">
+              <button class="btn-repeat-mastered" id="btn-repeat-mastered">✓ Sudah Hafal</button>
+              <button class="btn-repeat-again" id="btn-repeat-again">↻ Ulangi Lagi</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Result Screen -->
+      <section id="screen-result" class="screen">
+        <div class="result-container">
+          <div class="result-icon" id="result-icon">🎉</div>
+          <h2 class="result-title" id="result-title">Hebat!</h2>
+          <div class="result-score-circle">
+            <svg viewBox="0 0 100 100">
+              <circle class="score-bg" cx="50" cy="50" r="45"/>
+              <circle class="score-fill" id="result-score-circle" cx="50" cy="50" r="45"/>
+            </svg>
+            <div class="score-value">
+              <span class="score-number" id="result-score-number">0</span>
+              <span class="score-percent">%</span>
+            </div>
+          </div>
+          <p class="result-detail" id="result-detail">7 dari 10 benar</p>
+
+          <div class="result-stats">
+            <div class="result-stat correct">
+              <span class="result-stat-icon">✓</span>
+              <span class="result-stat-value" id="result-correct">7</span>
+              <span class="result-stat-label">Benar</span>
+            </div>
+            <div class="result-stat wrong">
+              <span class="result-stat-icon">✗</span>
+              <span class="result-stat-value" id="result-wrong">3</span>
+              <span class="result-stat-label">Salah</span>
+            </div>
+          </div>
+
+          <div class="result-actions">
+            <button class="btn-primary" id="btn-review">Lihat Review</button>
+            <button class="btn-secondary" id="btn-retry">Coba Lagi</button>
+            <button class="btn-outline" id="btn-home">Kembali ke Menu</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Review Screen -->
+      <section id="screen-review" class="screen">
+        <div class="review-header">
+          <button class="btn-back" id="btn-back-result">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            Kembali
+          </button>
+          <h2 class="screen-title">Review Jawaban</h2>
+        </div>
+        <div class="review-list" id="review-list">
+          <!-- Review items will be generated by JS -->
+        </div>
+      </section>
+    </main>
+
+    <!-- Confetti Canvas -->
+    <canvas id="confetti-canvas"></canvas>
+    </div><!-- /app-main -->
+  </div>
+
+  <script src="js/data-loader.js?v=54"></script>
+  <script src="js/app.js?v=54"></script>
+</body>
+</html>

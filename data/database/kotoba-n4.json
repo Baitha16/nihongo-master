@@ -1,0 +1,41 @@
+{
+  "category": "Kosakata JLPT N4",
+  "categoryJapanese": "語彙 N4",
+  "categoryRomaji": "Kotoba N4",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "関西空港",
+          "reading": "かんさいくうこう",
+          "romaji": "Kansai kuukou",
+          "meaning": "Bandara Kansai",
+          "options": [
+            "Bandara Kansai",
+            "Barat"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "洋服",
+          "reading": "ようふく",
+          "romaji": "youfukupakaian",
+          "meaning": "Barat",
+          "options": [
+            "Barat",
+            "Bandara Kansai"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ]
+}

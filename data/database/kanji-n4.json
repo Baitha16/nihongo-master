@@ -1,0 +1,55 @@
+{
+  "category": "Kosakata JLPT N4",
+  "categoryJapanese": "語彙 N4",
+  "categoryRomaji": "Kotoba N4",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "森",
+          "reading": "もり        : Hutan",
+          "romaji": "",
+          "meaning": "",
+          "options": [
+            ""
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "池",
+          "reading": "いけ            : Kolam",
+          "romaji": "",
+          "meaning": "",
+          "options": [
+            ""
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "薬",
+          "reading": "くすり     : Obat",
+          "romaji": "",
+          "meaning": "",
+          "options": [
+            ""
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ]
+}

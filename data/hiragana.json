@@ -1,0 +1,1488 @@
+{
+  "category": "Hiragana",
+  "categoryJapanese": "ひらがな",
+  "categoryRomaji": "Hiragana",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "あ",
+          "reading": "あ",
+          "romaji": "a",
+          "meaning": "a",
+          "options": [
+            "se",
+            "no",
+            "ke",
+            "a"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 2,
+          "kanji": "い",
+          "reading": "い",
+          "romaji": "i",
+          "meaning": "i",
+          "options": [
+            "i",
+            "e",
+            "ke",
+            "ni"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 3,
+          "kanji": "う",
+          "reading": "う",
+          "romaji": "u",
+          "meaning": "u",
+          "options": [
+            "u",
+            "ku",
+            "so",
+            "ni"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 4,
+          "kanji": "え",
+          "reading": "え",
+          "romaji": "e",
+          "meaning": "e",
+          "options": [
+            "te",
+            "sa",
+            "e",
+            "a"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 5,
+          "kanji": "お",
+          "reading": "お",
+          "romaji": "o",
+          "meaning": "o",
+          "options": [
+            "shi",
+            "ki",
+            "su",
+            "o"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 6,
+          "kanji": "か",
+          "reading": "か",
+          "romaji": "ka",
+          "meaning": "ka",
+          "options": [
+            "shi",
+            "so",
+            "ka",
+            "sa"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 7,
+          "kanji": "き",
+          "reading": "き",
+          "romaji": "ki",
+          "meaning": "ki",
+          "options": [
+            "ke",
+            "e",
+            "se",
+            "ki"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 8,
+          "kanji": "く",
+          "reading": "く",
+          "romaji": "ku",
+          "meaning": "ku",
+          "options": [
+            "ku",
+            "ne",
+            "nu",
+            "a"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 9,
+          "kanji": "け",
+          "reading": "け",
+          "romaji": "ke",
+          "meaning": "ke",
+          "options": [
+            "se",
+            "ke",
+            "ku",
+            "nu"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 10,
+          "kanji": "こ",
+          "reading": "こ",
+          "romaji": "ko",
+          "meaning": "ko",
+          "options": [
+            "no",
+            "chi",
+            "e",
+            "ko"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 11,
+          "kanji": "さ",
+          "reading": "さ",
+          "romaji": "sa",
+          "meaning": "sa",
+          "options": [
+            "a",
+            "i",
+            "sa",
+            "ni"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 12,
+          "kanji": "し",
+          "reading": "し",
+          "romaji": "shi",
+          "meaning": "shi",
+          "options": [
+            "shi",
+            "na",
+            "so",
+            "su"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 13,
+          "kanji": "す",
+          "reading": "す",
+          "romaji": "su",
+          "meaning": "su",
+          "options": [
+            "ki",
+            "i",
+            "su",
+            "ni"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 14,
+          "kanji": "せ",
+          "reading": "せ",
+          "romaji": "se",
+          "meaning": "se",
+          "options": [
+            "ko",
+            "so",
+            "chi",
+            "se"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 15,
+          "kanji": "そ",
+          "reading": "そ",
+          "romaji": "so",
+          "meaning": "so",
+          "options": [
+            "o",
+            "so",
+            "se",
+            "ke"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 16,
+          "kanji": "た",
+          "reading": "た",
+          "romaji": "ta",
+          "meaning": "ta",
+          "options": [
+            "ko",
+            "ta",
+            "se",
+            "ne"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 17,
+          "kanji": "ち",
+          "reading": "ち",
+          "romaji": "chi",
+          "meaning": "chi",
+          "options": [
+            "ta",
+            "ki",
+            "nu",
+            "chi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 18,
+          "kanji": "つ",
+          "reading": "つ",
+          "romaji": "tsu",
+          "meaning": "tsu",
+          "options": [
+            "ki",
+            "su",
+            "tsu",
+            "so"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 19,
+          "kanji": "て",
+          "reading": "て",
+          "romaji": "te",
+          "meaning": "te",
+          "options": [
+            "so",
+            "te",
+            "shi",
+            "o"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 20,
+          "kanji": "と",
+          "reading": "と",
+          "romaji": "to",
+          "meaning": "to",
+          "options": [
+            "to",
+            "u",
+            "i",
+            "su"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 21,
+          "kanji": "な",
+          "reading": "な",
+          "romaji": "na",
+          "meaning": "na",
+          "options": [
+            "a",
+            "na",
+            "i",
+            "chi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 22,
+          "kanji": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "meaning": "ni",
+          "options": [
+            "ni",
+            "tsu",
+            "sa",
+            "u"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 23,
+          "kanji": "ぬ",
+          "reading": "ぬ",
+          "romaji": "nu",
+          "meaning": "nu",
+          "options": [
+            "nu",
+            "se",
+            "i",
+            "u"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 24,
+          "kanji": "ね",
+          "reading": "ね",
+          "romaji": "ne",
+          "meaning": "ne",
+          "options": [
+            "te",
+            "se",
+            "so",
+            "ne"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 25,
+          "kanji": "の",
+          "reading": "の",
+          "romaji": "no",
+          "meaning": "no",
+          "options": [
+            "o",
+            "e",
+            "ku",
+            "no"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 26,
+          "kanji": "は",
+          "reading": "は",
+          "romaji": "ha",
+          "meaning": "ha",
+          "options": [
+            "ri",
+            "yu",
+            "hi",
+            "ha"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 27,
+          "kanji": "ひ",
+          "reading": "ひ",
+          "romaji": "hi",
+          "meaning": "hi",
+          "options": [
+            "hi",
+            "ge",
+            "fu",
+            "n"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 28,
+          "kanji": "ふ",
+          "reading": "ふ",
+          "romaji": "fu",
+          "meaning": "fu",
+          "options": [
+            "ra",
+            "n",
+            "fu",
+            "mi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 29,
+          "kanji": "へ",
+          "reading": "へ",
+          "romaji": "he",
+          "meaning": "he",
+          "options": [
+            "mo",
+            "mi",
+            "he",
+            "wo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 30,
+          "kanji": "ほ",
+          "reading": "ほ",
+          "romaji": "ho",
+          "meaning": "ho",
+          "options": [
+            "ri",
+            "ho",
+            "ha",
+            "ge"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 31,
+          "kanji": "ま",
+          "reading": "ま",
+          "romaji": "ma",
+          "meaning": "ma",
+          "options": [
+            "yo",
+            "mu",
+            "mi",
+            "ma"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 32,
+          "kanji": "み",
+          "reading": "み",
+          "romaji": "mi",
+          "meaning": "mi",
+          "options": [
+            "mi",
+            "re",
+            "ha",
+            "hi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 33,
+          "kanji": "む",
+          "reading": "む",
+          "romaji": "mu",
+          "meaning": "mu",
+          "options": [
+            "he",
+            "mu",
+            "ma",
+            "ga"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 34,
+          "kanji": "め",
+          "reading": "め",
+          "romaji": "me",
+          "meaning": "me",
+          "options": [
+            "me",
+            "fu",
+            "wo",
+            "hi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 35,
+          "kanji": "も",
+          "reading": "も",
+          "romaji": "mo",
+          "meaning": "mo",
+          "options": [
+            "yu",
+            "mo",
+            "me",
+            "he"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 36,
+          "kanji": "や",
+          "reading": "や",
+          "romaji": "ya",
+          "meaning": "ya",
+          "options": [
+            "ga",
+            "ma",
+            "ya",
+            "ha"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 37,
+          "kanji": "ゆ",
+          "reading": "ゆ",
+          "romaji": "yu",
+          "meaning": "yu",
+          "options": [
+            "ya",
+            "ge",
+            "hi",
+            "yu"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 38,
+          "kanji": "よ",
+          "reading": "よ",
+          "romaji": "yo",
+          "meaning": "yo",
+          "options": [
+            "yo",
+            "wo",
+            "re",
+            "fu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 39,
+          "kanji": "ら",
+          "reading": "ら",
+          "romaji": "ra",
+          "meaning": "ra",
+          "options": [
+            "ho",
+            "fu",
+            "mi",
+            "ra"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 40,
+          "kanji": "り",
+          "reading": "り",
+          "romaji": "ri",
+          "meaning": "ri",
+          "options": [
+            "me",
+            "he",
+            "ru",
+            "ri"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 41,
+          "kanji": "る",
+          "reading": "る",
+          "romaji": "ru",
+          "meaning": "ru",
+          "options": [
+            "ru",
+            "n",
+            "hi",
+            "gu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 42,
+          "kanji": "れ",
+          "reading": "れ",
+          "romaji": "re",
+          "meaning": "re",
+          "options": [
+            "ri",
+            "he",
+            "ga",
+            "re"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 43,
+          "kanji": "ろ",
+          "reading": "ろ",
+          "romaji": "ro",
+          "meaning": "ro",
+          "options": [
+            "ha",
+            "gu",
+            "yo",
+            "ro"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 44,
+          "kanji": "わ",
+          "reading": "わ",
+          "romaji": "wa",
+          "meaning": "wa",
+          "options": [
+            "ra",
+            "wa",
+            "he",
+            "ro"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 45,
+          "kanji": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "meaning": "wo",
+          "options": [
+            "gu",
+            "ha",
+            "gi",
+            "wo"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 46,
+          "kanji": "ん",
+          "reading": "ん",
+          "romaji": "n",
+          "meaning": "n",
+          "options": [
+            "ha",
+            "wo",
+            "n",
+            "ra"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 47,
+          "kanji": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "meaning": "ga",
+          "options": [
+            "fu",
+            "ya",
+            "ga",
+            "wo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 48,
+          "kanji": "ぎ",
+          "reading": "ぎ",
+          "romaji": "gi",
+          "meaning": "gi",
+          "options": [
+            "gi",
+            "fu",
+            "hi",
+            "ro"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 49,
+          "kanji": "ぐ",
+          "reading": "ぐ",
+          "romaji": "gu",
+          "meaning": "gu",
+          "options": [
+            "fu",
+            "ru",
+            "hi",
+            "gu"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 50,
+          "kanji": "げ",
+          "reading": "げ",
+          "romaji": "ge",
+          "meaning": "ge",
+          "options": [
+            "yu",
+            "ge",
+            "me",
+            "re"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": 51,
+          "kanji": "ご",
+          "reading": "ご",
+          "romaji": "go",
+          "meaning": "go",
+          "options": [
+            "bo",
+            "za",
+            "go",
+            "po"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 52,
+          "kanji": "ざ",
+          "reading": "ざ",
+          "romaji": "za",
+          "meaning": "za",
+          "options": [
+            "za",
+            "ba",
+            "di",
+            "bi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 53,
+          "kanji": "じ",
+          "reading": "じ",
+          "romaji": "ji",
+          "meaning": "ji",
+          "options": [
+            "ji",
+            "da",
+            "be",
+            "pu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 54,
+          "kanji": "ず",
+          "reading": "ず",
+          "romaji": "zu",
+          "meaning": "zu",
+          "options": [
+            "da",
+            "bu",
+            "zu",
+            "po"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 55,
+          "kanji": "ぜ",
+          "reading": "ぜ",
+          "romaji": "ze",
+          "meaning": "ze",
+          "options": [
+            "zo",
+            "ze",
+            "zu",
+            "pi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 56,
+          "kanji": "ぞ",
+          "reading": "ぞ",
+          "romaji": "zo",
+          "meaning": "zo",
+          "options": [
+            "go",
+            "da",
+            "du",
+            "zo"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 57,
+          "kanji": "だ",
+          "reading": "だ",
+          "romaji": "da",
+          "meaning": "da",
+          "options": [
+            "ba",
+            "kyu",
+            "du",
+            "da"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 58,
+          "kanji": "ぢ",
+          "reading": "ぢ",
+          "romaji": "di",
+          "meaning": "di",
+          "options": [
+            "go",
+            "za",
+            "di",
+            "ba"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 59,
+          "kanji": "づ",
+          "reading": "づ",
+          "romaji": "du",
+          "meaning": "du",
+          "options": [
+            "da",
+            "zo",
+            "pu",
+            "du"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 60,
+          "kanji": "で",
+          "reading": "で",
+          "romaji": "de",
+          "meaning": "de",
+          "options": [
+            "kyu",
+            "di",
+            "ji",
+            "de"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 61,
+          "kanji": "ど",
+          "reading": "ど",
+          "romaji": "do",
+          "meaning": "do",
+          "options": [
+            "go",
+            "do",
+            "du",
+            "pu"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 62,
+          "kanji": "ば",
+          "reading": "ば",
+          "romaji": "ba",
+          "meaning": "ba",
+          "options": [
+            "bi",
+            "zo",
+            "pe",
+            "ba"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 63,
+          "kanji": "び",
+          "reading": "び",
+          "romaji": "bi",
+          "meaning": "bi",
+          "options": [
+            "ze",
+            "zu",
+            "bi",
+            "bo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 64,
+          "kanji": "ぶ",
+          "reading": "ぶ",
+          "romaji": "bu",
+          "meaning": "bu",
+          "options": [
+            "bu",
+            "za",
+            "ji",
+            "di"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 65,
+          "kanji": "べ",
+          "reading": "べ",
+          "romaji": "be",
+          "meaning": "be",
+          "options": [
+            "pu",
+            "do",
+            "po",
+            "be"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 66,
+          "kanji": "ぼ",
+          "reading": "ぼ",
+          "romaji": "bo",
+          "meaning": "bo",
+          "options": [
+            "sha",
+            "go",
+            "bo",
+            "za"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 67,
+          "kanji": "ぱ",
+          "reading": "ぱ",
+          "romaji": "pa",
+          "meaning": "pa",
+          "options": [
+            "go",
+            "ze",
+            "pa",
+            "ba"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 68,
+          "kanji": "ぴ",
+          "reading": "ぴ",
+          "romaji": "pi",
+          "meaning": "pi",
+          "options": [
+            "pi",
+            "zu",
+            "di",
+            "bu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 69,
+          "kanji": "ぷ",
+          "reading": "ぷ",
+          "romaji": "pu",
+          "meaning": "pu",
+          "options": [
+            "bi",
+            "da",
+            "pu",
+            "po"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 70,
+          "kanji": "ぺ",
+          "reading": "ぺ",
+          "romaji": "pe",
+          "meaning": "pe",
+          "options": [
+            "pe",
+            "zu",
+            "ba",
+            "za"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 71,
+          "kanji": "ぽ",
+          "reading": "ぽ",
+          "romaji": "po",
+          "meaning": "po",
+          "options": [
+            "sha",
+            "go",
+            "po",
+            "zo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 72,
+          "kanji": "きゃ",
+          "reading": "きゃ",
+          "romaji": "kya",
+          "meaning": "kya",
+          "options": [
+            "di",
+            "bo",
+            "kya",
+            "po"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 73,
+          "kanji": "きゅ",
+          "reading": "きゅ",
+          "romaji": "kyu",
+          "meaning": "kyu",
+          "options": [
+            "kyu",
+            "be",
+            "do",
+            "za"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 74,
+          "kanji": "きょ",
+          "reading": "きょ",
+          "romaji": "kyo",
+          "meaning": "kyo",
+          "options": [
+            "kya",
+            "kyo",
+            "zu",
+            "sha"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 75,
+          "kanji": "しゃ",
+          "reading": "しゃ",
+          "romaji": "sya",
+          "meaning": "sha",
+          "options": [
+            "bi",
+            "go",
+            "sha",
+            "pa"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        {
+          "id": 76,
+          "kanji": "しゅ",
+          "reading": "しゅ",
+          "romaji": "syu",
+          "meaning": "shu",
+          "options": [
+            "shu",
+            "nyu",
+            "nyo",
+            "mya"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 77,
+          "kanji": "しょ",
+          "reading": "しょ",
+          "romaji": "syo",
+          "meaning": "sho",
+          "options": [
+            "chu",
+            "hyo",
+            "sho",
+            "myu"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 78,
+          "kanji": "ちゃ",
+          "reading": "ちゃ",
+          "romaji": "cya",
+          "meaning": "cha",
+          "options": [
+            "cha",
+            "ja",
+            "cho",
+            "shu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 79,
+          "kanji": "ちゅ",
+          "reading": "ちゅ",
+          "romaji": "cyu",
+          "meaning": "chu",
+          "options": [
+            "chu",
+            "myu",
+            "hya",
+            "rya"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 80,
+          "kanji": "ちょ",
+          "reading": "ちょ",
+          "romaji": "cyo",
+          "meaning": "cho",
+          "options": [
+            "hyu",
+            "byu",
+            "shu",
+            "cho"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 81,
+          "kanji": "にゃ",
+          "reading": "にゃ",
+          "romaji": "nya",
+          "meaning": "nya",
+          "options": [
+            "nyo",
+            "nya",
+            "gyo",
+            "myo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 82,
+          "kanji": "にゅ",
+          "reading": "にゅ",
+          "romaji": "nyu",
+          "meaning": "nyu",
+          "options": [
+            "nyu",
+            "byu",
+            "cho",
+            "ryu"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 83,
+          "kanji": "にょ",
+          "reading": "にょ",
+          "romaji": "nyo",
+          "meaning": "nyo",
+          "options": [
+            "byu",
+            "nyo",
+            "cha",
+            "myo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 84,
+          "kanji": "ひゃ",
+          "reading": "ひゃ",
+          "romaji": "hya",
+          "meaning": "hya",
+          "options": [
+            "hya",
+            "hyu",
+            "shu",
+            "cho"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 85,
+          "kanji": "ひゅ",
+          "reading": "ひゅ",
+          "romaji": "hyu",
+          "meaning": "hyu",
+          "options": [
+            "hya",
+            "ja",
+            "hyu",
+            "mya"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 86,
+          "kanji": "ひょ",
+          "reading": "ひょ",
+          "romaji": "hyo",
+          "meaning": "hyo",
+          "options": [
+            "nya",
+            "gyu",
+            "hyo",
+            "gyo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 87,
+          "kanji": "みゃ",
+          "reading": "みゃ",
+          "romaji": "mya",
+          "meaning": "mya",
+          "options": [
+            "hyu",
+            "nyo",
+            "nyu",
+            "mya"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 88,
+          "kanji": "みゅ",
+          "reading": "みゅ",
+          "romaji": "myu",
+          "meaning": "myu",
+          "options": [
+            "nyo",
+            "shu",
+            "rya",
+            "myu"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 89,
+          "kanji": "みょ",
+          "reading": "みょ",
+          "romaji": "myo",
+          "meaning": "myo",
+          "options": [
+            "myo",
+            "gyu",
+            "gyo",
+            "nyo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 90,
+          "kanji": "りゃ",
+          "reading": "りゃ",
+          "romaji": "rya",
+          "meaning": "rya",
+          "options": [
+            "ja",
+            "rya",
+            "ju",
+            "myu"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 91,
+          "kanji": "りゅ",
+          "reading": "りゅ",
+          "romaji": "ryu",
+          "meaning": "ryu",
+          "options": [
+            "jo",
+            "myo",
+            "ryu",
+            "rya"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 92,
+          "kanji": "りょ",
+          "reading": "りょ",
+          "romaji": "ryo",
+          "meaning": "ryo",
+          "options": [
+            "ryo",
+            "chu",
+            "nyu",
+            "jo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 93,
+          "kanji": "ぎゃ",
+          "reading": "ぎゃ",
+          "romaji": "gya",
+          "meaning": "gya",
+          "options": [
+            "gya",
+            "nyo",
+            "shu",
+            "hyo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 94,
+          "kanji": "ぎゅ",
+          "reading": "ぎゅ",
+          "romaji": "gyu",
+          "meaning": "gyu",
+          "options": [
+            "nyu",
+            "rya",
+            "ju",
+            "gyu"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 95,
+          "kanji": "ぎょ",
+          "reading": "ぎょ",
+          "romaji": "gyo",
+          "meaning": "gyo",
+          "options": [
+            "cha",
+            "gyo",
+            "chu",
+            "nya"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 96,
+          "kanji": "じゃ",
+          "reading": "じゃ",
+          "romaji": "jya",
+          "meaning": "ja",
+          "options": [
+            "myo",
+            "chu",
+            "rya",
+            "ja"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 97,
+          "kanji": "じゅ",
+          "reading": "じゅ",
+          "romaji": "jyu",
+          "meaning": "ju",
+          "options": [
+            "ju",
+            "hya",
+            "gyo",
+            "ryo"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 98,
+          "kanji": "じょ",
+          "reading": "じょ",
+          "romaji": "jyo",
+          "meaning": "jo",
+          "options": [
+            "cho",
+            "jo",
+            "nya",
+            "gya"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 99,
+          "kanji": "びゃ",
+          "reading": "びゃ",
+          "romaji": "bya",
+          "meaning": "bya",
+          "options": [
+            "cho",
+            "hyo",
+            "bya",
+            "chu"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 100,
+          "kanji": "びゅ",
+          "reading": "びゅ",
+          "romaji": "byu",
+          "meaning": "byu",
+          "options": [
+            "byu",
+            "nyu",
+            "hyo",
+            "chu"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        {
+          "id": 101,
+          "kanji": "びょ",
+          "reading": "びょ",
+          "romaji": "byo",
+          "meaning": "byo",
+          "options": [
+            "byo",
+            "pyo",
+            "pyu",
+            "pya"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 102,
+          "kanji": "ぴゃ",
+          "reading": "ぴゃ",
+          "romaji": "pya",
+          "meaning": "pya",
+          "options": [
+            "pyo",
+            "pya",
+            "pyu",
+            "byo"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 103,
+          "kanji": "ぴゅ",
+          "reading": "ぴゅ",
+          "romaji": "pyu",
+          "meaning": "pyu",
+          "options": [
+            "pyo",
+            "pya",
+            "pyu",
+            "byo"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 104,
+          "kanji": "ぴょ",
+          "reading": "ぴょ",
+          "romaji": "pyo",
+          "meaning": "pyo",
+          "options": [
+            "pyu",
+            "pyo",
+            "pya",
+            "byo"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    }
+  ]
+}

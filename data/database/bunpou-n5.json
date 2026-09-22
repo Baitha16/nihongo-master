@@ -1,0 +1,2563 @@
+{
+  "category": "bunpou-n5",
+  "categoryJapanese": "文法",
+  "categoryRomaji": "Bunpou",
+  "description": "Grammar studies for JLPT N5",
+  "babs": [
+    {
+      "bab": 1,
+      "title": "Kalimat Nominal, Identitas, & Partikel Dasar",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Benda₁ は Kata Benda₂ です",
+          "body": "Partikel は (dibaca wa) menunjukkan bahwa kata sebelumnya adalah topik kalimat (Topik dan Subjek). Pembicara memakai は untuk hal yang mau dibicarakannya, kemudian membuat kalimat dengan menambahkan deskripsi.\nです menyatakan Predikat, kesopanan, penilaian, dan kepastian terhadap lawan bicara. (Bentuk berubah jika\nnegatif/lampau).",
+          "pattern": "Kata Benda + です = ...adalah",
+          "examples": [
+            {
+              "jp": "わたしは マイク•ミラーです。",
+              "translation": "Saya Mike Miller."
+            },
+            {
+              "jp": "わたしは 会社(かいしゃ)員(かいしゃいん)です。",
+              "translation": "Saya pegawai perusahaan."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Benda₁ は Kata Benda₂ じゃ (では) ありません",
+          "body": "Bentuk negatif untuk です.\nDalam percakapan sehari-hari sering digunakan じゃ ありません. Dalam pidato resmi atau bahasa tertulis digunakan では ありません.\n[Perhatian] は dari では diucapkan wa.",
+          "pattern": "Kata Benda₁ + は + Kata Benda₂ + じゃ (では) ありません = ...bukan",
+          "examples": [
+            {
+              "jp": "サントスさんは 学生じ(がくせい)ゃありません。",
+              "translation": "Sdr. Santos bukan mahasiswa."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda₁ は Kata Benda₂ ですか (Kalimat Tanya)",
+          "body": "Partikel か menyatakan perasaan ketidakpastian atau heran si pembicara. Dengan memakai か pada akhir kalimat maka dapat membuat kalimat tanya (disertai intonasi naik).\nMenanyakan \"Ya\" atau \"Tidak\": Tanpa mengubah susunan kata, bubuhkan か di akhir kalimat. Jika benar jawab はい (hai), jika salah jawab いいえ (iie).\nKalimat Tanya dengan Kata Tanya: Bagian isi yang ingin ditanyakan diganti dengan kata tanya, dan dibubuhkan\nか di akhir kalimat.",
+          "pattern": "Kata Benda₁ + は + Kata Benda₂ + ですか = Apakah ...?",
+          "examples": [
+            {
+              "jp": "ミラーさんは アメリカ人で(じん)すか。……はい、アメリカ人です。",
+              "translation": "Apakah Sdr. Miller orang Amerika? ……Ya, orang Amerika."
+            },
+            {
+              "jp": "ミラーさんは 先生で(せんせい)すか。……いいえ、先生じゃありません。",
+              "translation": "Apakah Sdr. Miller guru? ……Bukan, dia bukan guru."
+            },
+            {
+              "jp": "あの \\どなたですか。……[あの \\] ミラーさんです。",
+              "translation": "Siapakah orang itu? ……[Beliau] Sdr. Miller."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda も (Juga)",
+          "body": "Digunakan apabila menyatakan predikatnya dianggap sama dengan predikat sebelumnya.",
+          "pattern": "Kata Benda + も + です = ...juga",
+          "examples": [
+            {
+              "jp": "ミラーさんは 会社(かいしゃ)員(かいしゃいん) です。グプタさんも 会社員 です。",
+              "translation": "Sdr. Miller pegawai perusahaan. Sdr. Gupta juga pegawai perusahaan."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda₁ の Kata Benda₂ (Atribut / Kepemilikan)",
+          "body": "Jika Kata Benda₁ di depan menerangkan Kata Benda₂ di belakangnya, maka disambung dengan の. Pada Pelajaran 1, Kata Benda₁ menunjukkan satu kesatuan Kata Benda₂.",
+          "pattern": "Kata Benda₁ + の + Kata Benda₂ = ...milik...",
+          "examples": [
+            {
+              "jp": "ミラーさんは IMCの 社員(しゃいん) です。",
+              "translation": "Sdr. Miller pegawai perusahaan IMC."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "～さん (Akhiran & Kata Ganti)",
+          "body": "Memakai さん di belakang marga/nama lawan bicara atau orang pihak ketiga untuk kesopanan (tidak dipakai untuk diri sendiri). Anak kecil dengan rasa akrab dipakai ちゃん.\nKetika memanggil lawan bicara yang telah dikenal, nama dibubuhi さん.\n[Perhatian] あなた (anata) digunakan terhadap orang yang berhubungan sangat dekat (suami istri, pacar, dll).\nMenggunakannya ke orang yang tidak dekat memberi kesan kurang sopan.",
+          "pattern": "Nama + さん = Ibu/Bapak...",
+          "examples": [
+            {
+              "jp": "あの \\ ミラーさんです。",
+              "translation": "Beliau Sdr. Miller."
+            },
+            {
+              "jp": "鈴木(すずき): ミラーさんは 学生で(がくせい)すか。 / ミラー: いいえ、会社(かいしゃ)員(かいしゃいん) です。",
+              "translation": "Suzuki: Apakah Sdr. Miller mahasiswa? / Miller: Bukan, saya pegawai perusahaan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 2,
+      "title": "Kata Penunjuk (Kore, Sore, Are & Kono, Sono, Ano)",
+      "points": [
+        {
+          "num": 1,
+          "title": "これ / それ / あれ (Kata Penunjuk Benda)",
+          "body": "これ: Menunjukkan benda yang ada di dekat si pembicara.\nそれ: Menunjukkan benda yang ada di dekat lawan bicara.\nあれ: Menunjukkan benda yang ada jauh dari pembicara dan lawan bicara.",
+          "pattern": "Kata Benda + です = ...adalah",
+          "examples": [
+            {
+              "jp": "それは 辞書(じしょ) ですか。……はい、そうです。",
+              "translation": "Apakah ini kamus? ……Ya, betul."
+            },
+            {
+              "jp": "これは だれの\\すか。",
+              "translation": "Ini payung siapa?"
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "この Kata Benda / その Kata Benda / あの Kata Benda",
+          "body": "Jika menerangkan Kata Benda, dipakai この, その, あの.",
+          "pattern": "Kata Benda₁ + は + Kata Benda₂ + じゃ (では) ありません = ...bukan",
+          "examples": [
+            {
+              "jp": "この \\ わたしの です。",
+              "translation": "Buku ini kepunyaan saya."
+            },
+            {
+              "jp": "あの \\ どなたですか。",
+              "translation": "Siapakah beliau?"
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "そうです / 違います",
+          "body": "そうです: Digunakan dalam kalimat nominal yang menanyakan positif atau negatif, lazim menjawab dengan kalimat はい、そうです.\nBentuk negatif, tidak lazim menjawab dengan そう, tetapi menyatakan jawaban yang sebenarnya digunakan ちがいます (違います / bukan), atau menyatakan jawaban sebenarnya.",
+          "pattern": "Kata Kerja + ます / ません = ...akukan / Tidak...akukan",
+          "examples": [
+            {
+              "jp": "それは 辞書(じしょ) ですか。……はい、そうです。",
+              "translation": "Apakah itu kamus? ……Ya, betul."
+            },
+            {
+              "jp": "それは ミラーさんの ですか。……いいえ、\\ます。",
+              "translation": "Apakah itu punya Sdr. Miller? ……Bukan."
+            },
+            {
+              "jp": "それは シャープペンシルですか。……いいえ、ボールペンです。",
+              "translation": "Apakah itu pensil isi ulang? ……Bukan, bolpoin."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "～か、～か (Kalimat Tanya Pilihan)",
+          "body": "Memberi pilihan yang lebih dari dua, kemudian lawan bicara memilih yang benar. Untuk jawaban, tidak dibubuhi はい、いいえ, tetapi langsung menyatakan kalimat yang dipilih.",
+          "pattern": "～か + ～か = ...atau...?",
+          "examples": [
+            {
+              "jp": "これは 「9」ですか、「7」ですか。……「9」です。",
+              "translation": "Apakah ini \"9\" atau \"7\"? ……\"9\"."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda₁ の Kata Benda₂ (Menerangkan Keterangan)",
+          "body": "Kata Benda₁ menerangkan sesuatu dari Kata Benda₂ (misal kepemilikan/asal).\nKata Benda₁ menyatakan pemilik Kata Benda₂.",
+          "pattern": "Kata Benda₁ + の + Kata Benda₂ = ...milik...",
+          "examples": [
+            {
+              "jp": "これは コンピューターの \\す。",
+              "translation": "Ini buku komputer."
+            },
+            {
+              "jp": "これは わたしの \\す。",
+              "translation": "Ini buku saya."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "の (Berfungsi sebagai Pengganti Kata Benda)",
+          "body": "の digunakan untuk mengganti Kata Benda yang terdapat sebelumnya (misal かばん). Seperti contoh ⑪, jika diletakkan di belakang Kata Benda₂ (さとうさん), maka bentuk kalimat menjadi sama maknanya dengan dihilangkannya Kata Benda₂ (さとうさんの かばん). の dari Kata Benda₁ の Kata Benda₂ tidak digunakan sebagai pengganti kata benda, tetapi tidak digunakan sebagai pengganti orang.",
+          "pattern": "Kata Benda + の (pengganti) = ...punya",
+          "examples": [
+            {
+              "jp": "あれは だれの かばんですか。……佐藤さ(さとう)んの[かばん]です。",
+              "translation": "Itu tas siapa? ……Kepunyaan Sdr. Sato."
+            },
+            {
+              "jp": "この かばん は あなたのですか。……いいえ、わたしのじゃ ありません。……佐藤さ(さとう)んのです。",
+              "translation": "Apakah tas ini tas Anda? ……Bukan, bukan kepunyaan saya. ……Kepunyaan Sdr. Sato."
+            },
+            {
+              "jp": "ミラーさんは IMCの 社員(しゃいん) ですか。……はい、IMCの 社員 です。",
+              "translation": "Apakah Sdr. Miller pegawai perusahaan IMC? ……Ya, pegawai perusahaan IMC."
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "title": "お～ (Awalan Kesopanan)",
+          "body": "Dibubuhkan pada Kata Benda dan berfungsi untuk menyatakan kesopanan (Contoh: [お]みやげ, [お]さけ).",
+          "pattern": "お + Kata Benda = Ibu/Bapak...",
+          "examples": []
+        },
+        {
+          "num": 8,
+          "title": "そうですか",
+          "body": "Ketika mendapatkan informasi baru, ekspresi ini digunakan untuk menyatakan telah mengerti. Diucapkan dengan intonasi menurun.",
+          "pattern": "Kata Benda + ですか = Apakah ...?",
+          "examples": [
+            {
+              "jp": "⑭ この \\ あなたのですか。……いいえ、\\ます。シュミットさんのです。……そうですか。",
+              "translation": "Apakah payung ini punya Anda? ……Bukan, salah. Punya Sdr. Schmidt. ……O, begitu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 3,
+      "title": "Kata Penunjuk Tempat & Asal Buatan (Koko, Soko, Asoko)",
+      "points": [
+        {
+          "num": 1,
+          "title": "ここ / そこ / あそこ / こちら / そちら / あちら (Tempat)",
+          "body": "ここ、そこ、あそこ menunjukkan tempat.\nここ menunjukkan tempat di mana si pembicara berada, そこ menunjukkan tempat di mana lawan bicara berada, dan あそこ menunjukkan tempat yang jauh dari keduanya.\nこちら、そちら、あちら dapat dipakai untuk menunjukkan arah, tetapi juga dapat dipakai untuk menunjukan tempat yang dapat dilihat oleh mata yang digantikan dengan ここ、そこ、あそこ. Dalam hal ini こちら、そちら、あちら menyatakan perasaan yang lebih sopan.\n[Perhatian] Jika si pembicara menganggap bahwa tempat di mana kedua-duanya berada, maka tempat yang sedikit jauh dikatakan そこ, dan tempat yang jauh dikatakan あそこ.",
+          "pattern": "ここ / そこ / あそこ + は + ～です = Di sini/Di sana...",
+          "examples": [
+            {
+              "jp": "お手(て)洗いは あそこです。",
+              "translation": "Kamar kecil di sana."
+            },
+            {
+              "jp": "電話は(でんわ) 2階です。",
+              "translation": "Telepon di lantai dua."
+            },
+            {
+              "jp": "山田さ(やまだ)んは 事務所(じむしょ) です。",
+              "translation": "Sdr. Yamada di kantor."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Benda は Tempat です",
+          "body": "Digunakan untuk menyatakan lokasi suatu benda.\n• は menunjukkan topik kalimat\n• です menyatakan predikat",
+          "pattern": "Kata Benda + は + Tempat + です = ...ada di...",
+          "examples": [
+            {
+              "jp": "すみません、お手(て)洗は どこですか。",
+              "translation": "(Maaf, di mana toilet?)"
+            },
+            {
+              "jp": "あそこは ぎんこう です。",
+              "translation": "(Di sana adalah bank.)"
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "どこ / どちら (Kata Tanya Tempat)",
+          "body": "どこ adalah Kata Tanya untuk tempat, dan どちら adalah Kata Tanya untuk arah. Untuk bertanya tempat, adakalanya digunakan どちら. Dalam hal ini, menggunakan どちら menjadi lebih sopan daripada menggunakan どこ.",
+          "pattern": "どこ / どちら = Di mana?",
+          "examples": []
+        },
+        {
+          "num": 4,
+          "title": "Daftar コ / ソ / ア / ド (Kata Penunjuk Lengkap)",
+          "body": "",
+          "pattern": "Kata Benda₁ + の + Kata Benda₂ = ...milik...",
+          "examples": []
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda₁ の Kata Benda₂ (Negara Asal / Perusahaan Produk)",
+          "body": "Jika Kata Benda₁ adalah nama negara dan Kata Benda₂ adalah produknya, maka Kata Benda₁ の berarti buatan dari negara tersebut. Kalau Kata Benda₁ adalah nama perusahaan, dan Kata Benda₂ adalah produknya, Kata Benda₁ の berarti buatan perusahaan tersebut. Untuk kedua pertanyaan digunakan Kata Tanya どこ.\nKategori\nKelompok こ (Koko/ Kore)\nKelompok そ (Soko/ Sore)\nKelompok あ (Asoko/ Are)\nKelompok ど (Doko/ Dore)\nBarang\nこれ (kore)\nそれ (sore)\nあれ (are)\nどれ (dore) [Pel.16]\nBarang / Orang\nこの Kata Benda\nその Kata Benda\nあの Kata Benda\nどの Kata Benda\nTempat\nここ (koko)\nそこ (soko)\nあそこ (asoko)\nどこ (doko)\nTempat / Arah (Halus)\nこちら (kochira)\nそちら (sochira)\nあちら (achira)\nどちら (dochira)",
+          "pattern": "コ / ソ / ア / ド + Kata Benda = Kata tunjuk...",
+          "examples": [
+            {
+              "jp": "学校(がっこう) は どこですか。",
+              "translation": "Sekolah di mana?"
+            },
+            {
+              "jp": "会社は(かいしゃ) どちらですか。",
+              "translation": "Perusahaan mana?"
+            },
+            {
+              "jp": "これは どこの コンピューターですか。……日本(にほん) の コンピューターです。……パワー電気の(でんき) コンピューターです。",
+              "translation": "Ini komputer buatan mana? ……Komputer buatan Jepang. ……Komputer Power Elektronik."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "[お]国 (Prefiks Kehormatan お)",
+          "body": "Prefiks お dibubuhkan pada hal-hal yang bersangkutan dengan lawan bicara atau orang pihak ketiga untuk menyatakan rasa hormat dari si pembicara.",
+          "pattern": "お + 国 (くに) = Ibu/Bapak...",
+          "examples": [
+            {
+              "jp": "[お] \\ どちらですか。",
+              "translation": "Berasal dari mana?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 4,
+      "title": "Waktu, Jam, Bilangan, & Konjugasi Kata Kerja Masu",
+      "points": [
+        {
+          "num": 1,
+          "title": "今 (Ima)～時 (Ji) / ～分 (Fun/Pun) — Jam & Menit",
+          "body": "Untuk menyatakan waktu, dibubuhkan Kata Bantu Bilangan 時 (じ) dan 分 (ふん) di belakang angka.\nCara baca:\n• Angka 2, 5, 7 di depan 分 dibaca ふん\n• Angka 1, 3, 4, 6, 8, 10 di depan 分 dibaca ぷん\n• Angka 1, 6, 8, 10 di depan 分: いっ、ろっ、はっ、とっ\nUntuk menanyakan waktu, gunakan 何時(なんじ) di depan 時.",
+          "pattern": "～時 (じ) / ～分 (ふん) = Jam...Menit",
+          "examples": [
+            {
+              "jp": "今(いま) 何時(なんじ) ですか。……7時10分です。",
+              "translation": "Sekarang pukul berapa? ……Pukul tujuh lewat sepuluh menit."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja ～ます / ません / ました / ませんでした",
+          "body": "Kata Kerja ます digunakan untuk menjelaskan kebiasaan dan kebenaran saat ini, serta aksi dan peristiwa yang akan terjadi di masa depan. ます menyatakan sikap halus terhadap lawan bicara.\n\nTabel Konjugasi Waktu:\n• Non-Lampau Positif: ます (contoh: おきます = bangun)\n• Non-Lampau Negatif: ません (contoh: おきません = tidak bangun)\n• Lampau Positif: ました (contoh: おきました = sudah bangun)\n• Lampau Negatif: ませんでした (contoh: おきませんでした = tidak bangun)",
+          "pattern": "Kata Kerja + ます / ません / ました / ませんでした = ...akukan / Tidak... / Sudah... / Belum...",
+          "examples": [
+            {
+              "jp": "わたしは 毎日(まいにち) 勉強(べんきょう) します。",
+              "translation": "(Saya belajar setiap hari.)"
+            },
+            {
+              "jp": "毎朝(まいあさ) 6時に 起きます(おきます)。",
+              "translation": "(Setiap pagi saya bangun pukul enam.)"
+            },
+            {
+              "jp": "明日(あした) 6時に 起きます(おきます)。",
+              "translation": "(Besok saya bangun pukul enam.)"
+            },
+            {
+              "jp": "昨日(きのう) 6時に 起き(お)ました。",
+              "translation": "(Kemarin saya bangun pukul enam.)"
+            },
+            {
+              "jp": "きのう 勉強(べんきょう) しましたか。……はい、勉強 しました。 / ……いいえ、勉強 しませんでした。",
+              "translation": "(Kemarin belajar? ……Ya, belajar. / ……Tidak, tidak belajar.)"
+            },
+            {
+              "jp": "毎朝(まいあさ) 何時に(なんじ) 起きます(おきます)か。……6時に 起きます(おきます)。",
+              "translation": "(Setiap pagi bangun pukul berapa? ……Bangun pukul enam.)"
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda (Waktu) に Kata Kerja",
+          "body": "Setelah Kata Benda yang menunjukkan waktu, dibubuhkan partikel に untuk menunjukkan waktu ketika melakukan sesuatu.\n([Perhatian] Kata Benda yang menunjukkan waktu seperti di bawah ini, tidak dibubuhkan に: きょう、あした、あさって、きのう、おととい、けさ、こんばん、いま、まいばん、まいしゅう、こんしゅう、らいしゅう、こんげつ、らいげつ、ことし、らいねん dll).",
+          "pattern": "Kata Benda (時間) + に + Kata Kerja = Pada waktu...,...lakukan",
+          "examples": [
+            {
+              "jp": "6時半に(じはん) 起きます(おきます)。",
+              "translation": "Bangun pukul setengah tujuh."
+            },
+            {
+              "jp": "7月(つき)2日に 日米(にちべい) へ 来ました(きました)。",
+              "translation": "Datang ke Jepang pada tanggal 2 Juli yang lalu."
+            },
+            {
+              "jp": "きのう 勉強(べんきょう) しました。",
+              "translation": "Kemarin belajar."
+            },
+            {
+              "jp": "日曜日(にちようび) [に] 奈良へ(なら) 行きます(いきます)。",
+              "translation": "Pada hari Minggu, pergi ke Nara."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda₁ から Kata Benda₂ まで",
+          "body": "から menunjukkan titik permulaan waktu atau tempat, sedangkan まで menunjukkan titik akhir waktu atau tempat.\nMenghabiskan waktu tiga jam dari Osaka sampai ke Tokyo. (大阪から 東京まで 3時間 かかります)",
+          "pattern": "Kata Benda₁ + から + Kata Benda₂ + まで = Dari...sampai...",
+          "examples": [
+            {
+              "jp": "9時から 5時まで 勉強(べんきょう) します。",
+              "translation": "Belajar dari pukul sembilan sampai dengan pukul lima."
+            },
+            {
+              "jp": "大阪か(おおさか)ら 東京(とうきょう)まで 3時間() かかります。",
+              "translation": "Menghabiskan waktu tiga jam dari Osaka sampai di Tokyo."
+            },
+            {
+              "jp": "9時から 働き(はたら)ます。",
+              "translation": "Bekerja dari pukul sembilan."
+            },
+            {
+              "jp": "銀行(ぎんこう) は 9時から 3時まで です。",
+              "translation": "Bank dibuka dari pukul sembilan sampai dengan pukul tiga."
+            },
+            {
+              "jp": "昼休(ひるやすみ) みは 12時から です。",
+              "translation": "Waktu istirahat siang dari pukul dua belas."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda₁ と Kata Benda₂",
+          "body": "Jika menyambung Kata Benda secara setaraf, Kata Benda dan Kata Benda disambuung dengan と.",
+          "pattern": "Kata Benda₁ + と + Kata Benda₂ = ...dan...",
+          "examples": [
+            {
+              "jp": "⑰ 銀行の(ぎんこう) \\は 土曜日(どようび) と日曜日(にちようび) です。",
+              "translation": "Hari libur bank adalah hari Sabtu dan hari Minggu."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "～ね (Partikel Penegas)",
+          "body": "Kata Bantu ね dibubuhkan di akhir kalimat, dan digunakan ketika mengharapkan persetujuan dari lawan bicara, menegaskan, atau menekankan.",
+          "pattern": "Kalimat + ね = ...ya/...kan",
+          "examples": [
+            {
+              "jp": "毎日(まいにち) 10時まで 勉強(べんきょう) します。……大変(たいへん) ですね。",
+              "translation": "Setiap hari belajar sampai pukul sepuluh. ……O, berat ya."
+            },
+            {
+              "jp": "山田さ(やまだ)んの 電話(でんわ)番号(でんわばんごう) は 871の 6813 ですね。……871-6813、や。",
+              "translation": "Nomor telepon Sdr. Yamada 871-6813. ……871-6813, ya."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 5,
+      "title": "Kata Kerja Perpindahan, Kendaraan, & Partikel Pendukung",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Benda (Tempat) へ 行きます / 来ます / 帰ります",
+          "body": "Jika menunjukkan pindah, arah pindahnya dinyatakan dengan membubuhkan partikel へ (e).\n([Perhatian] Partikel へ diucapkan e.)",
+          "pattern": "Kata Kerja + ます / ません = ...akukan / Tidak...akukan",
+          "examples": [
+            {
+              "jp": "京都へ(きょうと) \\ます。",
+              "translation": "Pergi ke Kyoto."
+            },
+            {
+              "jp": "日本へ(にほん) \\した。",
+              "translation": "Datang ke Jepang."
+            },
+            {
+              "jp": "うちへ \\ます。",
+              "translation": "Pulang ke rumah."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "どこ[へ] も 行きません / ありません / ませんでした",
+          "body": "Apabila ingin menyangkal hal yang ditanyakan oleh Kata Tanya secara total, pembentukan Kata Kerja negatif dengan membubuhkan partikel も pada Kata Tanya.",
+          "pattern": "どこ + も + 行きません / ありません = Tidak ke mana-mana",
+          "examples": [
+            {
+              "jp": "どこ[へ]も\\ません。",
+              "translation": "Tidak pergi ke mana-mana."
+            },
+            {
+              "jp": "何も(なに)\\ません。",
+              "translation": "Tidak makan apa-apa."
+            },
+            {
+              "jp": "\\来()でした。",
+              "translation": "Tidak datang siapa-siapa."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda (Kendaraan) で Kata Kerja",
+          "body": "Partikel で menunjukkan sarana dan cara. Yang dimaksud di bagian ini yang menunjukkan kendaraan adalah sarana transportasi.\nJika pergi dengan jalan kaki digunakan 歩いて (あるいて), tetapi tidak dibubuhkan partikel で. Pulang dengan jalan kaki dari stasiun (駅から 歩いて 帰りました).",
+          "pattern": "Kata Benda (Kendaraan) + で + Kata Kerja = Dengan...,...lakukan",
+          "examples": [
+            {
+              "jp": "電車(でんしゃ) で \\ます。",
+              "translation": "Pergi dengan kereta rel listrik."
+            },
+            {
+              "jp": "タクシーで 来ました(きました)。",
+              "translation": "Datang dengan taksi."
+            },
+            {
+              "jp": "\\ら 歩() 帰り(かえ)ました。",
+              "translation": "Pulang dengan jalan kaki dari stasiun."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda (Orang / Hewan) と Kata Kerja",
+          "body": "Jika melakukan sesuatu bersama orang (hewan) maka ditunjukkan membubuhkan partikel と.\nJika melakukan suatu aksi sendiri digunakan ひとりでお (一人で). (Pergi ke Tokyo sendirian: 一人で 東京へ 行きます).",
+          "pattern": "Kata Benda (人/動物) + と + Kata Kerja = Dengan...,...lakukan",
+          "examples": [
+            {
+              "jp": "家族(かぞく) と日本へ(にほん) \\した。",
+              "translation": "Datang ke Jepang bersama keluarga."
+            },
+            {
+              "jp": "一人(ひとり) で 東京(とうきょう) へ 行きます(いきます)。",
+              "translation": "Pergi ke Tokyo sendirian."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "いつ (Kapan)",
+          "body": "Untuk menanyakan waktu, selain menggunakan なんじ, なんようび, なんがつ, なんちにち, Kata Tanya いつ tidak dapat dibubuhkan partikel に.",
+          "pattern": "いつ = Kapan?",
+          "examples": [
+            {
+              "jp": "いつ 日本へ(にほん) \\したか。……3月(つき)25日に \\した。",
+              "translation": "Kapan datang ke Jepang? ……Datang pada tanggal 25 Maret."
+            },
+            {
+              "jp": "いつ 広島へ(ひろしま) \\ますか。……来週(らいしゅう) 行きます(いきます)。",
+              "translation": "Kapan pergi ke Hiroshima? ……Pergi minggu depan."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "よ (Partikel Akhir Kalimat)",
+          "body": "Partikel よ dibubuhkan pada akhir kalimat dan digunakan untuk memberitahukan suatu hal yang belum diketahui oleh lawan bicara, atau menyampaikan tanggapan dan pendapat si pembicara kepada lawan bicaranya.",
+          "pattern": "Kalimat + よ = ...!",
+          "examples": [
+            {
+              "jp": "この 電車(でんしゃ) は 甲子園(こうしえん)へ \\ますか。……いいえ、行()。次の 「普通(ふつう)」です。",
+              "translation": "Apakah kereta rel listrik ini menuju Koshien? ……Tidak, tidak pergi. Yang \"Biasa\" berikutnya."
+            },
+            {
+              "jp": "北海道(ほっかいどう)に \\ たくさんいますよ。",
+              "translation": "Di Hokkaido ada banyak kuda."
+            },
+            {
+              "jp": "マリアさん、このアイスクリーム、おいしいですよ。",
+              "translation": "Ibu Maria, es krim ini enak."
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "title": "そうですね (Persetujuan / Pemahaman)",
+          "body": "そうですね digunakan jika menyetujui atau sependapat dengan hal yang dikatakan oleh lawan bicara. Adapun ungkapan mirip そうですか yaitu そうですね, tetapi そうですか adalah ekspresi ketika mendapat informasi baru yang belum diketahui si pembicara kemudian memahaminya, sedangkan そうですね menyetujui hal yang sama, menyetujui hal yang telah dikenal, atau sependapat.",
+          "pattern": "Kata Benda + です = ...adalah",
+          "examples": [
+            {
+              "jp": "⑰ 明日(あした) は 日曜日(にちようび) ですね。……あ、そうですね。",
+              "translation": "Besok hari Minggu, ya. ……O, ya betul."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 6,
+      "title": "Kata Kerja Transitif, Ajakan, & Pertanyaan Aktivitas",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Benda を Kata Kerja (Kata Kerja Transitif)",
+          "body": "Objek dari Kata Kerja Transitif ditunjukkan oleh partikel を (wo).\n[Perhatian] を hanya dipakai untuk menulis partikel saja.",
+          "pattern": "Kata Benda + を + Kata Kerja = ...lakukan...",
+          "examples": [
+            {
+              "jp": "ジュースを 飲みます(のみます)。",
+              "translation": "Minum jus."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Benda を します",
+          "body": "します disertai Kata Benda secara luas sebagai objek. します mempunyai arti bahwa melakukan hal yang ditunjukkan oleh objek tersebut.\nOlahraga, permainan, dll: サッカーを します (bermain sepak bola), トランプを します (bermain kartu).\nPertemuan, acara, dll: パーティーを します (berpesta), 会議を します (mengadakan rapat).\nLain-lain: 宿題を します (membuat PR), 仕事を します (bekerja), 電話を します (menelpon).",
+          "pattern": "Kata Kerja + ます / ません = ...akukan / Tidak...akukan",
+          "examples": []
+        },
+        {
+          "num": 3,
+          "title": "何を しますか (Apa yang dilakukan?)",
+          "body": "Ini adalah pertanyaan untuk menanyakan hal yang dilakukan.",
+          "pattern": "Kata Kerja + ます / ません = ...akukan / Tidak...akukan",
+          "examples": [
+            {
+              "jp": "月曜日(げつようび) 何を(なに) しますか。……京都へ(きょうと) 行きます(いきます)。",
+              "translation": "Hari Senin melakukan apa? ……Pergi ke Kyoto."
+            },
+            {
+              "jp": "きのう 何を(なに) しましたか。……サッカーを しました。",
+              "translation": "Kemarin melakukan apa? ……Bermain sepak bola."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "なん dan なに (Apa)",
+          "body": "なん dan なに mempunyai arti yang sama. なん digunakan pada hal-hal berikut:\nJika kata yang mengikutinya diawali dengan baris た, だ, dan な (Contoh: ④ それは 何ですか / Apa itu?, ⑤ 何の 本ですか / Buku apa?, ⑥ 寝る まさに、何と言いますか / Sebelum tidur, mengucapkan apa?, ⑦ 何で 東京へ 行きますか / Dengan apa pergi ke Tokyo?).\nDisertai Kata Bantu Bilangan (Contoh: ⑨ テレーザちゃんは 何歳ですか / Berapa usia Teresa?). Selain 1) dan 2) menggunakan なに (Contoh: ⑩ 何を 買いますか / Mau membeli apa?).\n[Perhatian] Selain bertanya tentang sarana, なん で digunakan untuk menanyakan alasan juga. Adakalanya\ndikatakan なに で jika ingin menunjukkan lebih jelas untuk menanyakan sarana.",
+          "pattern": "なん / なに = Apa?",
+          "examples": []
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda (Tempat) で Kata Kerja",
+          "body": "Partikel で yang dipelajari di sini disertai Kata Benda yang menunjukkan tempat, kemudian menunjukkan tempat yang melakukan aksi.",
+          "pattern": "Kata Benda (場所) + で + Kata Kerja = Di...,...lakukan",
+          "examples": [
+            {
+              "jp": "⑪ 駅で 新聞を(しんぶん) 買います(かいます)。",
+              "translation": "Membeli surat kabar di stasiun."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "Kata Kerja ませんか (Maukah Anda...?)",
+          "body": "Ekspresi untuk mengajak lawan bicara.",
+          "pattern": "Kata Kerja + ませんか = Maukah...?",
+          "examples": [
+            {
+              "jp": "⑫ いしょに 京都へ(きょうと) 行()か。……ええ、いいですね。",
+              "translation": "Bagaimana kita pergi ke Kyoto bersama-sama? ……Ya, bagus ya."
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "title": "Kata Kerja ましょう (Mari kita...)",
+          "body": "Ekspresi untuk mengusulkan secara aktif dan mengajak. Dipakai untuk menanggapi usulan atau ajakan secara aktif juga.\n([Perhatian] Kata Kerja ませんか dan Kata Kerja ましょうkedua-duanya adalah ekspresi untuk mengajak lawan bicara, tetapi Kata Kerja ませんか lebih ditunjukkan perasaan yang menghormati keinginan lawan bicara.)",
+          "pattern": "Kata Kerja + ましょう = Mari kita...",
+          "examples": [
+            {
+              "jp": "ちょっと休み(やす)ましょう。",
+              "translation": "Mari istirahat sebentar."
+            },
+            {
+              "jp": "いしょに 昼ごはんを 食べません(たべません)か。……ええ、食べましょう。",
+              "translation": "Bagaimana kita makan siang bersama-sama? ……Ya, ayo kita makan."
+            }
+          ]
+        },
+        {
+          "num": 8,
+          "title": "～か (Partikel Penguat/Pemahaman)",
+          "body": "か menyatakan hal untuk mendapatkan informasi baru yang belum diketahui oleh lawan bicara sebelumnya, kemudian memahaminya. Ini adalah cara penggunaan yang sama dengan か dari そうですか (Lihat Pel.2-8).",
+          "pattern": "Kalimat + か = ...?",
+          "examples": [
+            {
+              "jp": "⑮ 日曜日(にちようび) 京都へ(きょうと) 行きました(いきました)。……京都ですか。いいですね。",
+              "translation": "Hari Minggu yang lalu pergi ke Kyoto. ……Kyoto? Bagus ya."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 7,
+      "title": "Alat/Sarana, Kata Benda Bahasa, & Pemberian-Penerimaan",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Benda (Alat / Sarana) で Kata Kerja",
+          "body": "Di bagian ini mempelajari partikel で yang menunjukkan sarana dan cara.",
+          "pattern": "Kata Benda (道具) + で + Kata Kerja = Dengan...,...lakukan",
+          "examples": [
+            {
+              "jp": "はしで 食べます(たべます)。",
+              "translation": "Makan dengan sumpit."
+            },
+            {
+              "jp": "日本語で(にほんご) レポートを 書きます(かきます)。",
+              "translation": "Menulis laporan dalam bahasa Jepang."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "\"Kata / Kalimat\" は ～語 で 何ですか",
+          "body": "Pertanyaan ini digunakan ketika menanyakan bagaimana cara mengatakan arti kata atau kalimat dalam bahasa lain.",
+          "pattern": "Kata Benda + ですか = Apakah ...?",
+          "examples": [
+            {
+              "jp": "「ありがとう」は英語で(えいご) 何で(なに)すか。……\"Thank you\"です。",
+              "translation": "Apa bahasa Inggris dari \"Arigato\"? ……\"Thank you\"."
+            },
+            {
+              "jp": "\"Thank you\" は 日本語で(にほんご) 何で(なに)すか。……「ありがとう」です。",
+              "translation": "Apa bahasa Jepang dari \"Thank you\"? ……\"Arigato\"."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda₁ (Orang) に Kata Benda₂ を あげます dan lain-lain",
+          "body": "Kata Kerja あげます (memberi), かします (meminjamkan), おしえます (mengajar) dan lainnya menunjukkan arti yang memberi barang atau informasi, dan memerlukan lawan yang diberikan barang atau informasi tersebut. Kata Benda₁ (orang) tersebut dibubuhkan dengan partikel に.",
+          "pattern": "Object₁ + に + Object₂ + を + あげます = ...memberi...kepada...",
+          "examples": [
+            {
+              "jp": "[わたしは] 木村さ(きむら)んに 花を(はな) あげました。",
+              "translation": "Saya memberikan Sdr. Kimura bunga."
+            },
+            {
+              "jp": "[わたしは] イーさんに 本を(ほん) 貸しました。",
+              "translation": "Saya meminjamkan buku kepada Sdr. Lee."
+            },
+            {
+              "jp": "[わたしは] 山田さ(やまだ)んに 英語を(えいご) 教ます(おしえます)。",
+              "translation": "Saya mengajar bahasa Inggris kepada Sdr. Yamada."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda₁ (Orang) に Kata Benda₂ を もらいます dan lain-lain",
+          "body": "Kata Kerja もらいます (menerima), かります (meminjam), ならいます (belajar) dan lainnya menunjukkan arti yang menerima barang atau informasi, dan memerlukan lawan yang diberikan barang atau informasi. Kata Benda₁ (orang) tersebut dibubuhkan dengan partikel に.\n[Perhatian] Untuk pola kalimat ini, partikel から juga dapat digunakan sebagai pengganti partikel に. Terutama jika\nlawannya bukan orang melainkan organisasi seperti perusahaan atau sekolah, dan sebagainya bukan に yang digunakan, melainkan から.",
+          "pattern": "Object₁ + に/から + Object₂ + を + もらいます = ...menerima...dari...",
+          "examples": [
+            {
+              "jp": "[わたしは] 山田さ(やまだ)んに 花を(はな) もらいました。",
+              "translation": "Saya mendapatkan bunga dari Sdr. Yamada."
+            },
+            {
+              "jp": "[わたしは] カリナさんに CDを 借り(か)ました。",
+              "translation": "Saya meminjam CD dari Karina."
+            },
+            {
+              "jp": "[わたしは] ワンさんに 中国語(ちゅうごくご)を 習います(ならいます)。",
+              "translation": "Saya belajar bahasa Tionghua dari Sdr. Wang."
+            },
+            {
+              "jp": "[わたしは] 山田さ(やまだ)んから 花を(はな) もらいました。",
+              "translation": "Saya mendapatkan bunga dari Sdr. Yamada."
+            },
+            {
+              "jp": "銀行か(ぎんこう)ら お金を(かね) 借り(か)ました。",
+              "translation": "Saya meminjam uang dari bank."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "もう Kata Kerja ました",
+          "body": "もう mempunyai arti sudah dan digunakan dengan kombinasi Kata Kerja ました. Dalam hal ini, Kata Kerja ました\nbermaksud bahwa perbuatan telah diselesaikan saat ini.\nJawaban untuk pertanyaan mengenai apakah perbuatannya telah diselesaikan atau belum yaitu もう Kata Kerja ましたか adalah jika telah diselesaikan atau jawaban positif はい、もう Kata Kerja ました, sedangkan belum diselesaikan atau jawaban negatif いいえ、まだ ～ ていません (Lihat Pel.31), atau いいえ、まだです. いいえ、Kata Kerja ませんでした tidak dapat digunakan sebab mempunyai arti yang tidak dilakukan pada waktu lampau.",
+          "pattern": "もう + Kata Kerja + ました = Sudah...!",
+          "examples": [
+            {
+              "jp": "⑬ もう荷物を(にもつ) 送りました(おくりました)か。……はい、[もう] 送りました(おくりました)。 / ……いいえ、まだ 送()いません。 / ……いいえ、まだです。",
+              "translation": "Apakah barang sudah dikirim? ……Ya, sudah dikirim. / ……Belum, belum dikirim. / ……Belum."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "Menghilangkan Partikel",
+          "body": "Dalam kalimat percakapan, jika sudah dapat memahami arti dari hubungan sebelum dan sesudahnya maka partikel sering dihilangkan.",
+          "pattern": "Partikel dihilangkan",
+          "examples": [
+            {
+              "jp": "この スプーン[は]、すてきですね。",
+              "translation": "Sendok ini bagus ya."
+            },
+            {
+              "jp": "コーヒー[を]、もう一杯(いっぱい) いかがですか。",
+              "translation": "Bagaimana kopi secangkir lagi?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 8,
+      "title": "Kata Sifat (Keiyoushi) & Pola Kalimat Adjektival",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Sifat",
+          "body": "Kata Sifat berfungsi sebagai predikat dan menunjukkan kondisi Kata Benda dalam kalimat Kata Benda は Kata Sifatです atau digunakan sebagai kata yang menerangkan Kata Benda. Dalam bahasa Jepang terdapat dua jenis Kata Sifat yaitu Kata Sifat な dan Kata Sifat い, lalu perubahan bentuknya berbeda.",
+          "pattern": "Kata Sifat い + です = ...-nya",
+          "examples": []
+        },
+        {
+          "num": 2,
+          "title": "Kata Benda は Kata Sifat な[な] です / Kata Benda は Kata Sifat い (~い) です",
+          "body": "Kalimat adjektival positif waktu non lampau diakhiri です. です menunjukkan sikap yang hormat terhadap pendengar. Kata Sifat な disambung dengan です tanpa な, sedangkan Kata Sifat い disambung dengan です dalam bentuk yang sama.\nKata Sifat な [な] じゃ (では) ありません (Negatif waktu non lampau)\nNegatif waktu non lampau dari Kata Sifat な dibuat dengan dibubuhkan じゃ (では) ありません pada bentuk tanpa な\ndari Kata Sifat な.\nKata Sifat い (~い) です → ～くないです (Negatif waktu non lampau)\nNegatif waktu non lampau dari Kata Sifat い dibuat dengan dibubuhkan くないです pada bentuk yang dihilangkan い\ndi bagian akhir dari Kata Sifat い.\n[Perhatian] Negatif untuk いいです adalah よくないです.\nRangkuman Perubahan Bentuk\nWaktu\nKata Sifat な\nKata Sifat い\nPositif waktu non lampau\nしんせつです\nたかいです\nNegaif waktu non lampau\nしんせつじゃ (では) ありません\nたかくないです\nCara membuat kalimat tanya dari kalimat adjektival sama seperti kalimat nominal (Lihat Pel.1) dan kalimat verbal (Lihat Pel.4). Untuk jawabannya digunakan Kata Sifat, dan tidak dapat menjawab dengan menggunakan そうです atau ちがいます.",
+          "pattern": "Kata Benda + です = ...adalah",
+          "examples": [
+            {
+              "jp": "ワット先生は(せんせい) 親切() です。",
+              "translation": "Bapak Watt baik hati."
+            },
+            {
+              "jp": "富士山は(ふじさん) 高い(たかい) です。",
+              "translation": "Gunung Fuji tinggi."
+            },
+            {
+              "jp": "あそこは 静()じゃ ありません。",
+              "translation": "Di sana tidak sunyi."
+            },
+            {
+              "jp": "この 本(ほん)は おもしろくないです。",
+              "translation": "Buku ini tidak menarik."
+            },
+            {
+              "jp": "ペキンは 寒() ですか。……はい、寒(さむい) です。",
+              "translation": "Apakah Beijing dingin? ……Ya, dingin."
+            },
+            {
+              "jp": "奈良(なら)公園は(こうえん) にぎやか ですか。……いいえ、にぎやかじゃ ありません。",
+              "translation": "Apakah Taman Nara ramai? ……Tidak, tidak ramai."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Sifat な [な] Kata Benda / Kata Sifat い (~い) Kata Benda",
+          "body": "Jika Kata Sifat menerangkan Kata Benda, Kata Sifat diletakkan di depan Kata Benda. Kata Sifat な menerangkan Kata Benda dengan bentuk diikuti な.",
+          "pattern": "Kata Sifat な + な + Kata Benda / Kata Sifat い + い + Kata Benda = ...yang...",
+          "examples": [
+            {
+              "jp": "ワット先生は(せんせい) 親切()な 先生 です。",
+              "translation": "Bapak Watt adalah guru yang baik hati."
+            },
+            {
+              "jp": "富士山は(ふじさん) 高い(たかい) 山(やま) です。",
+              "translation": "Gunung Fuji adalah gunung yang tinggi."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "～が、～ (Tetapi)",
+          "body": "が menyambungkan kalimat yang menyatakan sebelum dan sesudah secara paradoksal. Dalam kalimat adjektival\nyang subjeknya sama, hal yang bernilai positif oleh si pembicara diletakkan di bagian depan, maka hal yang bernilai negatif di bagian belakangnya. Sebaliknya, jika hal yang bernilai positif oleh si pembicara diletakkan di bagian depan, maka hal yang negatif di bagian belakangnya.",
+          "pattern": "～が + ～ (Tetapi) = ...tetapi...",
+          "examples": [
+            {
+              "jp": "日本の(にほん) 食べ(た)物は おいしいですが、高い(たかい) です。",
+              "translation": "Makanan Jepang enak, tetapi mahal."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "とても / あまり",
+          "body": "とても dan あまり adalah Kata Keterangan yang menyatakan tingkat, dan jika menerangkan Kata Sifat kata tersebut diletakkan di depan Kata Sifat. とても mempunyai arti sangat dan digunakan pada kalimat positif. あまり digunakan bersamaan dengan kalimat negatif yang mempunyai arti tidak begitu.",
+          "pattern": "Kata Kerja + て形 + も = ...juga",
+          "examples": [
+            {
+              "jp": "ペキンは とても寒() です。",
+              "translation": "Beijing sangat dingin."
+            },
+            {
+              "jp": "これは とても有名()な 映画(えいが) です。",
+              "translation": "Ini film yang sangat terkenal."
+            },
+            {
+              "jp": "シャンハイは あまり 寒く(さむ)ないです。",
+              "translation": "Shanghai tidak begitu dingin."
+            },
+            {
+              "jp": "さくら大学は(だいがく) あまり 有名()な 大学じゃありません。",
+              "translation": "Universitas Sakura adalah universitas yang tidak begitu terkenal."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "Kata Benda は どうですか",
+          "body": "Kata Benda は どうですか menanyakan citra, pendapat, dan kesan mengenai hal yang dialami tentang tempat yang telah dikunjungi atau orang yang pernah dijumpai dan lain-lainnya oleh lawan bicara.",
+          "pattern": "Kata Benda + ですか = Apakah ...?",
+          "examples": [
+            {
+              "jp": "⑭ 日本の(にほん) 生活は(せいかつ) どうですか。……楽() です。",
+              "translation": "Bagaimana kehidupan di Jepang? ……Senang."
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "title": "Kata Benda₁ どんな Kata Benda₂ ですか",
+          "body": "どんな adalah Kata Tanya untuk menanyakan keadaan atau sifat orang dan benda, kemudian digunakan untuk menerangkan Kata Benda.",
+          "pattern": "Kata Benda + ですか = Apakah ...?",
+          "examples": [
+            {
+              "jp": "⑮ 奈良は(なら) どんな \\すか。……古() \\す。",
+              "translation": "Nara kota bagaimana? ……Kota yang lama."
+            }
+          ]
+        },
+        {
+          "num": 8,
+          "title": "そうですね (Persetujuan)",
+          "body": "Pada Pelajaran 5 telah dipelajari そうですね yang menyatakan persetujuan atau perasaan yang sama. Pada pelajaran ini terdapat そうですね menunjukkan sikap dari lawan bicaranya yang sedang berpikir seperti pada percakapan ⑯.",
+          "pattern": "Kata Benda + です = ...adalah",
+          "examples": [
+            {
+              "jp": "⑯ お仕事は(しごと) どうですか。……そうですね。忙しいですが、おもしろいです。",
+              "translation": "Bagaimana pekerjaannya? ……Ya… Sibuk, tetapi menyenangkan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 9,
+      "title": "Ekspresi Suka dan Tidak Suka",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Benda が 好きです / 嫌いです / 上手です / 下手です / あります / わかります",
+          "body": "Sebagian Kata Kerja atau Kata Sifat menunjukkan objek dengan partikel が.",
+          "pattern": "Kata Kerja + ます / ません = ...suka / Tidak suka...",
+          "examples": [
+            {
+              "jp": "わたしは イタリア料理が(りょうり) 好き(すき)です。",
+              "translation": "Saya suka masakan Italia."
+            },
+            {
+              "jp": "わたしは 日本語が(にほんご) わかります。",
+              "translation": "Saya mengerti bahasa Jepang."
+            },
+            {
+              "jp": "わたしは 車が(くるま) あります。",
+              "translation": "Saya mempunyai mobil."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "どんな Kata Benda",
+          "body": "Cara menjawab untuk kalimat tanya dengan menggunakan どんな, selain cara menjawab yang telah dipelajari pada Pelajaran 8, dapat dijawab juga dengan memberikan nama secara kongkret.",
+          "pattern": "どんな + Kata Benda = ...yang seperti apa?",
+          "examples": [
+            {
+              "jp": "どんな スポーツが 好き(すき)ですか。……サッカーが 好き(すき)です。",
+              "translation": "Suka olahraga apa? ……Suka sepak bola."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "よく / だいたい / たくさん / 少し / あまり / 全然",
+          "body": "Kata Keterangan tersebut di atas diletakkan di depan Kata Kerja yang diterangkannya.\n([Perhatian] すこし, ぜんぜん dan あまり juga dapat menerangkan Kata Sifat).\nKondisi Kalimat\nKata Keterangan Tingkat\nKata Keterangan Kuantitas\nDigunakan dengan kalimat positif\nよくわかります\nだいたい わかりますすこし わかります\nたくさんありますすこし あります\nDigunakan dengan kalimat negatif\nあまり わかりますせんぜんぜん わかりますせん\nあまり ありませんぜんぜん ありません",
+          "pattern": "あまり + Kata Sifat (否定) = Tidak terlalu...",
+          "examples": [
+            {
+              "jp": "英語が(えいご) よくわかります。",
+              "translation": "Mengerti bahasa Inggris dengan baik."
+            },
+            {
+              "jp": "英語が(えいご) 少しわかります。",
+              "translation": "Mengerti bahasa Inggris sedikit."
+            },
+            {
+              "jp": "英語が(えいご) あまり わかりますせん。",
+              "translation": "Tidak begitu mengerti bahasa Inggris."
+            },
+            {
+              "jp": "お金が(かね) たくさんあります。",
+              "translation": "Uang ada banyak."
+            },
+            {
+              "jp": "お金が(かね) ぜんぜん ありません。",
+              "translation": "Uang tidak ada sama sekali."
+            },
+            {
+              "jp": "ここは 少し寒()です。",
+              "translation": "Di sini sedikit dingin."
+            },
+            {
+              "jp": "あの 映画は(えいが) ぜんぜん おもしろくないです。",
+              "translation": "Film itu tidak menarik sama sekali."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "～から、～ (Karena ...)",
+          "body": "Hal yang dinyatakan di depan から merupakan alasan dari kalimat yang dinyatakan di belakangnya. Digunakan juga untuk menyatakan suatu hal dan alasan dengan memasukkan ～から.",
+          "pattern": "Reason + から + Result = Karena...,...",
+          "examples": [
+            {
+              "jp": "時間が(じかん) ありませんから、新聞を(しんぶん) 読()。",
+              "translation": "Karena tidak ada waktu, tidak membaca surat kabar."
+            },
+            {
+              "jp": "毎朝(まいあさ) 新聞を(しんぶん) 読みます(よみます)か。……いいえ、読()。時間が(じかん) ありませんから。",
+              "translation": "Apakah membaca surat kabar setiap pagi? ……Tidak, tidak membaca. Karena tidak ada waktu."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "どうして (Mengapa)",
+          "body": "どうして adalah Kata Tanya untuk menanyakan alasan. Pada akhir kalimat dibubuhkan から untuk menyatakan alasannya. Jika menanyakan alasan yang dikatakan oleh lawan bicara, dapat mengatakan どうしてですか untuk menanyakan kata-kata yang dikatakan oleh lawan bicara.",
+          "pattern": "どうして + Kalimat Tanya = Mengapa...?",
+          "examples": [
+            {
+              "jp": "どうして 朝 新聞を(しんぶん) 読()か。……時間が(じかん) ありませんから。",
+              "translation": "Mengapa pada pagi hari tidak membaca surat kabar? ……Sebab tidak ada waktu."
+            },
+            {
+              "jp": "きょうは早く帰ります(かえります)。……どうしてですか。……子どもの 誕生日(たんじょうび)の ですから。",
+              "translation": "Hari ini cepat pulang. ……Mengapa? ……Sebab hari ulang tahun anak."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 10,
+      "title": "Keberadaan Benda & Orang (Arimasu / Imasu)",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Benda が あります / います",
+          "body": "あります dan います menyatakan keberadaan benda atau orang. Kalimat ini adalah kalimat yang menggambarkan secara langsung untuk menyampaikan keberadaan benda atau orang, maka digunakan untuk menyatakan Kata Benda dengan membubuhkan partikel が.\nあります digunakan untuk menyatakan keberadaan benda atau tumbuhan dan lainnya yang tidak bergerak\ndengan sendirinya.\nいます digunakan untuk benda atau orang yang bergerak dengan sendirinya.",
+          "pattern": "Kata Kerja + ます / ません = ...ada",
+          "examples": [
+            {
+              "jp": "コンピューターが あります。",
+              "translation": "Ada komputer."
+            },
+            {
+              "jp": "桜が(さくら) あります。",
+              "translation": "Ada Sakura."
+            },
+            {
+              "jp": "公園が(こうえん) あります。",
+              "translation": "Ada taman."
+            },
+            {
+              "jp": "男の(おとこ) 人が(じん) います。",
+              "translation": "Ada orang laki-laki."
+            },
+            {
+              "jp": "犬が(いぬ) います。",
+              "translation": "Ada anjing."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Tempat に Kata Benda が あります / います",
+          "body": "Dengan menggunakan pola kalimat ini menyatakan keberadaan benda atau orang di suatu tempat.\nTempat untuk keberadaan benda atau orang dinyatakan dengan partikel に.\nKata Tanya なに digunakan untuk menanyakan benda atau orang yang berada, dan Kata Tanya だれ digunakan\nuntuk menanyakan keberadaan orang.\n[Perhatian] Tidak terbatas contoh di atas ini, perlu hati-hati bahwa partikel di belakang Kata Tanya adalah が, (× なには, × だれは).",
+          "pattern": "Kata Kerja + ます / ません = ...ada di...",
+          "examples": [
+            {
+              "jp": "わたしの 部屋に(へや) 机が あります。",
+              "translation": "Di kamar saya ada meja."
+            },
+            {
+              "jp": "事務所に(じむしょ) ミラーさんが います。",
+              "translation": "Di kantor ada Sdr. Miller."
+            },
+            {
+              "jp": "地下に(ちか) 何が(なに) ありますか。……レストランが あります。",
+              "translation": "Di lantai basement ada apa? ……Ada restoran."
+            },
+            {
+              "jp": "受付に(うけつけ) 誰が いますか。……木村さ(きむら)んが います。",
+              "translation": "Di resepsionis ada siapa? ……Ada Sdr. Kimura."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda は tempat に あります / います",
+          "body": "Ini adalah kalimat yang menyatakan keberadaan suatu benda dari 2. Tempat に Kata Benda が あります / います yang dijadikan topik. Di belakang Kata Benda digunakan は yang diletakkan di paling depan dalam kalimat. Kata Benda adalah hal yang telah diakui oleh kedua belah pihak yaitu si pembicara dan lawan bicara.\n([Perhatian] Pola kalimat ini dapat diganti dengan Kata Benda は tempat です (Pel.3). Untuk ini, perlu hati-hati bahwa di belakang Kata Tanya yang menunjukkan tempat (どこ) dan Kata Benda (ちばけん) tidak dibubuhkan に).",
+          "pattern": "Kata Kerja + ます / ません = ...lakukan di...",
+          "examples": [
+            {
+              "jp": "東京(とうきょう)ディズニーランドは 千葉県に(ちばけん) あります。",
+              "translation": "Tokyo Disneyland terletak di prefektur Chiba."
+            },
+            {
+              "jp": "ミラーさんは 事務所に(じむしょ) います。",
+              "translation": "Sdr. Miller ada di kantor."
+            },
+            {
+              "jp": "東京(とうきょう)ディズニーランドは どこに ありますか。……千葉県に(ちばけん) あります。",
+              "translation": "Tokyo Disneyland terletak di mana? ……Terletak di prefektur Chiba."
+            },
+            {
+              "jp": "ミラーさんは どこに いますか。……事務所に(じむしょ) います。",
+              "translation": "Sdr. Miller ada di mana? ……Ada di kantor."
+            },
+            {
+              "jp": "東京(とうきょう)ディズニーランドは どこですか。……千葉県で(ちばけん)す。",
+              "translation": "Di mana Tokyo Disneyland? ……Di prefektur Chiba."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda₁ (benda / orang / tempat) の Kata Benda₂ (posisi)",
+          "body": "うえ (atas), した (bawah), まえ (depan), うしろ (belakang), みぎ (kanan), ひだり (kiri), なか (dalam), そと (luar), となり (sebelah), ちかく (dekat), あいだ (antara) dan lain-lainnya menunjukkan hubungan posisi antara Kata Benda₁ dan Kata Benda₂.\n[Perhatian] Yang disebut di atas, sama halnya Kata Benda yang menunjukkan tempat, dapat menunjukan tempat aksi dengan dibubuhkan partikel で.",
+          "pattern": "Kata Benda₁ + の + Kata Benda₂ = ...dan...",
+          "examples": [
+            {
+              "jp": "机の 上に 写真が(しゃしん) あります。",
+              "translation": "Di atas meja ada foto."
+            },
+            {
+              "jp": "郵便局(ゆうびんきょく)は 銀行の(ぎんこう) 隣に あります。",
+              "translation": "Kantor pos ada di sebelah bank."
+            },
+            {
+              "jp": "本(ほん)屋は(ほんや) 花(はな)屋とスーパーの 間に あります。",
+              "translation": "Toko buku ada di antara toko bunga dan pasar swalayan."
+            },
+            {
+              "jp": "⑉ 駅の 近くで 友達に(ともだち) 会い(あ)ました。",
+              "translation": "Di dekat stasiun, bertemu dengan teman."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda₁ や Kata Benda₂",
+          "body": "Partikel と yang telah dipelajari di Pelajaran 4 digunakan untuk menyebutkan semua Kata Benda secara setaraf, sedangkan partikel や mengambil beberapa hal saja yang mewakili (lebih dari dua) untuk menyebutkannya secara setara. Adakalanya untuk menyatakan bahwa masih ada Kata Benda yang tidak disebutkan secara jelas, dengan membubuhkan など di belakang Kata Benda yang disebut terakhir.",
+          "pattern": "Kata Benda₁ + や + Kata Benda₂ = ...dan lain-lain",
+          "examples": [
+            {
+              "jp": "箱の 中に 手(て)紙や 写真が(しゃしん) あります。",
+              "translation": "Di dalam kotak ada surat dan foto."
+            },
+            {
+              "jp": "箱の 中に 手(て)紙や 写真な(しゃしん)どが あります。",
+              "translation": "Di dalam kotak ada surat, foto dan lain-lainnya."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "アジアストアですか",
+          "body": "Pada bagian awal percakapan di pelajaran ini terdapat percakapan sebagai berikut:\nDalam percakapan praktek seringkali lawan bicara tidak langsung menjawab terhadap pertanyaan, tetapi menjawab setelah menegaskan inti pertanyaan si pembicara.",
+          "pattern": "Kata Benda + ですか = ...adalah",
+          "examples": [
+            {
+              "jp": "㉑ すみません。アジアストアは どこですか。……アジアストアですか。(中略(ちゅうりゃく)) あの ビルの 中です。",
+              "translation": "Maaf. Di mana Asia Store? ……Asia Store? (disingkat) Di dalam gedung itu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 11,
+      "title": "Kata Bantu Bilangan & Kuantitas",
+      "points": [
+        {
+          "num": 3,
+          "title": "Kata Keterangan Bilangan (jangka waktu) に -回 Kata Kerja",
+          "body": "Ekspresi untuk menunjukkan frekuensi.",
+          "pattern": "～日 (にち) / ～週間 (しゅうかん) / ～か月 (かげつ) / ～年 (ねん) = ...hari/...minggu/...bulan/...tahun",
+          "examples": [
+            {
+              "jp": "⑪ 1か月に(つき) 2回 映画を(えいが) 見ます(みます)。",
+              "translation": "Sebulan dua kali menonton film."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Keterangan Bilangan だけ / Kata Benda だけ",
+          "body": "だけ diletakkan di belakang Kata Keterangan Bilangan atau Kata Benda, yang mempunyai arti tidak ada yang lebih dari itu atau tidak ada selain itu (hanya/saja).",
+          "pattern": "Kata Benda₁ + が + Kata Benda₂ = ...ada",
+          "examples": [
+            {
+              "jp": "パワー電気に(でんき) 外国人(がいこくじん)の 社員が(しゃいん) 1人だ(じん)け います。",
+              "translation": "Di Power Elektronik hanya ada seorang pegawai orang asing."
+            },
+            {
+              "jp": "休み(やす)は 日曜日(にちようび)だけ です。",
+              "translation": "Hari libur hanya hari Minggu saja."
+            }
+          ]
+        },
+        {
+          "num": 1,
+          "title": "Waktu Positif / Negatif untuk Kalimat Nominal • Kalimat Adjektival な",
+          "body": "",
+          "pattern": "～人 (にん) / ～台 (だい) / ～枚 (まい) = ...orang/...mesin/...lembar",
+          "examples": [
+            {
+              "jp": "きのうは 雨で(あめ)した。",
+              "translation": "Kemarin hujan."
+            },
+            {
+              "jp": "きのうの 試験は(しけん) 簡単じ(かんたん)ゃありませんでした。",
+              "translation": "Ujian kemarin tidak mudah."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Waktu Positif / Negatif untuk Kalimat Adjektival い",
+          "body": "",
+          "pattern": "～回 (かい) / ～分 (ふん) / ～時間 (じかん) = ...kali/...menit/...jam",
+          "examples": [
+            {
+              "jp": "きのうは 暑か(あつ)ったです。",
+              "translation": "Kemarin panas."
+            },
+            {
+              "jp": "きのうの パーティーは あまり 楽し(たの)くなかったです。",
+              "translation": "Pesta kemarin tidak begitu menyenangkan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 12,
+      "title": "Waktu Lampau Kata Sifat & Perbandingan",
+      "points": [
+        {
+          "num": 3,
+          "title": "Kata Benda₁ は Kata Benda₂ より Kata Sifat です",
+          "body": "Menyatakan sifat atau kondisi Kata Benda₁, dengan Kata Benda₂ yang dianggap sebagai patokan (lebih dari).",
+          "pattern": "Kata Sifat₁ + て + Kata Sifat₂ = ...dan...",
+          "examples": [
+            {
+              "jp": "この 車は(くるま) あの 車より大きい(おおきい)です。",
+              "translation": "Mobil ini lebih besar daripada mobil itu."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda₁ と Kata Benda₂ と どちらが Kata Sifat ですか",
+          "body": "…… Kata Benda₁ / Kata Benda₂ の ほうが Kata Sifat です\nJika membandingkan dua benda, digunakan Kata Tanya どちら untuk seluruh benda yang dibandingkan.",
+          "pattern": "A + と + B + と + どっちらが + Kata Sifat = ...atau...yang lebih...?",
+          "examples": [
+            {
+              "jp": "サッカーと野球と(やきゅう)どちらが おもしろいですか。…… サッカーの ほうが おもしろいです。",
+              "translation": "Yang mana lebih menarik, sepak bola atau baseball? ……Sepak bola yang lebih menarik."
+            },
+            {
+              "jp": "ミラーさんとサントスさんとどちらが テニスが 上手()ですか。",
+              "translation": "Yang mana lebih pandai bermain tenis, Sdr. Miller atau Sdr. Santos?"
+            },
+            {
+              "jp": "北海道(ほっかいどう)と大阪と(おおさか)どちらが 涼()ですか。",
+              "translation": "Yang mana lebih sejuk, Hokkaido atau Osaka?"
+            },
+            {
+              "jp": "春と(はる)秋と(あき)どちらが 好き(すき)ですか。",
+              "translation": "Yang mana lebih suka, musim semi atau musim gugur?"
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda₁ [の 中] で { 何 / どこ / だれ / いつ } が いちばん Kata Sifat ですか",
+          "body": "…… Kata Benda₂ が いちばん Kata Sifat です\nで menunjukkan ruang lingkup. Jika menanyakan benda, tempat, orang atau waktu yang menunjukan kondisi dan sifat yang tingkatnya maksimal dari ruang lingkup Kata Benda₁, gunakan Kata Tanya sesuai dengan target.\n([Perhatian] Kalimat Tanya yang menggunakan Kata Tanya yang menanyakan subjek dari kalimat adjektival, partikel が\ndigunakan di belakang Kata Tanya).",
+          "pattern": "[Kategori] + の中で + が + 一番 + Kata Sifat = Di antara...,...yang paling...",
+          "examples": [
+            {
+              "jp": "日本(にほん)料理(りょうり) [の 中] で 何が(なに) いちばん おいしいですか。…… てんぷらが いちばん おいしいです。",
+              "translation": "Apa yang paling enak [di antara] masakan Jepang? ……Tempura yang paling enak."
+            },
+            {
+              "jp": "ヨーロッパで どこが いちばん よかったですか。…… スイスが いちばん よかったです。",
+              "translation": "Daerah mana yang paling bagus di Eropa? ……Swiss yang paling bagus."
+            },
+            {
+              "jp": "家族で(かぞく) だれが いちばん 背が 高い(たかい)ですか。…… 弟が(おとうと) いちばん 背が 高い(たかい)です。",
+              "translation": "Siapa yang paling tinggi di antara keluarga? ……Adik laki-laki yang paling tinggi."
+            },
+            {
+              "jp": "1年で いつが いちばん 寒()ですか。…… 2月(にがつ) いちばん 寒い(さむい)です。",
+              "translation": "Kapan yang paling dingin dalam satu tahun? ……Bulan Februari yang paling dingin."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "Kata Sifat の (の yang berfungsi sebagai pengganti Kata Benda)",
+          "body": "Kata yang diberikan pada pelajaran ini, yaitu あついの adalah bentuk Kata Sifat の dan の yang menggantikan Kata Benda.",
+          "pattern": "A + と + B + と + どちらが + Kata Sifat = ...atau...yang lebih...?",
+          "examples": [
+            {
+              "jp": "⑭ カリナさんの かばんは どれですか。…… あの 赤くて、大きい(おおきい)の です。",
+              "translation": "Yang mana tas Sdr. Karina? ……Yang merah dan besar itu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 13,
+      "title": "Keinginan (Hoshii & -Tai) & Tujuan Perpindahan",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Benda が 欲しいです",
+          "body": "ほしい adalah Kata Sifat い. Objek untuk ほしい ditunjuk dengan が.",
+          "pattern": "Kata Benda + が + 欲しいです = Saya ingin...",
+          "examples": [
+            {
+              "jp": "わたしは 友達が(ともだち) 欲()です。",
+              "translation": "Saya ingin punya teman."
+            },
+            {
+              "jp": "今(いま) 何が(なに) いちばん 欲()ですか。…… 車が(くるま) 欲で(ほしい)す。",
+              "translation": "Sekarang apa yang paling diinginkan? ……Ingin punya mobil."
+            },
+            {
+              "jp": "子どもが 欲()ですか。…… いいえ、欲しくないです。",
+              "translation": "Apakah ingin punya anak? ……Tidak, tidak ingin punya."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja (Bentuk ます) たいです",
+          "body": "Kata Kerja Bentuk ます: Bentuk yang disambung pada ます (Contoh: かい dari かいます) disebut bentuk ます.\nKata Kerja (Bentuk ます) たいです: Digunakan untuk menunjukkan keinginan untuk berbuat sesuatu. Objek dari\n～たい dapat ditunjuk dengan partikel を dan が juga. Perubahan bentuk ～たい sama dengan Kata Sifat い.\n([Perhatian 1] Dengan ほしいです, たいです tidak dapat menyatakan keinginan dari pihak ketiga selain si pembicara dan lawan bicara.)\n([Perhatian 2] Tidak tepat digunakan untuk menawarkan sesuatu kepada lawan bicara. Misalnya, tidak tepat mengatakan \"コーヒーが ほしいですか\". Gunakan ekspresi \"コーヒーは いかがですか\" atau \"コーヒーを のみませんか\").",
+          "pattern": "Kata Kerja (Bentuk ます) + たいです = Saya ingin...lakukan",
+          "examples": [
+            {
+              "jp": "わたしは 沖縄へ(おきなわ) 行き(い)たいです。",
+              "translation": "Saya ingin pergi ke Okinawa."
+            },
+            {
+              "jp": "わたしは てんぷらを 食べ(た)たいです。",
+              "translation": "Saya ingin makan Tempura."
+            },
+            {
+              "jp": "神戸で(こうべ) 何を(なに) 買い(か)たいですか。…… 靴を 買いたいです。",
+              "translation": "Di Kobe ingin membeli apa? ……Ingin membeli sepatu."
+            },
+            {
+              "jp": "おなかが 痛()ですから、何も(なに)食べ(た)たくないです。",
+              "translation": "Karena perut sakit, tidak mau makan apa-apa."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda (tempat) へ { Kata Kerja (Bentuk ます) / Kata Benda } に 行きます / 来ます / 帰ります",
+          "body": "Objek untuk aksi dari いきます, きます, かえります ditunjuk dengan に.\nJika Kata Kerja di depan に adalah Kata Benda します (かいものします, べんきょうします) serta Kata Benda を します (おはなみを します, つりを します), bentuk Kata Benda に いきます / きます / かえります yang digunakan.\n([Perhatian] Jika Kata Benda yang menunjukkan acara seperti perayaan, konser dan sebagainya, biasanya objek aksi dianggap untuk menonton perayaan atau mendengar konser.)",
+          "pattern": "[Tempat] + に + 行きます / 来ます = Pergi/ke...untuk...",
+          "examples": [
+            {
+              "jp": "神戸へ(こうべ) インド料理を(りょうり) 食べ(た)に 行きます(いきます)。",
+              "translation": "Pergi makan masakan India ke Kobe."
+            },
+            {
+              "jp": "神戸へ(こうべ) 買い(か)物に 行きます(いきます)。",
+              "translation": "Pergi ke Kobe untuk belanja."
+            },
+            {
+              "jp": "日本へ(にほん) 美術の(びじゅつ) 勉強(べんきょう)に 来ました(きました)。",
+              "translation": "Datang ke Jepang untuk belajar seni."
+            },
+            {
+              "jp": "あした 京都の(きょうと) お祭りに 行きます(いきます)。",
+              "translation": "Besok pergi ke perayaan di Kyoto."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "どこか / 何か",
+          "body": "どこか berarti suatu tempat, dan なにか berarti sesuatu. Partikel へ atau を di belakang どこか atau なにか dapat dihilangkan.",
+          "pattern": "Kata Kerja + ため = Untuk...,...",
+          "examples": [
+            {
+              "jp": "冬(ふゆ)休み(やす)は どこか[へ] 行きました(いきました)か。…… はい。北海道(ほっかいどう)へ スキーに 行きました(いきました)。",
+              "translation": "Pada waktu liburan musim dingin pergi ke mana? ……Ya, pergi ke Hokkaido untuk bermain ski."
+            },
+            {
+              "jp": "のどが かわきましたから、何か(なに)[を] 飲み(の)たいです。",
+              "translation": "Karena haus, ingin minum sesuatu."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "ご～",
+          "body": "ご menunjukkan penghormatan.",
+          "pattern": "Kata Kerja + ましょう = Mari kita...",
+          "examples": [
+            {
+              "jp": "⑭ ご注文(ちゅうもん)は？",
+              "translation": "Mau pesan apa?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 14,
+      "title": "Kelompok Kata Kerja, Bentuk Te (～て), Permintaan & Penawaran",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kelompok Kata Kerja",
+          "body": "Kata Kerja bahasa Jepang mengalami perubahan bentuk, kemudian dapat dibuat berbagai maksud kalimat dengan dibubuhkan kata-kata yang mengikutinya. Kata Kerja terbagi dalam 3 kelompok:\nKata Kerja Kelompok I: bunyi terakhir bentuk ます berakhir dengan bunyi pada kolom い. (Contoh: かき•ます\nmenulis, のみ•ます minum).\nKata Kerja Kelompok II: Hampir semua kata yang tergolong ke dalam kelompok ini, bunyi terakhir bentuk ます berakhir dengan bunyi pada kolom え, tetapi terdapat pula sebagiannya berakhir dengan bunyi pada kolom い. (Contoh: たべ•ます makan, みせ•ます memperlihatkan, み•ます melihat/menonton).\nKata Kerja Kelompok III: Kelompok ini します dan Kata Benda yang menunjukkan aksi + します, serta きます.\nKata Kerja Bentuk て\nBentuk konjugasi yang berakhir dengan て atau で disebut bentuk て. Cara membuat bentuk て dari bentuk ます\ntergantung pada kelompok Kata Kerja.\nKata Kerja Kelompok I:\nJika bunyi terakhir い, ち, り, maka diganti って. (かいます -> かって, まちます -> まって, かえります -> かえって).\nJika bunyi terakhir み, び, に, maka diganti んで. (のみます -> のんで, よびます -> よんで, しにます -> しんで).\nJika bunyi terakhir き dan ぎ, maka masing-masing diganti いて dan いで. (かきます -> かいて, いそぎます -> い\nそいで).\n*Pengecualian: いきます berubah menjadi いって.\nJika bunyi terakhir し, dibubuhkan て. (かします -> かして).\nKata Kerja Kelompok II: Bubuhkan て pada bentuk ます. (たべます -> たべて, みせます -> みせて, みます -> みて).\nKata Kerja Kelompok III: Bubuhkan て pada bentuk ます. (します -> して, きます -> きて, さんぽします -> さんぽして).",
+          "pattern": "Kelompok Kata Kerja I / II / III",
+          "examples": []
+        },
+        {
+          "num": 3,
+          "title": "Kata Kerja Bentuk て ください (Permintaan/Perintah Halus)",
+          "body": "Pola kalimat ini dipakai untuk memerintah, meminta, dan menawarkan sesuatu kepada lawan bicara. Dengan catatan bahwa, pada umumnya dipakai bersama dengan すみませんが.\n(Permisi, tolong ajarkan cara membaca Kanji ini.) - permintaan\n(Tolong tuliskan nama dengan bolpoin.) - perintah\n(Silakan makan banyak.) - ajakan/tawaran",
+          "pattern": "Kata Kerja + て形 + ください = Tolong...",
+          "examples": [
+            {
+              "jp": "すみませんが、この漢字の(かんじ) 読み(よ)方を(かた) 教() ください。",
+              "translation": ""
+            },
+            {
+              "jp": "ボールペンで 名前を(なまえ) 書() ください。",
+              "translation": ""
+            },
+            {
+              "jp": "どうぞ たくさん食() ください。",
+              "translation": ""
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Kerja Bentuk て います (Sedang Berlangsung)",
+          "body": "Pola kalimat ini menunjukkan suatu aksi yang sedang berlangsung.",
+          "pattern": "Kata Kerja + ない形 + で + ください = Tolong jangan...",
+          "examples": [
+            {
+              "jp": "ミラーさんは 今(いま) 電話を(でんわ) かけて います。",
+              "translation": "Sdr. Miller sedang menelepon."
+            },
+            {
+              "jp": "今(いま) 雨が(あめ) 降って いますか。…… はい、降って います。 / …… いいえ、降って いません。",
+              "translation": "Sekarang hujan turun? ……Ya, hujan turun. / ……Tidak, tidak turun hujan."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Kerja (Bentuk ます) ましょうか (Tawaran Bantuan)",
+          "body": "Ini adalah ekspresi dari si pembicara menawarkan untuk melakukan sesuatu untuk lawan bicara.",
+          "pattern": "Kata Kerja + て形 + います = Sedang...",
+          "examples": [
+            {
+              "jp": "あしたも 来ま(く)しょうか。…… ええ、10時に 来て(きて) ください。",
+              "translation": "Bagaimana kalau saya besok juga datang? ……Ya, tolong datang pada pukul sepuluh."
+            },
+            {
+              "jp": "傘を(かさ) 貸しましょうか。…… すみません。お願いします。",
+              "translation": "Bagaimana kalau saya pinjamkan payung? ……Terima kasih. Tolong pinjamkan."
+            },
+            {
+              "jp": "荷物を(にもつ) 持ち(も)ましょうか。…… いいえ、けっこうです。",
+              "translation": "Bagaimana kalau saya membawa barang? ……Tidak, terima kasih."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "Kata Benda が Kata Kerja",
+          "body": "Jika menyatakan suatu kejadian alam yang dirasakan dengan panca indera, atau menyampaikan peristiwa secara objektivitas, partikel が dipakai untuk subjek.",
+          "pattern": "Kata Kerja + て形 + いきます / きます = ...pergi / ...datang",
+          "examples": [
+            {
+              "jp": "雨が(あめ) 降って います。",
+              "translation": "Hujan turun."
+            },
+            {
+              "jp": "ミラーさんが いませんね。",
+              "translation": "Sdr. Miller tidak ada ya."
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "title": "すみませんが (Permisi / Maaf)",
+          "body": "Jika が yang dipakai sebagai ekspresi awal pembicaraan seperti すみませんが atau しつれいですが, が tidak berarti paradoks melainkan dipakai sebagai pendahuluan.",
+          "pattern": "すみませんが = Permisi",
+          "examples": [
+            {
+              "jp": "すみませんが、塩を(しお) 取って ください。",
+              "translation": "Maaf, tolong ambilkan garam."
+            },
+            {
+              "jp": "失礼で(しつれい)すが、お名前は(なまえ)？",
+              "translation": "Maaf, siapa namanya?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 15,
+      "title": "Izin, Larangan, Keadaan, & Kebiasaan",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Kerja Bentuk ても いいですか (Boleh...?)",
+          "body": "Ini adalah ungkapan untuk meminta izin. Cara menjawab untuk permohonan izin dengan ekspresi di atas adalah contoh ➁ atau contoh ③. Secara khusus ada caranya untuk jika tidak memberi izin, dengan cara menjawab secara tidak langsung (➁) dan memakai ekspresi larangan (③ serta melihat 2 di bawahnya).",
+          "pattern": "Kata Kerja + ても + いいですか = Bolehkah...?",
+          "examples": [
+            {
+              "jp": "写真を(しゃしん) 撮ってもいいですか。",
+              "translation": "Boleh mengambil foto?"
+            },
+            {
+              "jp": "ここでたばこを 吸ってもいいですか。…… ええ、[吸っても] いいですよ。 / …… すみません、ちょっと……。のどが 痛()ですから。",
+              "translation": "Boleh merokok di sini? ……Ya, boleh [merokok]. / ……Maaf, tidak boleh. Sebab kerongkongan sakit."
+            },
+            {
+              "jp": "ここでたばこを 吸ってもいいですか。…… ええ、[吸っても] いいですよ。 / …… いいえ、[吸っては] いけません。禁煙で(きんえん)すから。",
+              "translation": "Boleh merokok di sini? ……Ya, boleh [merokok]. / ……Tidak, tidak boleh [merokok]. Sebab dilarang merokok di sini."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja Bentuk ては いけません (Tidak boleh...)",
+          "body": "Ekspresi ini menunjukkan arti larangan. Ekspresi ini tidak dapat dipakai oleh bawahan terhadap atasan.\nKata Kerja Bentuk て います (Keadaan & Kebiasaan)\nDalam pola kalimat ini, selain cara penggunaan yang menunjukkan aksi yang sedang berlangsung yang telah dipelajari pada Pelajaran 14, terdapat cara penggunaan seperti di bawah ini.\nMenunjukkan keadaan (terutama dipakai Kata Kerja ～て います)\n([Perhatian 1] Bentuk negatif dari 知って います adalah 知りません. Perlu hati-hati bahwa tidak dikatakan 知って いません). ([Perhatian 2] もって います mempunyai dua arti yaitu, sekarang memegang di tangan dan memiliki).\nMenunjukkan perbuatan dari kebiasaan (aksi yang sama sedang berlangsung secara berulang-ulang dalam jangka waktu yang lama), atau pekerjaan dan status.",
+          "pattern": "Kata Kerja + ては + いけません = Dilarang...",
+          "examples": [
+            {
+              "jp": "ここでたばこを 吸っては いけません。禁煙で(きんえん)すから。",
+              "translation": "Tidak boleh merokok di sini. Sebab dilarang merokok."
+            },
+            {
+              "jp": "わたしは 結婚し(けっこん)て います。",
+              "translation": "Saya telah menikah."
+            },
+            {
+              "jp": "わたしは 田中(たなか)さんを 知() います。",
+              "translation": "Saya kenal Sdr. Tanaka."
+            },
+            {
+              "jp": "わたしは カメラを 持() います。",
+              "translation": "Saya mempunyai kamera."
+            },
+            {
+              "jp": "わたしは 大阪(おおさか)に 住んで(すんで) います。",
+              "translation": "Saya tinggal di Osaka."
+            },
+            {
+              "jp": "市役所(しやくしょ)の 電話(でんわ)番号(でんわばんごう)を 知() いますか。…… はい、知(しって) います。 / …… いいえ、知りません。",
+              "translation": "Apakah tahu nomor telepon kantor wali kota? ……Ya, tahu. / ……Tidak, tidak tahu."
+            },
+            {
+              "jp": "IMC は コンピューターソフトを 作() います。",
+              "translation": "IMC memproduksi perangkat lunak komputer."
+            },
+            {
+              "jp": "スーパーで ナンプラーを 売() います。",
+              "translation": "Di pasar swalayan dijual kecap ikan."
+            },
+            {
+              "jp": "ミラーさんは IMC で 働() います。",
+              "translation": "Sdr. Miller bekerja di IMC."
+            },
+            {
+              "jp": "妹は(いもうと) 大学で(だいがく) 勉強(べんきょう)して います。",
+              "translation": "Adik perempuan saya kuliah di universitas."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda に Kata Kerja",
+          "body": "Partikel に digunakan bersama dengan Kata Kerja seperti はいります, すわります, のります (naik), のぼります\n(naik), つきます (tiba), kemudian menunjukkan hasil melakukan aksi dan tempat subjek berada.",
+          "pattern": "Kata Kerja + て形 + いて / っています = ...sudah...",
+          "examples": [
+            {
+              "jp": "ここに 入()は いけません。",
+              "translation": "Tidak boleh masuk ke sini."
+            },
+            {
+              "jp": "ここに 座()もいいですか。",
+              "translation": "Boleh duduk di sini?"
+            },
+            {
+              "jp": "京都(きょうと)駅から 16番の バスに 乗() ください。",
+              "translation": "Silakan naik bus nomor 16 dari stasiun Kyoto."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda₁ に Kata Benda₂ を Kata Kerja",
+          "body": "Partikel に menunjukkan tempat Kata Benda₂ berada (Kata Benda₁) akibat dari melakukan aksi. に dari contoh ⑱\njuga memiliki fungsi yang sama.",
+          "pattern": "Kata Benda₁ + に + Kata Benda₂ + を + Kata Kerja = ...diberikan kepada...",
+          "examples": [
+            {
+              "jp": "ここに 車を(くるま) 止め(と)て ください。",
+              "translation": "Hentikan mobil di sini."
+            },
+            {
+              "jp": "ここに 住(す)所(じゅうしょ)を 書() ください。",
+              "translation": "Tuliskan alamat di sini."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 16,
+      "title": "Menggabungkan Kalimat (Bentuk て), Kondisi, & Urutan",
+      "points": [
+        {
+          "num": 1,
+          "title": "Cara menyambung kalimat yang lebih dari dua",
+          "body": "1) Kata Kerja Bentuk て、[Kata Kerja Bentuk て] Kata Kerja\n2) Kata Sifat い (〜い) → 〜くて\n3) Kata Sifat な [な] → 〜で\n4) Kata Benda で\nFungsi: Menggabungkan beberapa predikat, sifat, atau kalimat menjadi satu kalimat utuh menggunakan konjugasi bentuk 〜て (~te) atau 〜で (~de).",
+          "pattern": "Kata Kerja₁ + て形 + Kata Kerja₂ = ...lalu...",
+          "examples": [
+            {
+              "jp": "カリナさんは インドネシア人で(じん)、富士大学の(だいがく) 留学生(りゅうがくせい)です。",
+              "translation": "Sdr. Karina adalah orang Indonesia dan pelajar asing dari Universitas Fuji."
+            },
+            {
+              "jp": "カリナさんは 学生で(がくせい)、マリアさんは 主婦で(しゅふ)す。",
+              "translation": "Sdr. Karina adalah mahasiswa, sedangkan Sdr. Maria adalah ibu rumah tangga."
+            },
+            {
+              "jp": "ミラーさんは ハンサムで、親切()です。",
+              "translation": "Sdr. Miller ganteng dan baik hati."
+            },
+            {
+              "jp": "奈良は(なら) 静しずかで、きれいな 町まちです。",
+              "translation": "Nara adalah kota yang tenang dan indah."
+            },
+            {
+              "jp": "ミラーさんは 若わかくて、元気で(げんき)す。",
+              "translation": "Sdr. Miller muda dan sehat."
+            },
+            {
+              "jp": "きのうは 天気が(てんき) よくて、暑あ(あつ)つかったです。",
+              "translation": "Kemarin cuaca baik dan panas."
+            },
+            {
+              "jp": "朝あさ ジョギングをして、シャワーを浴あ(あび)びて、会社へ(かいしゃ)行き(い)ます。",
+              "translation": "Pagi hari joging, mandi, kemudian pergi ke perusahaan."
+            },
+            {
+              "jp": "神戸へ(こうべ)行っ(い)て、映画を(えいが)見み(み)て、お茶ちゃを飲の(の)みました。",
+              "translation": "Pergi ke Kobe, menonton film, kemudian minum teh."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja₁ Bentuk てから、Kata Kerja₂",
+          "body": "Fungsi: Menyatakan bahwa aksi kedua (di belakang) dilakukan setelah aksi pertama selesai dilakukan sepenuhnya.",
+          "pattern": "Kata Kerja₁ + て形 + から + Kata Kerja₂ = Setelah...,...",
+          "examples": [
+            {
+              "jp": "もう昼ひるごはんを 食た(た)べましたか。……この 仕事が(しごと) 終おわってから、食たべます。",
+              "translation": "Sudah makan siang? ……Setelah selesai pekerjaan ini, baru mau makan."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda₁ は Kata Benda₂ が Kata Sifat",
+          "body": "Fungsi: Menunjukkan bahwa suatu subjek utama (Benda 1) memiliki sub-elemen atau karakteristik tertentu (Benda 2) yang dijelaskan oleh kata sifat.",
+          "pattern": "Kata Benda₁ + は + Kata Benda₂ + が + Kata Sifat = ...punya...",
+          "examples": [
+            {
+              "jp": "大阪は(おおさか) 食べ(た)物も(たべもの)のが おいしいです。",
+              "translation": "Osaka makanannya enak."
+            },
+            {
+              "jp": "ドイツの フランケンは ワインが 有名()です。",
+              "translation": "Franken di Jerman anggurnya terkenal."
+            },
+            {
+              "jp": "マリアさんは 髪か(かみ)みが 長な(なが)がいです。",
+              "translation": "Sdr. Maria rambutnya panjang."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda を Kata Kerja",
+          "body": "Fungsi: Partikel を dipakai dengan kata kerja perpindahan tempat (seperti keluar 出る, turun 降りる, berjalan 散歩する) untuk menunjukkan titik/area pergerakan.",
+          "pattern": "Kata Benda + を + Kata Kerja = ...lakukan...",
+          "examples": [
+            {
+              "jp": "7時じに うちを 出で(で)ます。",
+              "translation": "Pada pukul tujuh keluar dari rumah."
+            },
+            {
+              "jp": "梅田で(うめだ) 電車を(でんしゃ) 降おりました。",
+              "translation": "Turun kereta rel listrik di Umeda."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "どうやって",
+          "body": "Fungsi: Kata tanya untuk menanyakan cara, urutan, atau metode untuk melakukan sesuatu atau mencapai suatu tempat.",
+          "pattern": "どうやって + Kata Kerja = Bagaimana cara...?",
+          "examples": [
+            {
+              "jp": "⑯ 大学ま(だいがく)で どうやって 行き(い)ますか。……京都(きょうと)駅きょうとえきから 16番ばんの バスに 乗の(の)って、大学前だいがくまえで降おります。",
+              "translation": "Bagaimana caranya pergi ke universitas? ……Dari stasiun Kyoto, naik bus nomor 16, dan turun di Daigakumae."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "どれ・どの Kata Benda",
+          "body": "Fungsi: Menanyakan pilihan \"yang mana\" dari tiga hal atau lebih. どれ (kata ganti mandiri), どの (harus diikuti kata benda).",
+          "pattern": "どれ / どの + Kata Benda = Yang mana?",
+          "examples": [
+            {
+              "jp": "⑰ ミラーさんの 傘か(かさ)さは どれですか。……あの 青あ(あお)おい 傘かさです。",
+              "translation": "Yang mana payung Sdr. Miller? ……Payung yang biru itu."
+            },
+            {
+              "jp": "十八(じゅうはち) サントスさんは どの 人ひ(じん)とですか。……あの 背せが 高た(たかい)かくて、髪か(かみ)みが 黒くろい 人ひとです。",
+              "translation": "Sdr. Santos orangnya yang mana? ……Orang yang badannya tinggi, dan rambutnya hitam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 17,
+      "title": "Bentuk Kamus Negatif, Larangan, & Kewajiban",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Kerja Bentuk ない (ない形)",
+          "body": "Fungsi: Bentuk kamus negatif (bentuk biasa negatif) dari kata kerja.\nKel I: Huruf い diubah menjadi あ (かきます → かかない)\nKel II: ます dihapus, ditambah ない (たべます → たべない)\nKel III: します → しない / きます → こない",
+          "pattern": "Kata Kerja (Bentuk ない) = Tidak...lakukan",
+          "examples": []
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja (Bentuk ない) ないで ください (Jangan...!)",
+          "body": "Fungsi: Menyatakan larangan atau permintaan secara halus agar orang lain tidak melakukan suatu tindakan.",
+          "pattern": "Kata Kerja + ないで + ください = Tolong jangan...",
+          "examples": [
+            {
+              "jp": "ここで 写真を(しゃしん) 撮ら(と)ないで ください。",
+              "translation": "Jangan mengambil foto di sini!"
+            },
+            {
+              "jp": "わたしは 元気で(げんき)すから、心配し(しんぱい)ないで ください。",
+              "translation": "Karena saya sehat, jangan khawatir."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Kerja (Bentuk ない) なければ なりません (Harus)",
+          "body": "Fungsi: Menyatakan suatu kewajiban atau keharusan mutlak yang harus dilakukan. (Harfiah: jika tidak melakukan, maka tidak boleh).",
+          "pattern": "Kata Kerja + なければ なりません = Harus...",
+          "examples": [
+            {
+              "jp": "薬く(くすり)すりを 飲の(の)まなければ なりません。",
+              "translation": "Harus minum obat."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Kerja (Bentuk ない) なくても いいです (Tidak perlu)",
+          "body": "Fungsi: Menyatakan keringanan / izin untuk tidak melakukan suatu tindakan (tidak harus / tidak perlu dilakukan).",
+          "pattern": "Kata Kerja + なくても + いいです = Tidak apa-apa kalau tidak...",
+          "examples": [
+            {
+              "jp": "あした 来こ(く)なくてもいいです。",
+              "translation": "Besok tidak perlu datang."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Pentopikan Objek",
+          "body": "Fungsi: Menempatkan objek (yang biasanya ditandai dengan を) di awal kalimat dan ditandai partikel は untuk memberikan penekanan khusus pada objek tersebut (sebagai topik).",
+          "pattern": "Kata Benda + は + ここに + ないで + ください = Tolong jangan taruh di...",
+          "examples": [
+            {
+              "jp": "荷物は(にもつ) ここに 置か(お)ないで ください。",
+              "translation": "Barangnya jangan diletakkan di sini."
+            },
+            {
+              "jp": "昼ひるごはんは 会社の(かいしゃ) 食堂(しょくどう)で 食た(た)べます。",
+              "translation": "Makan siangnya makan di kantin perusahaan."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "Kata Benda (waktu) までに Kata Kerja (Batas Waktu)",
+          "body": "Fungsi: Menunjukkan batas waktu (deadline) maksimal; aksi harus diselesaikan sebelum atau selambat-lambatnya pada titik waktu tersebut.",
+          "pattern": "Kata Kerja + おわります / はじめます = Mulai.../ Selesai...",
+          "examples": [
+            {
+              "jp": "会(あ)議は(かいぎ) 5時じまでに 終おわります。",
+              "translation": "Rapat selesai sebelum pukul lima."
+            },
+            {
+              "jp": "土曜日ま(どようび)でに 本ほ(ほん)んを 返かえさなければ なりません。",
+              "translation": "Mengembalikan buku sampai dengan hari Sabtu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 18,
+      "title": "Bentuk Kamus, Kemampuan (～できる), & Hobi (～です)",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Kerja Bentuk Kamus (辞書形)",
+          "body": "Fungsi: Bentuk dasar kata kerja yang tercantum di dalam kamus, juga digunakan sebagai bentuk biasa (informal) untuk masa kini/akan datang. (かきます→かく, たべます→たべる).",
+          "pattern": "Kata Kerja + できる = Bisa...",
+          "examples": []
+        },
+        {
+          "num": 2,
+          "title": "Kata Benda / Kata Kerja Bentuk Kamus こと が できます (Dapat...)",
+          "body": "Fungsi: Menyatakan potensi, kesanggupan, atau kemampuan seseorang untuk melakukan sesuatu, baik karena keahlian maupun karena situasi memungkinkan.",
+          "pattern": "Kata Kerja + こと + が + できます = Bisa...lakukan",
+          "examples": [
+            {
+              "jp": "ミラーさんは 日本語が(にほんご) できます。",
+              "translation": "Sdr. Miller bisa berbahasa Jepang."
+            },
+            {
+              "jp": "雪ゆ(ゆき)きが たくさん 降ふりましたから、ことしはスキーが できます。",
+              "translation": "Karena salju turun banyak, tahun ini dapat bermain ski."
+            },
+            {
+              "jp": "ミラーさんは 漢字を(かんじ) 読よ(よ)む ことが できます。",
+              "translation": "Sdr. Miller bisa membaca Kanji."
+            },
+            {
+              "jp": "カードで 払は(はら)らうことが できます。",
+              "translation": "Dapat membayar dengan kartu."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "わたしの 趣味は {Kata Benda / Kata Kerja Bentuk Kamus こと} です",
+          "body": "Fungsi: Pola untuk menyebutkan hobi pribadi. Jika hobi berupa kata kerja (misal: memancing, membaca), harus diubah dulu menjadi bentuk benda dengan menambahkan kata こと (koto).",
+          "pattern": "Kata Kerja + とき = Ketika...",
+          "examples": [
+            {
+              "jp": "わたしの 趣味は(しゅみ) 音楽で(おんがく)す。",
+              "translation": "Hobi saya adalah musik."
+            },
+            {
+              "jp": "わたしの 趣味は(しゅみ) 音楽を(おんがく) 聞き(き)くことです。",
+              "translation": "Hobi saya adalah mendengarkan musik."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Kerja₁ Bentuk Kamus / Kata Benda の / Jangka Waktu + まえに、Kata Kerja₂",
+          "body": "Fungsi: Menyatakan bahwa kegiatan kedua dilakukan sebelum kegiatan pertama, atau sebelum suatu titik waktu/ periode tertentu.",
+          "pattern": "Kata Kerja₁ + と + Kata Kerja₂ = Kalau...,...",
+          "examples": [
+            {
+              "jp": "日本へ(にほん) 来く(く)る まえに、日本語を(にほんご) 勉強(べんきょう)しました。",
+              "translation": "Sebelum datang di Jepang, belajar bahasa Jepang."
+            },
+            {
+              "jp": "寝る(ね) まえに、本ほ(ほん)んを 読よ(よ)みます。",
+              "translation": "Sebelum tidur, membaca buku."
+            },
+            {
+              "jp": "食事の(しょくじ) まえに、手て(て)を 洗あらいます。",
+              "translation": "Sebelum makan mencuci tangan."
+            },
+            {
+              "jp": "田中(たなか)さんは 1時間ま(じかん)えに、出で(で)かけました。",
+              "translation": "Sdr. Tanaka telah keluar sejam yang lalu."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "なかなか",
+          "body": "Fungsi: Kata keterangan yang digunakan bersama kata kerja bentuk negatif (misal: できません) untuk menyatakan bahwa sesuatu \"tidak mudah / tidak gampang / jarang bisa\" dilakukan.",
+          "pattern": "Kata Kerja + と + なる = Menjadi...",
+          "examples": [
+            {
+              "jp": "⑪ 日本で(にほん)は なかなか 馬う(うま)まを 見み(み)る ことが できません。",
+              "translation": "Di Jepang tidak mudah untuk melihat kuda."
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "ぜひ",
+          "body": "Fungsi: Kata keterangan yang berarti \"dengan sangat / sungguh-sungguh\". Biasanya dipakai bersama bentuk keinginan (~たい) atau permohonan/harapan (~てください).",
+          "pattern": "Kata Kerja + ませんか = Maukah...?",
+          "examples": [
+            {
+              "jp": "ぜひ 北海道(ほっかいどう)へ 行い(い)きたいです。",
+              "translation": "Ingin sekali pergi ke Hokkaido."
+            },
+            {
+              "jp": "ぜひ 遊あ(あそ)そびに 来き(く)て ください。",
+              "translation": "Sungguh diharapkan untuk datang bermain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 19,
+      "title": "Bentuk Lampau (た形), Pengalaman, & Perubahan",
+      "points": [
+        {
+          "num": 1,
+          "title": "Kata Kerja Bentuk た (た形)",
+          "body": "Fungsi: Bentuk konjugasi lampau informal dari kata kerja (memiliki aturan perubahan yang sama persis dengan bentuk\nて). (かいて → かいた, のんで → のんだ).",
+          "pattern": "Kata Kerja (Bentuk た形) = Bentuk lampau",
+          "examples": []
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja Bentuk た ことが あります (Pernah...)",
+          "body": "Fungsi: Menyatakan pengalaman pernah melakukan suatu hal di masa lalu. Tidak digunakan untuk aktivitas rutin masa lalu.",
+          "pattern": "Kata Kerja + た + こと + が + あります = Pernah...lakukan",
+          "examples": [
+            {
+              "jp": "馬う(うま)まに 乗の(の)った ことが あります。",
+              "translation": "Pernah berkuda."
+            },
+            {
+              "jp": "去年(きょねん) 北海道(ほっかいどう)で 馬う(うま)まに 乗の(の)りました。",
+              "translation": "Tahun lalu berkuda di Hokkaido."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Kerja₁ Bentuk たり、Kata Kerja₂ Bentuk たり します",
+          "body": "Fungsi: Menyebutkan beberapa contoh aktivitas perwakilan (secara acak/tidak berurutan) dari banyak aktivitas yang dilakukan. Waktu kejadian ditentukan oleh \"します\" di akhir kalimat.",
+          "pattern": "Kata Kerja₁ + たり + Kata Kerja₂ + たり します = ...dan lain-lain",
+          "examples": [
+            {
+              "jp": "日曜日(にちようび)は テニスを したり、映画を(えいが) 見み(み)たり します。",
+              "translation": "Pada hari Minggu bermain tenis, dan menonton film."
+            },
+            {
+              "jp": "日曜日(にちようび)は テニスを したり、映画を(えいが) 見み(み)たり しました。",
+              "translation": "Pada hari Minggu yang lalu bermain tenis, dan menonton film."
+            },
+            {
+              "jp": "日曜日(にちようび)は テニスを して、映画を(えいが) 見み(み)ました。",
+              "translation": "Pada hari Minggu yang lalu, bermain tenis, kemudian menonton film."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "〜 く / 〜 に なります (Menjadi...)",
+          "body": "寒さむい → 寒さむくなります\n(menjadi dingin)\n元気げんき[な] → 元気げんきに なります\n(menjadi sehat)\n25歳さい → 25歳さいに なります\n(menjadi 25 tahun)\nFungsi: Menyatakan perubahan kondisi atau keadaan alam/situasi. Kata Sifat い diubah ujungnya menjadi ~く, sedangkan Kata Sifat な dan Kata Benda ditambahkan ~に.",
+          "pattern": "～く / ～に なります = Menjadi...",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "bab": 20,
+      "title": "Bentuk Biasa & Sopan (普通形 vs 丁寧形)",
+      "points": [
+        {
+          "num": 2,
+          "title": "Pembagian cara pemakaian Bentuk Sopan dan Bentuk Biasa",
+          "body": "Fungsi: Menjelaskan konteks komunikasi. Bentuk sopan digunakan kepada atasan atau orang yang baru dikenal. Bentuk biasa digunakan kepada teman akrab, keluarga, atau dalam penulisan ilmiah/artikel (seperti laporan dan makalah). Surat umum biasanya memakai bentuk sopan.\nPercakapan dalam Bentuk Biasa\nFungsi: Dalam percakapan akrab (kasual), partikel pendek seperti か, を, へ, は, が dan huruf い dari pola 〜ている sering dihilangkan (disingkat) agar percakapan terdengar lebih alami dan mengalir cepat. Kalimat tanya ditandai dengan intonasi naik.",
+          "pattern": "Pembagian cara pemakaian Bentuk Sopan dan Bentuk Biasa",
+          "examples": [
+            {
+              "jp": "コーヒーを 飲の(の)む？",
+              "translation": "Mau minum kopi? ……Ya, mau minum."
+            },
+            {
+              "jp": "今(いま)晩 暇()ひま？ ……うん、暇ひ(ひま)ま / 暇ひ(ひま)まだよ。 / ううん、暇ひ(ひま)まじゃない。",
+              "translation": "Nanti malam luang? ……Ya/Tidak luang."
+            },
+            {
+              "jp": "ごはん[を] 食た(た)べる？",
+              "translation": "Mau makan?"
+            },
+            {
+              "jp": "あした 京都(きょうと)[へ] 行い(い)かない？",
+              "translation": "Bagaimana kalau besok ke Kyoto?"
+            },
+            {
+              "jp": "この りんご[は] おいしいね。",
+              "translation": "Apel ini enak ya."
+            },
+            {
+              "jp": "そこに はさみ[が] ある？",
+              "translation": "Di situ ada gunting?"
+            },
+            {
+              "jp": "辞書(じしょ)、持も(も)って [い]る？ ……うん、持もって [い]る。",
+              "translation": "Punya kamus? ……Ya, punya."
+            },
+            {
+              "jp": "その カレー[は] おいしい？ ……うん、辛か(から)らいけど、おいしい。",
+              "translation": "Kare itu enak? ……Ya, pedas, tetapi enak."
+            },
+            {
+              "jp": "相撲の(すもう) チケット[が] あるけど、いっしょに 行い(い)かない？ ……いいね。",
+              "translation": "Punya tiket sumo, mau pergi sama-sama? ……Bagus ya."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 21,
+      "title": "Pendapat (～と思います), Kutipan (～と言います), & Konfirmasi",
+      "points": [
+        {
+          "num": 1,
+          "title": "Bentuk Biasa と 思います (Saya kira...)",
+          "body": "Fungsi: Digunakan untuk menyatakan pendapat, asumsi, perkiraan, atau opini pribadi. Kalimat pengantarnya harus diubah ke Bentuk Biasa sebelum partikel と.",
+          "pattern": "Kata Kerja / Kata Sifat + と思います = Saya kira...",
+          "examples": [
+            {
+              "jp": "あした 雨が(あめ) 降る(ふ)と思い(おも)ます。",
+              "translation": "Saya kira besok hujan turun."
+            },
+            {
+              "jp": "テレーザちゃんは もう寝ね(ね)たと 思い(おも)ます。",
+              "translation": "Saya kira Teresa sudah tidur."
+            },
+            {
+              "jp": "ミラーさんは この ニュースを 知て(し) いますか。",
+              "translation": ""
+            },
+            {
+              "jp": "……いいえ、知ら(し)ないと 思い(おも)ます。",
+              "translation": "Apakah Sdr. Miller tahu berita ini? ……Tidak, saya kira dia tidak tahu."
+            },
+            {
+              "jp": "日本は(にほん) 物価が(ぶっか) 高た(たかい)かいと 思い(おも)ます。",
+              "translation": "Saya pikir Jepang harga barangnya mahal."
+            },
+            {
+              "jp": "新あたらしい 空港に(くうこう) ついて どう思い(おも)ますか。",
+              "translation": ""
+            },
+            {
+              "jp": "……きれいですが、ちょっと交通が(こうつう) 不便だ(ふべん)と 思い(おも)ます。",
+              "translation": "Mengenai bandara baru, menurut Anda bagaimana? ……Bersih, tetapi lalu lintasnya kurang praktis."
+            },
+            {
+              "jp": "ケータイは 便利()ですね。……わたしも そう 思い(おも)ます。",
+              "translation": "HP itu praktis ya. ……Saya rasa begitu juga."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "\"Kalimat\" / Bentuk Biasa と 言います (Mengatakan bahwa...)",
+          "body": "Fungsi: Digunakan untuk mengutip ucapan seseorang. Jika kutipan langsung, kalimat ditulis persis dengan tanda kutip (\"...\"). Jika kutipan tidak langsung, diubah menjadi Bentuk Biasa sebelum と言います.",
+          "pattern": "「～」+ と + 言います = ...berkata \"...\"",
+          "examples": [
+            {
+              "jp": "寝る(ね) まえに、「お休や(やす)すみなさい」と 言い(いう)います。",
+              "translation": "Sebelum tidur mengucapkan \"Selamat tidur\"."
+            },
+            {
+              "jp": "ミラーさんは「来週(らいしゅう) 東京(とうきょう)へ 出張します(しゅっちょうします)」と 言い(いう)いました。",
+              "translation": "Sdr. Miller berkata \"Minggu depan dinas ke Tokyo\"."
+            },
+            {
+              "jp": "ミラーさんは 東京(とうきょう)へ 出張(しゅっちょう) すると 言いました(いいました)。",
+              "translation": "Sdr. Miller mengatakan bahwa dinas ke Tokyo."
+            },
+            {
+              "jp": "父ち(ちち)ちに 留学(りゅうがく)したいと 言い(いう)いました。",
+              "translation": "Saya berkata kepada ayah bahwa ingin belajar di luar negeri."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Bentuk Biasa でしょう？ (..., bukan?)",
+          "body": "Fungsi: Meminta konfirmasi atau persetujuan dari lawan bicara tentang suatu hal yang pembicara asumsikan (atau harapkan) lawan bicaranya juga mengetahuinya atau setuju dengannya.",
+          "pattern": "Kata Kerja + でしょう = Mungkin.../ ...kan?",
+          "examples": [
+            {
+              "jp": "あした パーティーに 行い(い)くでしょう？",
+              "translation": ""
+            },
+            {
+              "jp": "……ええ、行き(い)ます。",
+              "translation": "Besok pergi ke pesta, bukan? ……Ya, pergi."
+            },
+            {
+              "jp": "北海道(ほっかいどう)は 寒さ(さむ)むかったでしょう？",
+              "translation": ""
+            },
+            {
+              "jp": "……いいえ、そんなに 寒く(さむ)なかったです。",
+              "translation": "Hokkaido dingin, bukan? ……Tidak, tidak begitu dingin."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda1(tempat) で Kata Benda2 が あります",
+          "body": "Fungsi: Digunakan untuk menyatakan bahwa suatu acara, kejadian, atau event (festival, pertandingan bola, rapat) diadakan atau berlangsung di suatu tempat.",
+          "pattern": "～でしょう = ...kan?",
+          "examples": [
+            {
+              "jp": "⑬ 東京(とうきょう)で 日本と(にほん)ブラジルの サッカーの 試合が(しあい) あります。",
+              "translation": "Di Tokyo diadakan pertandingan sepak bola antara Jepang dan Brasil."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda(adegan) で",
+          "body": "Fungsi: Partikel で digunakan untuk menunjukkan kejadian atau aktivitas yang berlangsung pada saat atau di dalam suatu adegan/situasi (seperti di dalam rapat, pesta).",
+          "pattern": "Kata Sifat + くて / で = ...dan...",
+          "examples": [
+            {
+              "jp": "⑭ 会(あ)議で(かいぎ) 何か(なに) 意見を(いけん) 言い(いう)いましたか。",
+              "translation": "Di dalam rapat, apakah mengutarakan suatu pendapat?"
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "title": "Kata Benda でも Kata Kerja",
+          "body": "Fungsi: Mengusulkan atau menawarkan suatu benda sebagai contoh atau opsi dari sebuah kategori (\"sejenisnya / atau apalah\"). Kesannya lebih luwes dan santai.",
+          "pattern": "Kata Kerja₁ + と + Kata Kerja₂ = Kalau...,...",
+          "examples": [
+            {
+              "jp": "⑮ ちょっとビールでも 飲の(の)みませんか。",
+              "translation": "Bagaimana kalau minum bir, atau sejenisnya...?"
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "title": "Kata Kerja (Bentuk ない) ないと……",
+          "body": "Fungsi: Singkatan dari pola keharusan (なければなりません atau ないといけません). Biasanya diucapkan untuk menyatakan bahwa pembicara \"harus segera\" melakukan sesuatu (kalau tidak, akan ada masalah).",
+          "pattern": "Kata Kerja (Bentuk ない) + ないと…… = Harus...!",
+          "examples": [
+            {
+              "jp": "⑯ もう帰か(かえ)えらないと……。",
+              "translation": "Harus segera pulang..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 22,
+      "title": "Anak Kalimat (Relative Clauses) & Kata Benda Abstrak",
+      "points": [
+        {
+          "num": 1,
+          "title": "Anak Kalimat (Menerangkan Kata Benda)",
+          "body": "Fungsi: Sebuah klausa/kalimat (yang menggunakan Bentuk Biasa) difungsikan mirip dengan kata sifat, yaitu untuk menjelaskan secara detail sebuah Kata Benda yang ada di belakangnya. Partikel subjek di dalam anak kalimat ini diganti menjadi が (bukan は).\nKata Kerja, Kata Sifat, Kata Benda dalam anak kalimat\n① 京都きょうとへ 行いく人ひと\n(orang yang pergi ke Kyoto)\n行いかない人ひと\n(orang yang tidak pergi ke Kyoto)\n行いった人ひと\n(orang yang telah pergi)\nAnak kalimat dipakai dalam berbagai pola kalimat\nSubjek di dalam anak kalimat (menggunakan partikel が)",
+          "pattern": "Kata Kerja (Bentuk た) + 人 / 物 / 場所 = ...yang...",
+          "examples": [
+            {
+              "jp": "これは ミラーさんが 住す(す)んでいた うちです。",
+              "translation": "Ini adalah rumah yang dihuni Sdr. Miller."
+            },
+            {
+              "jp": "ミラーさんが 住す(す)んでいた うちは 古ふ(ふる)るいです。",
+              "translation": "Rumah yang dihuni Sdr. Miller sudah tua."
+            },
+            {
+              "jp": "ミラーさんが 住す(す)んでいた うちを 買か(か)いました。",
+              "translation": "Membeli rumah yang dihuni Sdr. Miller."
+            },
+            {
+              "jp": "わたしは ミラーさんが 住す(す)んでいた うちが 好す(す)きです。",
+              "translation": "Saya suka rumah yang dihuni Sdr. Miller."
+            },
+            {
+              "jp": "ミラーさんが 住す(す)んでいた うちに 猫ね(ねこ)こが いました。",
+              "translation": "Di rumah yang dihuni Sdr. Miller ada kucing."
+            },
+            {
+              "jp": "ミラーさんが 住す(す)んでいた うちへ 行い(い)った ことが あります。",
+              "translation": "Pernah pergi ke rumah yang dihuni Sdr. Miller."
+            },
+            {
+              "jp": "これは ミラーさんが 作つ(つく)くった ケーキです。",
+              "translation": "Ini adalah kue yang dibuat oleh Sdr. Miller."
+            },
+            {
+              "jp": "わたしは カリナさんが かいた 絵えが 好す(す)きです。",
+              "translation": "Saya suka lukisan yang dilukis oleh Sdr. Karina."
+            },
+            {
+              "jp": "[あなたは] 彼かれが 生うまれた 所ところを 知て(し) いますか。",
+              "translation": "Apakah [Anda] tahu tempat dia lahir?"
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja Bentuk Kamus 時間 / 約束 / 用事",
+          "body": "Fungsi: Kata benda abstrak (seperti waktu/waktu untuk, janji/janji untuk, urusan/urusan untuk) diterangkan dengan Kata Kerja Bentuk Kamus di depannya untuk memberikan konteks pada kata benda tersebut.",
+          "pattern": "Kata Benda₁ + は + Kata Benda₂ + です = ...adalah...",
+          "examples": [
+            {
+              "jp": "わたしは 朝あさごはんを 食た(た)べる 時間が(じかん) ありません。",
+              "translation": "Saya tidak ada waktu untuk makan pagi."
+            },
+            {
+              "jp": "わたしは 友達と(ともだち)映画を(えいが) 見み(み)る 約束が(やくそく) あります。",
+              "translation": "Saya ada janji dengan teman untuk menonton film."
+            },
+            {
+              "jp": "きょうは 市役所(しやくしょ)へ 行い(い)く用事が(ようじ) あります。",
+              "translation": "Hari ini ada urusan pergi ke kantor wali kota."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Kerja (Bentuk ます) ましょうか",
+          "body": "Fungsi: Menawarkan bantuan kepada orang lain, atau menawarkan suatu ide/usul untuk dilakukan bersama-sama (\"Bagaimana kalau kita...?\").",
+          "pattern": "Kata Kerja (Bentuk て) + いる = Sedang.../ ...sudah...",
+          "examples": [
+            {
+              "jp": "⑭ この 部屋(へや)、きょう 見み(み)る ことが できますか。",
+              "translation": ""
+            },
+            {
+              "jp": "……ええ。今か(いま)ら 行き(い)ましょうか。",
+              "translation": "Apakah kamar ini dapat saya lihat hari ini? ……Ya. Bagaimana kalau kita pergi sekarang?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 23,
+      "title": "Keterangan Waktu (～とき, ～と) & Partikel を (Jalur)",
+      "points": [
+        {
+          "num": 1,
+          "title": "{Kata Kerja / Kata Sifat / Kata Benda} とき、〜 (Ketika...)",
+          "body": "Fungsi: Menyatakan keterangan waktu \"ketika / pada saat\" suatu keadaan, peristiwa, atau aksi terjadi. Konjugasinya menggunakan bentuk yang menerangkan kata benda (Bentuk Biasa, Sifat-na + な, Benda + の).",
+          "pattern": "Kata Kerja / Kata Sifat + とき = Ketika...,...",
+          "examples": [
+            {
+              "jp": "図書館(としょかん)で 本ほ(ほん)んを 借か(か)りるとき、カードが 要いります。",
+              "translation": "Ketika meminjam buku di perpustakaan, diperlukan kartu."
+            },
+            {
+              "jp": "使つ(つか)かい方か(かた)たが わからない とき、わたしに 聞き(き)いて ください。",
+              "translation": "Jika tidak tahu cara pemakaiannya, silakan tanya kepada saya."
+            },
+            {
+              "jp": "体からだの 調子が(ちょうし) 悪わ(わるい)るい とき、「元気(げんき)茶(げんきちゃ)げんきちゃ」を飲の(の)みます。",
+              "translation": "Ketika badan tidak enak, minum \"Genki-cha\"."
+            },
+            {
+              "jp": "暇()ひまな とき、うちへ遊あ(あそ)そびに 来き(く)ませんか。",
+              "translation": "Pada waktu luang, bagaimana kalau datang bermain ke rumah saya?"
+            },
+            {
+              "jp": "妻つまが 病気の(びょうき) とき、会社を(かいしゃ) 休や(やす)すみます。",
+              "translation": "Jika istri sakit, saya tidak masuk kerja."
+            },
+            {
+              "jp": "若わかい とき、あまり勉強(べんきょう)しませんでした。",
+              "translation": "Waktu muda, tidak begitu belajar."
+            },
+            {
+              "jp": "子こどもの とき、よく川か(かわ)わで 泳お(およ)よぎました。",
+              "translation": "Waktu masih kecil, sering berenang di sungai."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "{ Kata Kerja Kamus / Kata Kerja た } とき、〜 (Waktu...)",
+          "body": "Fungsi: Menunjukkan urutan waktu. Jika memakai Bentuk Kamus (~ru toki) berarti aksi anak kalimat belum selesai (masih persiapan). Jika memakai Bentuk た (~ta toki) berarti aksi anak kalimat sudah selesai terjadi.",
+          "pattern": "Kata Kerja + と + Kata Kerja = Kalau...,...(pasti)",
+          "examples": [
+            {
+              "jp": "パリへ 行い(い)くとき、かばんを 買か(か)いました。",
+              "translation": "Waktu mau pergi ke Paris, saya membeli tas. - Belum tiba/Dalam persiapan"
+            },
+            {
+              "jp": "パリへ 行い(い)った とき、かばんを 買か(か)いました。",
+              "translation": "Waktu pergi ke Paris, saya membeli tas. - Setelah tiba/Di Paris"
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Kerja Bentuk Kamus と、〜 (Kalau...)",
+          "body": "Fungsi: Menyatakan sebab-akibat mutlak, hal-hal rutin, arahan jalan, atau mesin (otomatis). Artinya, jika bagian depan dilakukan, maka hasil belakang pasti terjadi dengan sendirinya.",
+          "pattern": "～たら = Kalau...,...",
+          "examples": [
+            {
+              "jp": "この ボタンを 押お(お)すと、お釣つ(つり)りが 出で(で)ます。",
+              "translation": "Kalau tekan tombol ini, uang kembaliannya keluar."
+            },
+            {
+              "jp": "これを 回す(まわ)と、音が(おと) 大き(おお)くなります。",
+              "translation": "Kalau memutar ini, suaranya akan membesar."
+            },
+            {
+              "jp": "右みぎへ 曲まがると、郵便局(ゆうびんきょく)が あります。",
+              "translation": "Kalau belok ke kanan, ada kantor pos."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "Kata Benda が Kata Sifat",
+          "body": "Fungsi: Pola khusus dimana partikel が mendeskripsikan kondisi/fenomena yang dapat dirasakan panca indera (suara, rasa, bau, dll).",
+          "pattern": "～たら = Kalau...,...",
+          "examples": [
+            {
+              "jp": "⑬ 音が(おと) 小ちいさいです。",
+              "translation": "Suaranya kecil."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Kata Benda を Kata Kerja yang menunjukkan gerakan berpindah",
+          "body": "Fungsi: Partikel を digunakan bersama kata kerja pergerakan (seperti berjalan, menyeberang, belok) untuk menunjukkan area atau jalur yang dilewati/dilalui.",
+          "pattern": "～たら = Kalau...,...",
+          "examples": [
+            {
+              "jp": "公園を(こうえん) 散歩(さんぽ) します。",
+              "translation": "Berjalan-jalan melewati/di taman."
+            },
+            {
+              "jp": "道み(みち)ちを 渡わ(わた)たります。",
+              "translation": "Menyeberangi jalan."
+            },
+            {
+              "jp": "交差点(こうさてん)を 右みぎへ 曲まがります。",
+              "translation": "Di perempatan belok ke kanan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 24,
+      "title": "Pemberian & Penerimaan (～てあげます/もらいます/くれます)",
+      "points": [
+        {
+          "num": 1,
+          "title": "くれます",
+          "body": "Fungsi: Menyatakan tindakan memberi di mana pihak lain (orang lain) memberikan benda/sesuatu kepada pembicara (atau keluarga/kelompok pembicara). Posisinya berkebalikan dengan あげます.",
+          "pattern": "Kata Kerja + て形 + あげます = ...memberi...kepada...",
+          "examples": [
+            {
+              "jp": "わたしは 佐藤さ(さとう)んに 花を(はな) あげました。",
+              "translation": "Saya memberikan Sdr. Sato bunga."
+            },
+            {
+              "jp": "佐藤さ(さとう)んは わたしに クリスマスカードを くれました。",
+              "translation": "Sdr. Sato memberikan saya kartu Natal."
+            },
+            {
+              "jp": "佐藤さ(さとう)んは 妹い(いもうと)もうとに お菓子を(かし) くれました。",
+              "translation": "Sdr. Sato memberikan adik kue."
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja Bentuk て {あげます/もらいます/くれます}",
+          "body": "1) Kata Kerja Bentuk て あげます (Melakukan perbuatan/bantuan untuk orang lain)\n2) Kata Kerja Bentuk て もらいます (Menerima perbuatan/bantuan dari orang lain)\n3) Kata Kerja Bentuk て くれます (Orang lain melakukan perbuatan/bantuan untuk pembicara)\nFungsi: Pola untuk menyatakan perbuatan menerima atau memberi bantuan (berupa perbuatan/jasa, bukan barang fisik). Mengandung rasa terima kasih atau kebaikan.",
+          "pattern": "Kata Kerja + て形 + もらいます = ...menerima...dari...",
+          "examples": [
+            {
+              "jp": "母は(はは) [わたしに] セーターを 送っ(おく)て くれました。",
+              "translation": "Ibu saya mengirimkan saya sweater."
+            },
+            {
+              "jp": "わたしに 旅行の(りょこう) 写真を(しゃしん) 見み(み)せて くれました。",
+              "translation": "Memperlihatkan saya foto waktu berwisata."
+            },
+            {
+              "jp": "わたしを 大阪(おおさか)城へ 連れ(つ)て 行っ(い)て くれました。",
+              "translation": "Mengantarkan saya ke Benteng Osaka."
+            },
+            {
+              "jp": "わたしの 引っ越しを 手(て)伝() くれました。",
+              "translation": "Membantu saya pindah rumah."
+            },
+            {
+              "jp": "わたしは 山田さ(やまだ)んに 図書館(としょかん)の 電話(でんわ)番号(でんわばんごう)を 教おしえて もらいました。",
+              "translation": "Saya diberikan/diajarkan nomor telepon perpustakaan oleh Sdr. Yamada."
+            },
+            {
+              "jp": "わたしは 木村さ(きむら)んに 本ほ(ほん)んを 貸かして あげました。",
+              "translation": "Saya meminjamkan Sdr. Kimura buku."
+            },
+            {
+              "jp": "タクシーを 呼よ(よ)びましょうか。",
+              "translation": "Bagaimana kalau saya panggilkan taksi?"
+            },
+            {
+              "jp": "手(て)伝いましょうか。",
+              "translation": "Bagaimana kalau saya bantu?"
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "Kata Benda1 は Kata Benda2 が Kata Kerja",
+          "body": "Fungsi: Topik pembicaraan (misalnya subjek pemberi jasa/barang) diletakkan di depan menggunakan partikel は, dan objek penerimanya (biasanya diri sendiri) bisa disembunyikan.",
+          "pattern": "Kata Kerja + て形 + くれます = ...memberi...untuk...",
+          "examples": [
+            {
+              "jp": "おいしい ワインですね。……ええ、[この ワインは] 佐藤さ(さとう)んが くれました。",
+              "translation": "Anggur yang enak ya. ……Ya, [anggur ini] Sdr. Sato yang berikan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bab": 25,
+      "title": "Pengandaian (～たら, ～ても) & Partikel が dalam Anak Kalimat",
+      "points": [
+        {
+          "num": 1,
+          "title": "Bentuk Biasa Lampau ら、〜 (Kalau/Jika...)",
+          "body": "Fungsi: Menyatakan pengandaian \"jika / kalau\" suatu keadaan, syarat, atau kondisi terpenuhi di masa depan. Belakangnya dapat diisi dengan keinginan, harapan, ajakan, permohonan.",
+          "pattern": "～たら = Kalau...,...",
+          "examples": [
+            {
+              "jp": "お金か(かね)ねが あったら、旅行し(りょこう)ます。",
+              "translation": "Kalau punya uang, berwisata."
+            },
+            {
+              "jp": "時間が(じかん) なかったら、テレビを 見み(み)ません。",
+              "translation": "Kalau tidak ada waktu, tidak menonton TV."
+            },
+            {
+              "jp": "安や(やす)すかったら、パソコンを 買か(か)いたいです。",
+              "translation": "Kalau murah, ingin membeli komputer."
+            },
+            {
+              "jp": "暇()だったら、手(て)伝() ください。",
+              "translation": "Kalau sedang luang, tolong bantu saya."
+            },
+            {
+              "jp": "いい 天気だ(てんき)ったら、散歩(さんぽ) しませんか。",
+              "translation": "Kalau cuaca baik, bagaimana kita jalan-jalan?"
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "title": "Kata Kerja Bentuk たら、〜 (Kalau sudah...)",
+          "body": "Fungsi: Bukan sekadar pengandaian, melainkan menyatakan kepastian kejadian di masa depan yang berurutan. Menunjukkan kejadian kalimat belakang akan segera dikerjakan \"setelah\" aksi depan sudah selesai.",
+          "pattern": "～ても = Meskipun...,...",
+          "examples": [
+            {
+              "jp": "10時じに なったら、出で(で)かけましょう。",
+              "translation": "Kalau sudah sampai pukul sepuluh, kita berangkat."
+            },
+            {
+              "jp": "うちへ 帰か(かえ)えったら、すぐシャワーを 浴あ(あび)びます。",
+              "translation": "Kalau pulang ke rumah, saya langsung mandi."
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "title": "{ Kata Kerja Bentuk て / ない / Kata Sifat / Kata Benda } も、〜 (Walaupun...)",
+          "body": "Fungsi: Menyatakan bentuk konsesi atau pertentangan (walaupun/meskipun). Hasil kejadian utama tetap terjadi, bertentangan dengan apa yang biasanya dipikirkan dari kondisi di kalimat depan.",
+          "pattern": "～かどう = Apakah...atau tidak...",
+          "examples": [
+            {
+              "jp": "雨が(あめ) 降ふっても、洗濯し(せんたく)ます。",
+              "translation": "Walaupun hujan, mencuci pakaian."
+            },
+            {
+              "jp": "安や(やす)すくても、わたしは グループ旅行が(りょこう) 嫌きらいです。",
+              "translation": "Walaupun murah, saya tidak suka tur rombongan."
+            },
+            {
+              "jp": "便利()でも、パソコンを 使つ(つか)かいません。",
+              "translation": "Walaupun praktis, tidak memakai komputer."
+            },
+            {
+              "jp": "日曜日(にちようび)でも、働は(はたら)たらきます。",
+              "translation": "Walaupun hari Minggu, bekerja."
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "title": "もし (Seandainya)",
+          "body": "Fungsi: Kata keterangan yang sengaja diletakkan di awal kalimat pengandaian (~たら) untuk menegaskan kepada pendengar bahwa kalimat ini adalah pengandaian (asumsi, perumpamaan).",
+          "pattern": "～かどう = Apakah...atau tidak...",
+          "examples": [
+            {
+              "jp": "⑫ もし 1億円(おくえん) あったら、いろいろな 国くにを 旅行し(りょこう)たいです。",
+              "translation": "Kalau punya seratus juta yen, ingin berwisata di berbagai negara."
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "title": "Subjek dalam anak kalimat",
+          "body": "Fungsi: Dalam klausa bertingkat/anak kalimat yang mendahului kata seperti まえに、とき、〜たら, partikel subjek harus ditandai dengan が, bukan は.",
+          "pattern": "～か + 確認 = ...atau tidak...",
+          "examples": [
+            {
+              "jp": "友達が(ともだち) 来く(く)る まえに、部屋を(へや) 掃除し(そうじ)ます。",
+              "translation": "Sebelum teman datang, membersihkan kamar."
+            },
+            {
+              "jp": "妻つまが 病気の(びょうき) とき、会社を(かいしゃ) 休や(やす)すみます。",
+              "translation": "Waktu istri sakit, saya tidak masuk kerja."
+            },
+            {
+              "jp": "友達が(ともだち) 約束の(やくそく) 時間に(じかん) 来こ(く)なかったら、どう しますか。",
+              "translation": "Kalau teman tidak datang pada waktu janji, bagaimana?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

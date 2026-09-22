@@ -1,0 +1,1996 @@
+{
+  "category": "Kuis Khusus Kanji",
+  "categoryJapanese": "漢字",
+  "categoryRomaji": "Kanji",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "水",
+          "reading": "みず",
+          "meaning": "air",
+          "options": [
+            "Laki-laki",
+            "orang",
+            "ibu",
+            "air"
+          ],
+          "correctIndex": 3,
+          "romaji": "mizu"
+        },
+        {
+          "id": 2,
+          "kanji": "火",
+          "reading": "ひ",
+          "meaning": "Api",
+          "options": [
+            "kereta api",
+            "Api",
+            "Uang/Emas",
+            "Hujan"
+          ],
+          "correctIndex": 1,
+          "romaji": "hi"
+        },
+        {
+          "id": 3,
+          "kanji": "木",
+          "reading": "き",
+          "meaning": "Pohon",
+          "options": [
+            "Pohon",
+            "kakak perempuan",
+            "adik laki-laki",
+            "Salju"
+          ],
+          "correctIndex": 0,
+          "romaji": "ki"
+        },
+        {
+          "id": 4,
+          "kanji": "金",
+          "reading": "かね",
+          "meaning": "Uang/Emas",
+          "options": [
+            "tahun lalu",
+            "berjalan",
+            "ibu",
+            "Uang/Emas"
+          ],
+          "correctIndex": 3,
+          "romaji": "kane"
+        },
+        {
+          "id": 5,
+          "kanji": "土",
+          "reading": "つち",
+          "meaning": "Tanah",
+          "options": [
+            "air",
+            "adik laki-laki",
+            "Tanah",
+            "Kucing"
+          ],
+          "correctIndex": 2,
+          "romaji": "tsuchi"
+        },
+        {
+          "id": 6,
+          "kanji": "日",
+          "reading": "ひ",
+          "meaning": "Hari/Matahari",
+          "options": [
+            "adik perempuan",
+            "perusahaan",
+            "Api",
+            "Hari/Matahari"
+          ],
+          "correctIndex": 3,
+          "romaji": "hi"
+        },
+        {
+          "id": 7,
+          "kanji": "月",
+          "reading": "つき",
+          "meaning": "bulan lalu",
+          "options": [
+            "adik laki-laki",
+            "malam",
+            "perusahaan",
+            "bulan lalu"
+          ],
+          "correctIndex": 3,
+          "romaji": "tsuki"
+        },
+        {
+          "id": 8,
+          "kanji": "山",
+          "reading": "やま",
+          "meaning": "Gunung",
+          "options": [
+            "Gunung",
+            "rumah sakit",
+            "berjalan",
+            "Sungai"
+          ],
+          "correctIndex": 0,
+          "romaji": "yama"
+        },
+        {
+          "id": 9,
+          "kanji": "川",
+          "reading": "かわ",
+          "meaning": "Sungai",
+          "options": [
+            "teman",
+            "Uang/Emas",
+            "malam",
+            "Sungai"
+          ],
+          "correctIndex": 3,
+          "romaji": "kawa"
+        },
+        {
+          "id": 10,
+          "kanji": "海",
+          "reading": "うみ",
+          "meaning": "Laut",
+          "options": [
+            "berjalan",
+            "Laut",
+            "Uang/Emas",
+            "Kucing"
+          ],
+          "correctIndex": 1,
+          "romaji": "umi"
+        },
+        {
+          "id": 11,
+          "kanji": "空",
+          "reading": "そら",
+          "meaning": "Langit",
+          "options": [
+            "ikan",
+            "Musim semi",
+            "Langit",
+            "perusahaan"
+          ],
+          "correctIndex": 2,
+          "romaji": "sora"
+        },
+        {
+          "id": 12,
+          "kanji": "花",
+          "reading": "はな",
+          "meaning": "melihat bunga sakura",
+          "options": [
+            "melihat bunga sakura",
+            "Anjing",
+            "besok",
+            "ikan"
+          ],
+          "correctIndex": 0,
+          "romaji": "hana"
+        },
+        {
+          "id": 13,
+          "kanji": "鳥",
+          "reading": "とり",
+          "meaning": "Burung",
+          "options": [
+            "orang",
+            "perusahaan",
+            "melihat bunga sakura",
+            "Burung"
+          ],
+          "correctIndex": 3,
+          "romaji": "tori"
+        },
+        {
+          "id": 14,
+          "kanji": "魚",
+          "reading": "さかな",
+          "meaning": "ikan",
+          "options": [
+            "ikan",
+            "Pohon",
+            "Api",
+            "kakak perempuan"
+          ],
+          "correctIndex": 0,
+          "romaji": "sakana"
+        },
+        {
+          "id": 15,
+          "kanji": "犬",
+          "reading": "いぬ",
+          "meaning": "Anjing",
+          "options": [
+            "orang",
+            "kereta api",
+            "adik perempuan",
+            "Anjing"
+          ],
+          "correctIndex": 3,
+          "romaji": "inu"
+        },
+        {
+          "id": 16,
+          "kanji": "猫",
+          "reading": "ねこ",
+          "meaning": "Kucing",
+          "options": [
+            "berjalan",
+            "Uang/Emas",
+            "Musim gugur",
+            "Kucing"
+          ],
+          "correctIndex": 3,
+          "romaji": "neko"
+        },
+        {
+          "id": 17,
+          "kanji": "人",
+          "reading": "ひと",
+          "meaning": "orang",
+          "options": [
+            "orang",
+            "air",
+            "bulan lalu",
+            "perusahaan"
+          ],
+          "correctIndex": 0,
+          "romaji": "hito"
+        },
+        {
+          "id": 18,
+          "kanji": "男",
+          "reading": "おとこ",
+          "meaning": "Laki-laki",
+          "options": [
+            "kereta api",
+            "Musim dingin",
+            "Laki-laki",
+            "hari Selasa"
+          ],
+          "correctIndex": 2,
+          "romaji": "otoko"
+        },
+        {
+          "id": 19,
+          "kanji": "女",
+          "reading": "おんな",
+          "meaning": "perempuan",
+          "options": [
+            "perempuan",
+            "Uang/Emas",
+            "malam",
+            "Pohon"
+          ],
+          "correctIndex": 0,
+          "romaji": "onna"
+        },
+        {
+          "id": 20,
+          "kanji": "子",
+          "reading": "こ",
+          "meaning": "anak",
+          "options": [
+            "anak",
+            "Gunung",
+            "Hari/Matahari",
+            "Musim dingin"
+          ],
+          "correctIndex": 0,
+          "romaji": "ko"
+        },
+        {
+          "id": 21,
+          "kanji": "父",
+          "reading": "ちち",
+          "meaning": "ayah",
+          "options": [
+            "Kucing",
+            "Musim dingin",
+            "orang",
+            "ayah"
+          ],
+          "correctIndex": 3,
+          "romaji": "chichi"
+        },
+        {
+          "id": 22,
+          "kanji": "母",
+          "reading": "はは",
+          "meaning": "ibu",
+          "options": [
+            "Laki-laki",
+            "Api",
+            "Cuaca",
+            "ibu"
+          ],
+          "correctIndex": 3,
+          "romaji": "haha"
+        },
+        {
+          "id": 23,
+          "kanji": "兄",
+          "reading": "あに",
+          "meaning": "kakak laki-laki",
+          "options": [
+            "Salju",
+            "Api",
+            "kakak laki-laki",
+            "rumah sakit"
+          ],
+          "correctIndex": 2,
+          "romaji": "ani"
+        },
+        {
+          "id": 24,
+          "kanji": "姉",
+          "reading": "あね",
+          "meaning": "kakak perempuan",
+          "options": [
+            "Sungai",
+            "ikan",
+            "tahun lalu",
+            "kakak perempuan"
+          ],
+          "correctIndex": 3,
+          "romaji": "ane"
+        },
+        {
+          "id": 25,
+          "kanji": "弟",
+          "reading": "おとうと",
+          "meaning": "adik laki-laki",
+          "options": [
+            "kereta api",
+            "adik laki-laki",
+            "Gunung",
+            "orang"
+          ],
+          "correctIndex": 1,
+          "romaji": "otouto"
+        },
+        {
+          "id": 26,
+          "kanji": "妹",
+          "reading": "いもうと",
+          "meaning": "adik perempuan",
+          "options": [
+            "bulan lalu",
+            "Uang/Emas",
+            "adik perempuan",
+            "tahun lalu"
+          ],
+          "correctIndex": 2,
+          "romaji": "imouto"
+        },
+        {
+          "id": 27,
+          "kanji": "友",
+          "reading": "とも",
+          "meaning": "teman",
+          "options": [
+            "Gunung",
+            "perempuan",
+            "Hujan",
+            "teman"
+          ],
+          "correctIndex": 3,
+          "romaji": "tomo"
+        },
+        {
+          "id": 28,
+          "kanji": "家",
+          "reading": "いえ",
+          "meaning": "rumah sakit",
+          "options": [
+            "Anjing",
+            "rumah sakit",
+            "ikan",
+            "teman"
+          ],
+          "correctIndex": 1,
+          "romaji": "ie"
+        },
+        {
+          "id": 29,
+          "kanji": "学校",
+          "reading": "がっこう",
+          "meaning": "sekolah",
+          "options": [
+            "sekolah",
+            "ibu",
+            "Gunung",
+            "Musim semi"
+          ],
+          "correctIndex": 0,
+          "romaji": "gaっkou"
+        },
+        {
+          "id": 30,
+          "kanji": "会社",
+          "reading": "かいしゃ",
+          "meaning": "perusahaan",
+          "options": [
+            "tahun lalu",
+            "orang",
+            "perusahaan",
+            "Burung"
+          ],
+          "correctIndex": 2,
+          "romaji": "kaisya"
+        },
+        {
+          "id": 31,
+          "kanji": "道",
+          "reading": "みち",
+          "meaning": "berjalan",
+          "options": [
+            "ibu",
+            "berjalan",
+            "kereta api",
+            "Sungai"
+          ],
+          "correctIndex": 1,
+          "romaji": "michi"
+        },
+        {
+          "id": 32,
+          "kanji": "車",
+          "reading": "くるま",
+          "meaning": "mobil",
+          "options": [
+            "berjalan",
+            "mobil",
+            "Sungai",
+            "ibu"
+          ],
+          "correctIndex": 1,
+          "romaji": "kuruma"
+        },
+        {
+          "id": 33,
+          "kanji": "電車",
+          "reading": "でんしゃ",
+          "meaning": "kereta api",
+          "options": [
+            "kereta api",
+            "adik perempuan",
+            "Gunung",
+            "air"
+          ],
+          "correctIndex": 0,
+          "romaji": "densya"
+        },
+        {
+          "id": 34,
+          "kanji": "時間",
+          "reading": "じかん",
+          "meaning": "Waktu",
+          "options": [
+            "perusahaan",
+            "anak",
+            "Waktu",
+            "kemarin"
+          ],
+          "correctIndex": 2,
+          "romaji": "jikan"
+        },
+        {
+          "id": 35,
+          "kanji": "今日",
+          "reading": "きょう",
+          "meaning": "hari ini",
+          "options": [
+            "setiap pagi",
+            "hari ini",
+            "Langit",
+            "kakak laki-laki"
+          ],
+          "correctIndex": 1,
+          "romaji": "kyou"
+        },
+        {
+          "id": 36,
+          "kanji": "明日",
+          "reading": "あした",
+          "meaning": "besok",
+          "options": [
+            "Laki-laki",
+            "besok",
+            "Langit",
+            "Gunung"
+          ],
+          "correctIndex": 1,
+          "romaji": "ashita"
+        },
+        {
+          "id": 37,
+          "kanji": "昨日",
+          "reading": "きのう",
+          "meaning": "kemarin",
+          "options": [
+            "Kucing",
+            "kemarin",
+            "tahun lalu",
+            "adik laki-laki"
+          ],
+          "correctIndex": 1,
+          "romaji": "kinou"
+        },
+        {
+          "id": 38,
+          "kanji": "天気",
+          "reading": "てんき",
+          "meaning": "Cuaca",
+          "options": [
+            "bulan lalu",
+            "Burung",
+            "Cuaca",
+            "siang"
+          ],
+          "correctIndex": 2,
+          "romaji": "tenki"
+        },
+        {
+          "id": 39,
+          "kanji": "雨",
+          "reading": "あめ",
+          "meaning": "Hujan",
+          "options": [
+            "Hujan",
+            "siang",
+            "kakak laki-laki",
+            "adik perempuan"
+          ],
+          "correctIndex": 0,
+          "romaji": "ame"
+        },
+        {
+          "id": 40,
+          "kanji": "雪",
+          "reading": "ゆき",
+          "meaning": "Salju",
+          "options": [
+            "air",
+            "Api",
+            "Salju",
+            "melihat bunga sakura"
+          ],
+          "correctIndex": 2,
+          "romaji": "yuki"
+        },
+        {
+          "id": 41,
+          "kanji": "風",
+          "reading": "かぜ",
+          "meaning": "Angin",
+          "options": [
+            "sekolah",
+            "Anjing",
+            "Angin",
+            "rumah sakit"
+          ],
+          "correctIndex": 2,
+          "romaji": "kaze"
+        },
+        {
+          "id": 42,
+          "kanji": "春",
+          "reading": "はる",
+          "meaning": "Musim semi",
+          "options": [
+            "Sungai",
+            "kereta api",
+            "adik laki-laki",
+            "Musim semi"
+          ],
+          "correctIndex": 3,
+          "romaji": "haru"
+        },
+        {
+          "id": 43,
+          "kanji": "夏",
+          "reading": "なつ",
+          "meaning": "Musim panas",
+          "options": [
+            "rumah sakit",
+            "setiap pagi",
+            "Sungai",
+            "Musim panas"
+          ],
+          "correctIndex": 3,
+          "romaji": "natsu"
+        },
+        {
+          "id": 44,
+          "kanji": "秋",
+          "reading": "あき",
+          "meaning": "Musim gugur",
+          "options": [
+            "Api",
+            "Tanah",
+            "setiap pagi",
+            "Musim gugur"
+          ],
+          "correctIndex": 3,
+          "romaji": "aki"
+        },
+        {
+          "id": 45,
+          "kanji": "冬",
+          "reading": "ふゆ",
+          "meaning": "Musim dingin",
+          "options": [
+            "Musim dingin",
+            "perusahaan",
+            "Uang/Emas",
+            "Musim panas"
+          ],
+          "correctIndex": 0,
+          "romaji": "fuyu"
+        },
+        {
+          "id": 46,
+          "kanji": "朝",
+          "reading": "あさ",
+          "meaning": "setiap pagi",
+          "options": [
+            "air",
+            "Hari/Matahari",
+            "perempuan",
+            "setiap pagi"
+          ],
+          "correctIndex": 3,
+          "romaji": "asa"
+        },
+        {
+          "id": 47,
+          "kanji": "昼",
+          "reading": "ひる",
+          "meaning": "siang",
+          "options": [
+            "siang",
+            "anak",
+            "orang",
+            "besok"
+          ],
+          "correctIndex": 0,
+          "romaji": "hiru"
+        },
+        {
+          "id": 48,
+          "kanji": "夜",
+          "reading": "よる",
+          "meaning": "malam",
+          "options": [
+            "Waktu",
+            "ayah",
+            "Musim panas",
+            "malam"
+          ],
+          "correctIndex": 3,
+          "romaji": "yoru"
+        },
+        {
+          "id": 49,
+          "kanji": "年",
+          "reading": "とし",
+          "meaning": "tahun lalu",
+          "options": [
+            "Pohon",
+            "Uang/Emas",
+            "tahun lalu",
+            "teman"
+          ],
+          "correctIndex": 2,
+          "romaji": "toshi"
+        },
+        {
+          "id": 50,
+          "kanji": "火曜日",
+          "reading": "かようび",
+          "meaning": "hari Selasa",
+          "options": [
+            "ibu",
+            "Salju",
+            "hari Selasa",
+            "perusahaan"
+          ],
+          "correctIndex": 2,
+          "romaji": "kayoubi"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 51,
+          "kanji": "水曜日",
+          "reading": "すいようび",
+          "meaning": "hari Rabu",
+          "options": [
+            "hari Rabu",
+            "Nama",
+            "tangan",
+            "kapal laut"
+          ],
+          "correctIndex": 0,
+          "romaji": "suiyoubi"
+        },
+        {
+          "id": 52,
+          "kanji": "木曜日",
+          "reading": "もくようび",
+          "meaning": "hari Kamis",
+          "options": [
+            "Minuman",
+            "Angka",
+            "Kekuatan",
+            "hari Kamis"
+          ],
+          "correctIndex": 3,
+          "romaji": "mokuyoubi"
+        },
+        {
+          "id": 53,
+          "kanji": "金曜日",
+          "reading": "きんようび",
+          "meaning": "hari Jumat",
+          "options": [
+            "berkata",
+            "universitas",
+            "hari Jumat",
+            "mulut"
+          ],
+          "correctIndex": 2,
+          "romaji": "kinyoubi"
+        },
+        {
+          "id": 54,
+          "kanji": "土曜日",
+          "reading": "どようび",
+          "meaning": "hari Sabtu",
+          "options": [
+            "Nama",
+            "Amerika",
+            "buku",
+            "hari Sabtu"
+          ],
+          "correctIndex": 3,
+          "romaji": "doyoubi"
+        },
+        {
+          "id": 55,
+          "kanji": "日本",
+          "reading": "にほん",
+          "meaning": "bahasa Jepang",
+          "options": [
+            "buku",
+            "bahasa Jepang",
+            "berkata",
+            "pesawat terbang"
+          ],
+          "correctIndex": 1,
+          "romaji": "nihon"
+        },
+        {
+          "id": 56,
+          "kanji": "中国",
+          "reading": "ちゅうごく",
+          "meaning": "China",
+          "options": [
+            "Korea",
+            "China",
+            "bahasa Jepang",
+            "tangan"
+          ],
+          "correctIndex": 1,
+          "romaji": "cyuugoku"
+        },
+        {
+          "id": 57,
+          "kanji": "韩国",
+          "reading": "かんこく",
+          "meaning": "Korea",
+          "options": [
+            "berhati-hati",
+            "Korea",
+            "Tumbuhan",
+            "hari Sabtu"
+          ],
+          "correctIndex": 1,
+          "romaji": "kankoku"
+        },
+        {
+          "id": 58,
+          "kanji": "美国",
+          "reading": "アメリカ",
+          "meaning": "Amerika",
+          "options": [
+            "putih",
+            "Amerika",
+            "Kertas",
+            "hari Kamis"
+          ],
+          "correctIndex": 1,
+          "romaji": "amerika"
+        },
+        {
+          "id": 59,
+          "kanji": "食物",
+          "reading": "たべもの",
+          "meaning": "Makanan",
+          "options": [
+            "bahasa Jepang",
+            "sehat",
+            "Peta",
+            "Makanan"
+          ],
+          "correctIndex": 3,
+          "romaji": "tabemono"
+        },
+        {
+          "id": 60,
+          "kanji": "飲み物",
+          "reading": "のみもの",
+          "meaning": "Minuman",
+          "options": [
+            "Minuman",
+            "hari Rabu",
+            "putih",
+            "Nama"
+          ],
+          "correctIndex": 0,
+          "romaji": "nomimono"
+        },
+        {
+          "id": 61,
+          "kanji": "動物",
+          "reading": "どうぶつ",
+          "meaning": "Hewan",
+          "options": [
+            "Hewan",
+            "Jendela",
+            "tangan",
+            "Pena"
+          ],
+          "correctIndex": 0,
+          "romaji": "doubutsu"
+        },
+        {
+          "id": 62,
+          "kanji": "植物",
+          "reading": "しょくぶつ",
+          "meaning": "Tumbuhan",
+          "options": [
+            "bahasa Jepang",
+            "kursi",
+            "Tumbuhan",
+            "Nama"
+          ],
+          "correctIndex": 2,
+          "romaji": "syokubutsu"
+        },
+        {
+          "id": 63,
+          "kanji": "数字",
+          "reading": "すうじ",
+          "meaning": "Angka",
+          "options": [
+            "pesawat terbang",
+            "hari Rabu",
+            "hari Kamis",
+            "Angka"
+          ],
+          "correctIndex": 3,
+          "romaji": "suuji"
+        },
+        {
+          "id": 64,
+          "kanji": "名前",
+          "reading": "なまえ",
+          "meaning": "Nama",
+          "options": [
+            "mulut",
+            "Nama",
+            "sakit",
+            "meja tulis"
+          ],
+          "correctIndex": 1,
+          "romaji": "namae"
+        },
+        {
+          "id": 65,
+          "kanji": "言葉",
+          "reading": "ことば",
+          "meaning": "berkata",
+          "options": [
+            "Belanja",
+            "Amerika",
+            "berkata",
+            "Tumbuhan"
+          ],
+          "correctIndex": 2,
+          "romaji": "kotoba"
+        },
+        {
+          "id": 66,
+          "kanji": "声",
+          "reading": "こえ",
+          "meaning": "suara",
+          "options": [
+            "Belanja",
+            "hari Jumat",
+            "suara",
+            "kepala"
+          ],
+          "correctIndex": 2,
+          "romaji": "koe"
+        },
+        {
+          "id": 67,
+          "kanji": "手",
+          "reading": "て",
+          "meaning": "tangan",
+          "options": [
+            "tangan",
+            "Pintu",
+            "guru",
+            "buku"
+          ],
+          "correctIndex": 0,
+          "romaji": "te"
+        },
+        {
+          "id": 68,
+          "kanji": "足",
+          "reading": "あし",
+          "meaning": "kaki",
+          "options": [
+            "Kertas",
+            "hitam",
+            "kaki",
+            "Korea"
+          ],
+          "correctIndex": 2,
+          "romaji": "ashi"
+        },
+        {
+          "id": 69,
+          "kanji": "目",
+          "reading": "め",
+          "meaning": "mata",
+          "options": [
+            "universitas",
+            "Belanja",
+            "hari Kamis",
+            "mata"
+          ],
+          "correctIndex": 3,
+          "romaji": "me"
+        },
+        {
+          "id": 70,
+          "kanji": "耳",
+          "reading": "みみ",
+          "meaning": "telinga",
+          "options": [
+            "hari Sabtu",
+            "Makanan",
+            "Pekerjaan",
+            "telinga"
+          ],
+          "correctIndex": 3,
+          "romaji": "mimi"
+        },
+        {
+          "id": 71,
+          "kanji": "口",
+          "reading": "くち",
+          "meaning": "mulut",
+          "options": [
+            "Amerika",
+            "surat",
+            "Pena",
+            "mulut"
+          ],
+          "correctIndex": 3,
+          "romaji": "kuchi"
+        },
+        {
+          "id": 72,
+          "kanji": "顔",
+          "reading": "かお",
+          "meaning": "wajah",
+          "options": [
+            "hari Sabtu",
+            "wajah",
+            "putih",
+            "berkata"
+          ],
+          "correctIndex": 1,
+          "romaji": "kao"
+        },
+        {
+          "id": 73,
+          "kanji": "頭",
+          "reading": "あたま",
+          "meaning": "kepala",
+          "options": [
+            "hari Sabtu",
+            "Memasak",
+            "kunci",
+            "kepala"
+          ],
+          "correctIndex": 3,
+          "romaji": "atama"
+        },
+        {
+          "id": 74,
+          "kanji": "心",
+          "reading": "こころ",
+          "meaning": "berhati-hati",
+          "options": [
+            "Hewan",
+            "berhati-hati",
+            "China",
+            "telepon"
+          ],
+          "correctIndex": 1,
+          "romaji": "kokoro"
+        },
+        {
+          "id": 75,
+          "kanji": "力",
+          "reading": "ちから",
+          "meaning": "Kekuatan",
+          "options": [
+            "Minuman",
+            "hari Sabtu",
+            "kepala",
+            "Kekuatan"
+          ],
+          "correctIndex": 3,
+          "romaji": "chikara"
+        },
+        {
+          "id": 76,
+          "kanji": "元気",
+          "reading": "げんき",
+          "meaning": "sehat",
+          "options": [
+            "Nama",
+            "Obat",
+            "sehat",
+            "Pekerjaan"
+          ],
+          "correctIndex": 2,
+          "romaji": "genki"
+        },
+        {
+          "id": 77,
+          "kanji": "病気",
+          "reading": "びょうき",
+          "meaning": "sakit",
+          "options": [
+            "sakit",
+            "Obat",
+            "hari Rabu",
+            "buku"
+          ],
+          "correctIndex": 0,
+          "romaji": "byouki"
+        },
+        {
+          "id": 78,
+          "kanji": "薬",
+          "reading": "くすり",
+          "meaning": "Obat",
+          "options": [
+            "Kekuatan",
+            "dokter",
+            "telepon",
+            "Obat"
+          ],
+          "correctIndex": 3,
+          "romaji": "kusuri"
+        },
+        {
+          "id": 79,
+          "kanji": "医者",
+          "reading": "いしゃ",
+          "meaning": "dokter",
+          "options": [
+            "mata",
+            "universitas",
+            "suara",
+            "dokter"
+          ],
+          "correctIndex": 3,
+          "romaji": "isya"
+        },
+        {
+          "id": 80,
+          "kanji": "飛行機",
+          "reading": "ひこうき",
+          "meaning": "pesawat terbang",
+          "options": [
+            "kepala",
+            "pesawat terbang",
+            "guru",
+            "kapal laut"
+          ],
+          "correctIndex": 1,
+          "romaji": "hikouki"
+        },
+        {
+          "id": 81,
+          "kanji": "船",
+          "reading": "ふね",
+          "meaning": "kapal laut",
+          "options": [
+            "kapal laut",
+            "kursi",
+            "Memasak",
+            "Nama"
+          ],
+          "correctIndex": 0,
+          "romaji": "fune"
+        },
+        {
+          "id": 82,
+          "kanji": "大学",
+          "reading": "だいがく",
+          "meaning": "universitas",
+          "options": [
+            "hari Rabu",
+            "hari Kamis",
+            "universitas",
+            "berkata"
+          ],
+          "correctIndex": 2,
+          "romaji": "daigaku"
+        },
+        {
+          "id": 83,
+          "kanji": "先生",
+          "reading": "せんせい",
+          "meaning": "guru",
+          "options": [
+            "telinga",
+            "kepala",
+            "guru",
+            "berhati-hati"
+          ],
+          "correctIndex": 2,
+          "romaji": "sensei"
+        },
+        {
+          "id": 84,
+          "kanji": "学生",
+          "reading": "がくせい",
+          "meaning": "mahasiswa",
+          "options": [
+            "mahasiswa",
+            "Hewan",
+            "Amerika",
+            "Makanan"
+          ],
+          "correctIndex": 0,
+          "romaji": "gakusei"
+        },
+        {
+          "id": 85,
+          "kanji": "仕事",
+          "reading": "しごと",
+          "meaning": "Pekerjaan",
+          "options": [
+            "wajah",
+            "Angka",
+            "Pekerjaan",
+            "Pena"
+          ],
+          "correctIndex": 2,
+          "romaji": "shigoto"
+        },
+        {
+          "id": 86,
+          "kanji": "買物",
+          "reading": "かいもの",
+          "meaning": "Belanja",
+          "options": [
+            "China",
+            "Belanja",
+            "Peta",
+            "suara"
+          ],
+          "correctIndex": 1,
+          "romaji": "kaimono"
+        },
+        {
+          "id": 87,
+          "kanji": "料理",
+          "reading": "りょうり",
+          "meaning": "Memasak",
+          "options": [
+            "berkata",
+            "suara",
+            "kursi",
+            "Memasak"
+          ],
+          "correctIndex": 3,
+          "romaji": "ryouri"
+        },
+        {
+          "id": 88,
+          "kanji": "電話",
+          "reading": "でんわ",
+          "meaning": "telepon",
+          "options": [
+            "telepon",
+            "suara",
+            "Korea",
+            "hari Rabu"
+          ],
+          "correctIndex": 0,
+          "romaji": "denwa"
+        },
+        {
+          "id": 89,
+          "kanji": "手紙",
+          "reading": "てがみ",
+          "meaning": "surat",
+          "options": [
+            "Amerika",
+            "surat",
+            "sehat",
+            "bahasa Jepang"
+          ],
+          "correctIndex": 1,
+          "romaji": "tegami"
+        },
+        {
+          "id": 90,
+          "kanji": "地図",
+          "reading": "ちず",
+          "meaning": "Peta",
+          "options": [
+            "hari Jumat",
+            "hari Rabu",
+            "sehat",
+            "Peta"
+          ],
+          "correctIndex": 3,
+          "romaji": "chizu"
+        },
+        {
+          "id": 91,
+          "kanji": "鍵",
+          "reading": "かぎ",
+          "meaning": "kunci",
+          "options": [
+            "mulut",
+            "kunci",
+            "pesawat terbang",
+            "kursi"
+          ],
+          "correctIndex": 1,
+          "romaji": "kagi"
+        },
+        {
+          "id": 92,
+          "kanji": "窓",
+          "reading": "まど",
+          "meaning": "Jendela",
+          "options": [
+            "Nama",
+            "universitas",
+            "Jendela",
+            "bahasa Jepang"
+          ],
+          "correctIndex": 2,
+          "romaji": "mado"
+        },
+        {
+          "id": 93,
+          "kanji": "扉",
+          "reading": "とびら",
+          "meaning": "Pintu",
+          "options": [
+            "putih",
+            "Hewan",
+            "Korea",
+            "Pintu"
+          ],
+          "correctIndex": 3,
+          "romaji": "tobira"
+        },
+        {
+          "id": 94,
+          "kanji": "椅子",
+          "reading": "いす",
+          "meaning": "kursi",
+          "options": [
+            "kaki",
+            "kursi",
+            "meja tulis",
+            "telepon"
+          ],
+          "correctIndex": 1,
+          "romaji": "isu"
+        },
+        {
+          "id": 95,
+          "kanji": "机",
+          "reading": "つくえ",
+          "meaning": "meja tulis",
+          "options": [
+            "berhati-hati",
+            "meja tulis",
+            "Amerika",
+            "Pekerjaan"
+          ],
+          "correctIndex": 1,
+          "romaji": "tsukue"
+        },
+        {
+          "id": 96,
+          "kanji": "本",
+          "reading": "ほん",
+          "meaning": "buku",
+          "options": [
+            "kapal laut",
+            "universitas",
+            "bahasa Jepang",
+            "buku"
+          ],
+          "correctIndex": 3,
+          "romaji": "hon"
+        },
+        {
+          "id": 97,
+          "kanji": "紙",
+          "reading": "かみ",
+          "meaning": "Kertas",
+          "options": [
+            "Tumbuhan",
+            "Kertas",
+            "bahasa Jepang",
+            "telepon"
+          ],
+          "correctIndex": 1,
+          "romaji": "kami"
+        },
+        {
+          "id": 98,
+          "kanji": "笔",
+          "reading": "ふで",
+          "meaning": "Pena",
+          "options": [
+            "hari Rabu",
+            "Pintu",
+            "Peta",
+            "Pena"
+          ],
+          "correctIndex": 3,
+          "romaji": "fude"
+        },
+        {
+          "id": 99,
+          "kanji": "黒",
+          "reading": "くろ",
+          "meaning": "hitam",
+          "options": [
+            "Minuman",
+            "Belanja",
+            "hari Rabu",
+            "hitam"
+          ],
+          "correctIndex": 3,
+          "romaji": "kuro"
+        },
+        {
+          "id": 100,
+          "kanji": "白",
+          "reading": "しろ",
+          "meaning": "putih",
+          "options": [
+            "suara",
+            "putih",
+            "Kertas",
+            "mata"
+          ],
+          "correctIndex": 1,
+          "romaji": "shiro"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": 101,
+          "kanji": "赤",
+          "reading": "あか",
+          "meaning": "merah",
+          "options": [
+            "Delapan",
+            "lambat",
+            "merah",
+            "cokelat"
+          ],
+          "correctIndex": 2,
+          "romaji": "aka"
+        },
+        {
+          "id": 102,
+          "kanji": "青",
+          "reading": "あお",
+          "meaning": "biru",
+          "options": [
+            "Dua",
+            "kuning",
+            "biru",
+            "Jauh"
+          ],
+          "correctIndex": 2,
+          "romaji": "ao"
+        },
+        {
+          "id": 103,
+          "kanji": "黄色",
+          "reading": "きいろ",
+          "meaning": "kuning",
+          "options": [
+            "Delapan",
+            "merah",
+            "kuning",
+            "kamar kecil/toilet"
+          ],
+          "correctIndex": 2,
+          "romaji": "kiiro"
+        },
+        {
+          "id": 104,
+          "kanji": "緑",
+          "reading": "みどり",
+          "meaning": "hijau",
+          "options": [
+            "panjang",
+            "kuning",
+            "Jauh",
+            "hijau"
+          ],
+          "correctIndex": 3,
+          "romaji": "midori"
+        },
+        {
+          "id": 105,
+          "kanji": "茶色",
+          "reading": "ちゃいろ",
+          "meaning": "cokelat",
+          "options": [
+            "cokelat",
+            "Lima",
+            "Dalam",
+            "Dua"
+          ],
+          "correctIndex": 0,
+          "romaji": "cyairo"
+        },
+        {
+          "id": 106,
+          "kanji": "紫",
+          "reading": "むらさき",
+          "meaning": "ungu",
+          "options": [
+            "Puluh ribu",
+            "Tengah",
+            "ungu",
+            "Tiga"
+          ],
+          "correctIndex": 2,
+          "romaji": "murasaki"
+        },
+        {
+          "id": 107,
+          "kanji": "一",
+          "reading": "いち",
+          "meaning": "Satu",
+          "options": [
+            "Satu",
+            "Tujuh",
+            "merah",
+            "Empat"
+          ],
+          "correctIndex": 0,
+          "romaji": "ichi"
+        },
+        {
+          "id": 108,
+          "kanji": "二",
+          "reading": "に",
+          "meaning": "Dua",
+          "options": [
+            "Luar",
+            "lama",
+            "Dua",
+            "panjang"
+          ],
+          "correctIndex": 2,
+          "romaji": "ni"
+        },
+        {
+          "id": 109,
+          "kanji": "三",
+          "reading": "さん",
+          "meaning": "Tiga",
+          "options": [
+            "kuning",
+            "Tiga",
+            "Kiri",
+            "Atas"
+          ],
+          "correctIndex": 1,
+          "romaji": "san"
+        },
+        {
+          "id": 110,
+          "kanji": "四",
+          "reading": "し/よん",
+          "meaning": "Empat",
+          "options": [
+            "Ratus",
+            "Empat",
+            "Delapan",
+            "Kiri"
+          ],
+          "correctIndex": 1,
+          "romaji": "shi/yon"
+        },
+        {
+          "id": 111,
+          "kanji": "五",
+          "reading": "ご",
+          "meaning": "Lima",
+          "options": [
+            "Lima",
+            "Dua",
+            "Enam",
+            "Murah"
+          ],
+          "correctIndex": 0,
+          "romaji": "go"
+        },
+        {
+          "id": 112,
+          "kanji": "六",
+          "reading": "ろく",
+          "meaning": "Enam",
+          "options": [
+            "Sepuluh",
+            "Enam",
+            "biru",
+            "Dalam"
+          ],
+          "correctIndex": 1,
+          "romaji": "roku"
+        },
+        {
+          "id": 113,
+          "kanji": "七",
+          "reading": "しち/なな",
+          "meaning": "Tujuh",
+          "options": [
+            "Lima",
+            "baru",
+            "Enam",
+            "Tujuh"
+          ],
+          "correctIndex": 3,
+          "romaji": "shichi/nana"
+        },
+        {
+          "id": 114,
+          "kanji": "八",
+          "reading": "はち",
+          "meaning": "Delapan",
+          "options": [
+            "besar",
+            "Delapan",
+            "cokelat",
+            "panjang"
+          ],
+          "correctIndex": 1,
+          "romaji": "hachi"
+        },
+        {
+          "id": 115,
+          "kanji": "九",
+          "reading": "きゅう/く",
+          "meaning": "Sembilan",
+          "options": [
+            "Sembilan",
+            "Tengah",
+            "Belakang",
+            "lambat"
+          ],
+          "correctIndex": 0,
+          "romaji": "kyuu/ku"
+        },
+        {
+          "id": 116,
+          "kanji": "十",
+          "reading": "じゅう",
+          "meaning": "Sepuluh",
+          "options": [
+            "kuning",
+            "Luar",
+            "Dekat",
+            "Sepuluh"
+          ],
+          "correctIndex": 3,
+          "romaji": "jyuu"
+        },
+        {
+          "id": 117,
+          "kanji": "百",
+          "reading": "ひゃく",
+          "meaning": "Ratus",
+          "options": [
+            "Sembilan",
+            "Ratus",
+            "Puluh ribu",
+            "hijau"
+          ],
+          "correctIndex": 1,
+          "romaji": "hyaku"
+        },
+        {
+          "id": 118,
+          "kanji": "千",
+          "reading": "せん",
+          "meaning": "Ribu",
+          "options": [
+            "Delapan",
+            "Ribu",
+            "Dalam",
+            "Murah"
+          ],
+          "correctIndex": 1,
+          "romaji": "sen"
+        },
+        {
+          "id": 119,
+          "kanji": "万",
+          "reading": "まん",
+          "meaning": "Puluh ribu",
+          "options": [
+            "Puluh ribu",
+            "kuning",
+            "Jauh",
+            "Enam"
+          ],
+          "correctIndex": 0,
+          "romaji": "man"
+        },
+        {
+          "id": 120,
+          "kanji": "円",
+          "reading": "えん",
+          "meaning": "Yen",
+          "options": [
+            "Sembilan",
+            "Yen",
+            "Delapan",
+            "besar"
+          ],
+          "correctIndex": 1,
+          "romaji": "en"
+        },
+        {
+          "id": 121,
+          "kanji": "大",
+          "reading": "おお",
+          "meaning": "besar",
+          "options": [
+            "besar",
+            "tinggi",
+            "baru",
+            "Sembilan"
+          ],
+          "correctIndex": 0,
+          "romaji": "oo"
+        },
+        {
+          "id": 122,
+          "kanji": "小",
+          "reading": "ちい/こ",
+          "meaning": "kamar kecil/toilet",
+          "options": [
+            "ungu",
+            "Empat",
+            "kamar kecil/toilet",
+            "Sepuluh"
+          ],
+          "correctIndex": 2,
+          "romaji": "chii/ko"
+        },
+        {
+          "id": 123,
+          "kanji": "中",
+          "reading": "なか",
+          "meaning": "Tengah",
+          "options": [
+            "hijau",
+            "kuning",
+            "Tengah",
+            "panjang"
+          ],
+          "correctIndex": 2,
+          "romaji": "naka"
+        },
+        {
+          "id": 124,
+          "kanji": "上",
+          "reading": "うえ",
+          "meaning": "Atas",
+          "options": [
+            "Atas",
+            "ungu",
+            "Enam",
+            "Dua"
+          ],
+          "correctIndex": 0,
+          "romaji": "ue"
+        },
+        {
+          "id": 125,
+          "kanji": "下",
+          "reading": "した",
+          "meaning": "kereta bawah tanah",
+          "options": [
+            "Tiga",
+            "kereta bawah tanah",
+            "ungu",
+            "Ratus"
+          ],
+          "correctIndex": 1,
+          "romaji": "shita"
+        },
+        {
+          "id": 126,
+          "kanji": "左",
+          "reading": "ひだり",
+          "meaning": "Kiri",
+          "options": [
+            "Sembilan",
+            "kuning",
+            "biru",
+            "Kiri"
+          ],
+          "correctIndex": 3,
+          "romaji": "hidari"
+        },
+        {
+          "id": 127,
+          "kanji": "右",
+          "reading": "みぎ",
+          "meaning": "Kanan",
+          "options": [
+            "Belakang",
+            "besar",
+            "Kanan",
+            "pendek"
+          ],
+          "correctIndex": 2,
+          "romaji": "migi"
+        },
+        {
+          "id": 128,
+          "kanji": "前",
+          "reading": "まえ",
+          "meaning": "minggu depan",
+          "options": [
+            "minggu depan",
+            "besar",
+            "kereta bawah tanah",
+            "Delapan"
+          ],
+          "correctIndex": 0,
+          "romaji": "mae"
+        },
+        {
+          "id": 129,
+          "kanji": "後",
+          "reading": "うしろ",
+          "meaning": "Belakang",
+          "options": [
+            "Satu",
+            "Sepuluh",
+            "Belakang",
+            "tinggi"
+          ],
+          "correctIndex": 2,
+          "romaji": "ushiro"
+        },
+        {
+          "id": 130,
+          "kanji": "外",
+          "reading": "そと",
+          "meaning": "Luar",
+          "options": [
+            "kuning",
+            "Tujuh",
+            "hijau",
+            "Luar"
+          ],
+          "correctIndex": 3,
+          "romaji": "soto"
+        },
+        {
+          "id": 131,
+          "kanji": "内",
+          "reading": "うち",
+          "meaning": "Dalam",
+          "options": [
+            "tinggi",
+            "hijau",
+            "Dalam",
+            "kereta bawah tanah"
+          ],
+          "correctIndex": 2,
+          "romaji": "uchi"
+        },
+        {
+          "id": 132,
+          "kanji": "近",
+          "reading": "ちか",
+          "meaning": "Dekat",
+          "options": [
+            "hijau",
+            "baru",
+            "Empat",
+            "Dekat"
+          ],
+          "correctIndex": 3,
+          "romaji": "chika"
+        },
+        {
+          "id": 133,
+          "kanji": "遠",
+          "reading": "とお",
+          "meaning": "Jauh",
+          "options": [
+            "pendek",
+            "Jauh",
+            "panjang",
+            "hijau"
+          ],
+          "correctIndex": 1,
+          "romaji": "too"
+        },
+        {
+          "id": 134,
+          "kanji": "高",
+          "reading": "たか",
+          "meaning": "tinggi",
+          "options": [
+            "tinggi",
+            "hijau",
+            "Enam",
+            "lama"
+          ],
+          "correctIndex": 0,
+          "romaji": "taka"
+        },
+        {
+          "id": 135,
+          "kanji": "安",
+          "reading": "やす",
+          "meaning": "Murah",
+          "options": [
+            "kuning",
+            "Murah",
+            "Satu",
+            "Atas"
+          ],
+          "correctIndex": 1,
+          "romaji": "yasu"
+        },
+        {
+          "id": 136,
+          "kanji": "新",
+          "reading": "あたら",
+          "meaning": "baru",
+          "options": [
+            "baru",
+            "Dua",
+            "Ribu",
+            "panjang"
+          ],
+          "correctIndex": 0,
+          "romaji": "atara"
+        },
+        {
+          "id": 137,
+          "kanji": "古",
+          "reading": "ふる",
+          "meaning": "lama",
+          "options": [
+            "merah",
+            "Lima",
+            "lama",
+            "panjang"
+          ],
+          "correctIndex": 2,
+          "romaji": "furu"
+        },
+        {
+          "id": 138,
+          "kanji": "長",
+          "reading": "なが",
+          "meaning": "panjang",
+          "options": [
+            "Tiga",
+            "panjang",
+            "hijau",
+            "Dalam"
+          ],
+          "correctIndex": 1,
+          "romaji": "naga"
+        },
+        {
+          "id": 139,
+          "kanji": "短",
+          "reading": "みじか",
+          "meaning": "pendek",
+          "options": [
+            "Sepuluh",
+            "Tujuh",
+            "pendek",
+            "Sembilan"
+          ],
+          "correctIndex": 2,
+          "romaji": "mijika"
+        },
+        {
+          "id": 140,
+          "kanji": "早",
+          "reading": "はや",
+          "meaning": "cepat",
+          "options": [
+            "lambat",
+            "cepat",
+            "ungu",
+            "Puluh ribu"
+          ],
+          "correctIndex": 1,
+          "romaji": "haya"
+        },
+        {
+          "id": 141,
+          "kanji": "遅",
+          "reading": "おそ",
+          "meaning": "lambat",
+          "options": [
+            "hijau",
+            "biru",
+            "Murah",
+            "lambat"
+          ],
+          "correctIndex": 3,
+          "romaji": "oso"
+        }
+      ]
+    }
+  ]
+}

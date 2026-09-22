@@ -1,0 +1,7720 @@
+{
+  "category": "Kata Kerja",
+  "categoryJapanese": "動詞",
+  "categoryRomaji": "Doushi",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": 1,
+          "kanji": "いる",
+          "reading": "いる",
+          "romaji": "iru",
+          "meaning": "Ada (Benda Hidup)",
+          "options": [
+            "Menyimpulkan",
+            "Menggunakan",
+            "Ada (Benda Hidup)",
+            "Menginap"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 2,
+          "kanji": "有る",
+          "reading": "ある",
+          "romaji": "aru",
+          "meaning": "Ada (Benda Mati)",
+          "options": [
+            "Mengambil",
+            "Memperbaiki",
+            "Ada (Benda Mati)",
+            "Lupa / melupakan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 3,
+          "kanji": "起きる",
+          "reading": "おきる",
+          "romaji": "okiru",
+          "meaning": "Bangun Tidur",
+          "options": [
+            "Bangun Tidur",
+            "Menganalisa",
+            "Memperbaiki",
+            "Bersih – Bersih / membersihkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 4,
+          "kanji": "寝る",
+          "reading": "ねる",
+          "romaji": "neru",
+          "meaning": "Tidur",
+          "options": [
+            "Membantu",
+            "Memarahi",
+            "Tidur",
+            "Memperbaiki"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 5,
+          "kanji": "働く",
+          "reading": "はたらく",
+          "romaji": "hataraku",
+          "meaning": "Bekerja",
+          "options": [
+            "Meninjau Ulang",
+            "Berdagang",
+            "Bekerja",
+            "Input data"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 6,
+          "kanji": "仕事する",
+          "reading": "しごとする",
+          "romaji": "shigotosuru",
+          "meaning": "Bekerja ( melakukan pekerjaan )",
+          "options": [
+            "Bekerja ( melakukan pekerjaan )",
+            "Menterjemahkan Pembicaraan",
+            "Menempelkan, menyentuhkan",
+            "Mengembalikan (Ke Tempat Semula)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 7,
+          "kanji": "休む",
+          "reading": "やすむ",
+          "romaji": "yasumu",
+          "meaning": "Istirahat / Libur",
+          "options": [
+            "Istirahat / Libur",
+            "Berangkat",
+            "Bertengkar",
+            "Mengerti"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 8,
+          "kanji": "休憩する",
+          "reading": "きゅうけいする",
+          "romaji": "kyuukeisuru",
+          "meaning": "Istirahat ( sebentar )",
+          "options": [
+            "Absen Acara",
+            "Jatuh (kecelakaan)",
+            "Kembali (Arah)",
+            "Istirahat ( sebentar )"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 9,
+          "kanji": "欠勤する",
+          "reading": "けっきんする",
+          "romaji": "kekkinsuru",
+          "meaning": "Absen kerja",
+          "options": [
+            "Menumis",
+            "Absen kerja",
+            "Menarik",
+            "Melakukan Proses"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 10,
+          "kanji": "欠席する",
+          "reading": "けっせきする",
+          "romaji": "kessekisuru",
+          "meaning": "Absen Acara",
+          "options": [
+            "Absen Acara",
+            "Terluka (badan)",
+            "Menukar/Mengubah",
+            "Berhasil"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 11,
+          "kanji": "来る",
+          "reading": "くる",
+          "romaji": "kuru",
+          "meaning": "Datang",
+          "options": [
+            "Menghitung",
+            "Datang",
+            "Menengok ke Belakang",
+            "Mendirikan /Membangun (bangunan)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 12,
+          "kanji": "行く",
+          "reading": "いく",
+          "romaji": "iku",
+          "meaning": "Pergi",
+          "options": [
+            "Menutup",
+            "Menempelkan",
+            "Menerima/Mengikuti",
+            "Pergi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 13,
+          "kanji": "帰る",
+          "reading": "かえる",
+          "romaji": "kaeru",
+          "meaning": "Pulang",
+          "options": [
+            "Menabrak",
+            "Mengobrol",
+            "Jongkok",
+            "Pulang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 14,
+          "kanji": "出かける",
+          "reading": "でかける",
+          "romaji": "dekakeru",
+          "meaning": "Keluar Tempat / keluar rumah",
+          "options": [
+            "Keluar Tempat / keluar rumah",
+            "Menjamu,mentraktir",
+            "Menemukan",
+            "Datang"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 15,
+          "kanji": "戻る",
+          "reading": "もどる",
+          "romaji": "modoru",
+          "meaning": "Kembali (Arah)",
+          "options": [
+            "Kembali (Arah)",
+            "Membuat",
+            "Menukar (Mesin)",
+            "Sakit hati"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 16,
+          "kanji": "住む",
+          "reading": "すむ",
+          "romaji": "sumu",
+          "meaning": "Tinggal",
+          "options": [
+            "Absen kerja",
+            "Mengontrol/mengawasi",
+            "Menulis",
+            "Tinggal"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 17,
+          "kanji": "泊まる",
+          "reading": "とまる",
+          "romaji": "tomaru",
+          "meaning": "Menginap",
+          "options": [
+            "Tidur",
+            "Berbelanja",
+            "Menginap",
+            "Melihat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 18,
+          "kanji": "止まる",
+          "reading": "とまる",
+          "romaji": "tomaru",
+          "meaning": "Berhenti / Stop",
+          "options": [
+            "Menegaskan kembali",
+            "Mengerti",
+            "Berhenti / Stop",
+            "Memotong"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 19,
+          "kanji": "着く",
+          "reading": "つく",
+          "romaji": "tsuku",
+          "meaning": "Tiba 1",
+          "options": [
+            "Tiba 1",
+            "Meletakkan",
+            "Tidur",
+            "Memotong"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 20,
+          "kanji": "到着する",
+          "reading": "とうちゃくする",
+          "romaji": "toucyakusuru",
+          "meaning": "Tiba 2",
+          "options": [
+            "Tiba 2",
+            "Memamerkan",
+            "Mengecat",
+            "Memakai (Pakaian)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 21,
+          "kanji": "かかる",
+          "reading": "かかる",
+          "romaji": "kakaru",
+          "meaning": "Memerlukan Waktu",
+          "options": [
+            "Memanggang / membakar",
+            "Bocor",
+            "Memerlukan Waktu",
+            "Menjepit"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 22,
+          "kanji": "持つ",
+          "reading": "もつ",
+          "romaji": "motsu",
+          "meaning": "Membawa/Memiliki",
+          "options": [
+            "Jongkok",
+            "Mengotori",
+            "Membawa/Memiliki",
+            "Menangkap dengan Telinga"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 23,
+          "kanji": "持って来る",
+          "reading": "もってくる",
+          "romaji": "mottekuru",
+          "meaning": "Membawa Datang",
+          "options": [
+            "Lengket",
+            "Membawa Datang",
+            "Menikah",
+            "Merasakan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 24,
+          "kanji": "持って行く",
+          "reading": "もっていく",
+          "romaji": "motteiku",
+          "meaning": "Membawa Pergi",
+          "options": [
+            "Membawa keluar",
+            "Bekerja ( melakukan pekerjaan )",
+            "Membawa Pergi",
+            "Tidak Lulus / Gagal / berbuat salah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 25,
+          "kanji": "飲む",
+          "reading": "のむ",
+          "romaji": "nomu",
+          "meaning": "Minum",
+          "options": [
+            "Minum",
+            "Diet",
+            "Mengingat / ingat",
+            "Pindahan (Tempat)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 26,
+          "kanji": "食べる",
+          "reading": "たべる",
+          "romaji": "taberu",
+          "meaning": "Makan",
+          "options": [
+            "Menjadi Kurus",
+            "Praktek",
+            "Makan",
+            "Menderita penyakit"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 27,
+          "kanji": "食事する",
+          "reading": "しょくじする",
+          "romaji": "syokujisuru",
+          "meaning": "Makan Besar / makan bersama",
+          "options": [
+            "Berputar",
+            "Makan Besar / makan bersama",
+            "Berteriak",
+            "Meminta"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 28,
+          "kanji": "吸う",
+          "reading": "すう",
+          "romaji": "suu",
+          "meaning": "Merokok",
+          "options": [
+            "Getaran berhenti",
+            "Merokok",
+            "Terinfeksi, tertular",
+            "Menekan / manahan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 29,
+          "kanji": "注文する",
+          "reading": "ちゅうもんする",
+          "romaji": "cyuumonsuru",
+          "meaning": "Order / Memesan",
+          "options": [
+            "Order / Memesan",
+            "Meminta",
+            "Merayakan",
+            "Merasakan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 30,
+          "kanji": "予約する",
+          "reading": "よやくする",
+          "romaji": "yoyakusuru",
+          "meaning": "Reservasi / P.O",
+          "options": [
+            "Reservasi / P.O",
+            "Berubah",
+            "Menerima / menyambut",
+            "Menggigil"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 31,
+          "kanji": "売る",
+          "reading": "うる",
+          "romaji": "uru",
+          "meaning": "Menjual",
+          "options": [
+            "Menganggur",
+            "Menjual",
+            "Tidur",
+            "Berhati - hati"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 32,
+          "kanji": "買う",
+          "reading": "かう",
+          "romaji": "kau",
+          "meaning": "Membeli 1",
+          "options": [
+            "Berdoa",
+            "Membeli 1",
+            "Memaksakan diri",
+            "Menculik"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 33,
+          "kanji": "払う",
+          "reading": "はらう",
+          "romaji": "harau",
+          "meaning": "Mambayar",
+          "options": [
+            "Membongkar",
+            "Melanjutkan",
+            "Mandi",
+            "Mambayar"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 34,
+          "kanji": "変える",
+          "reading": "かえる",
+          "romaji": "kaeru",
+          "meaning": "Menukar/Mengubah",
+          "options": [
+            "Menempel / tertempel",
+            "Melepas (Barang)",
+            "Menukar/Mengubah",
+            "Rusak ( mesin )"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 35,
+          "kanji": "交換する",
+          "reading": "こうかんする",
+          "romaji": "koukansuru",
+          "meaning": "Menukar (Mesin)",
+          "options": [
+            "Cukup",
+            "Membeli",
+            "Menukar (Mesin)",
+            "Ada (Benda Hidup)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 36,
+          "kanji": "あげる",
+          "reading": "あげる",
+          "romaji": "ageru",
+          "meaning": "Memberi",
+          "options": [
+            "Menyumbat",
+            "Memberi",
+            "Berkonstribusi",
+            "Berdoa"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 37,
+          "kanji": "貰う",
+          "reading": "もらう",
+          "romaji": "morau",
+          "meaning": "Menerima",
+          "options": [
+            "Terluka (badan)",
+            "Menghabiskan waktu",
+            "Mengoperasikan",
+            "Menerima"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 38,
+          "kanji": "借りる",
+          "reading": "かりる",
+          "romaji": "kariru",
+          "meaning": "Meminjam",
+          "options": [
+            "Meminjam",
+            "Menyalahkan",
+            "Mengingkari/Merobek",
+            "Naik"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 39,
+          "kanji": "貸す",
+          "reading": "かす",
+          "romaji": "kasu",
+          "meaning": "Meminjamkan",
+          "options": [
+            "Duduk",
+            "Menurunkan",
+            "Meminjamkan",
+            "Mabuk"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 40,
+          "kanji": "返す",
+          "reading": "かえす",
+          "romaji": "kaesu",
+          "meaning": "Mengembalikan",
+          "options": [
+            "Menyimpulkan",
+            "Mengembalikan",
+            "Keluar",
+            "Ditemukan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 41,
+          "kanji": "送る",
+          "reading": "おくる",
+          "romaji": "okuru",
+          "meaning": "Mengirim ( barang )",
+          "options": [
+            "Mengirim ( barang )",
+            "Melampirkan",
+            "Menyimpang",
+            "Memungut"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 42,
+          "kanji": "使う",
+          "reading": "つかう",
+          "romaji": "tsukau",
+          "meaning": "Menggunakan 1",
+          "options": [
+            "Mendapat teman",
+            "Belok",
+            "Tinggal",
+            "Menggunakan 1"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 43,
+          "kanji": "使用する",
+          "reading": "しようする",
+          "romaji": "shiyousuru",
+          "meaning": "Menggunakan 2",
+          "options": [
+            "Ditemukan",
+            "Menggunakan 2",
+            "Memajang, menghiasi",
+            "Membuka"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 44,
+          "kanji": "旅行する",
+          "reading": "りょこうする",
+          "romaji": "ryokousuru",
+          "meaning": "Pariwisata / berwisata",
+          "options": [
+            "Memandang,melihat ke sekeliling",
+            "Pariwisata / berwisata",
+            "Menyemprotkan",
+            "Memandu"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 45,
+          "kanji": "散歩する",
+          "reading": "さんぽする",
+          "romaji": "sanposuru",
+          "meaning": "Jalan – Jalan",
+          "options": [
+            "Jalan – Jalan",
+            "Mengoperasikan",
+            "Melamar ( pekerjaan )",
+            "Menjadi Kurus"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 46,
+          "kanji": "歩く",
+          "reading": "あるく",
+          "romaji": "aruku",
+          "meaning": "Berjalan",
+          "options": [
+            "Khawatir",
+            "Menggunakan",
+            "Berjalan",
+            "Praktek"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 47,
+          "kanji": "走る",
+          "reading": "はしる",
+          "romaji": "hashiru",
+          "meaning": "Berlari",
+          "options": [
+            "Terlambat",
+            "Berlari",
+            "Menulis",
+            "Tertarik"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 48,
+          "kanji": "遊ぶ",
+          "reading": "あそぶ",
+          "romaji": "asobu",
+          "meaning": "Bermain",
+          "options": [
+            "Berfikir",
+            "Bermain",
+            "Berputar",
+            "Mengalami"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 49,
+          "kanji": "急ぐ",
+          "reading": "いそぐ",
+          "romaji": "isogu",
+          "meaning": "Terburu – buru / tergesa- gesa",
+          "options": [
+            "Terburu – buru / tergesa- gesa",
+            "Melampirkan",
+            "Memungut",
+            "Melakukan / menyelenggarakan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 50,
+          "kanji": "待つ",
+          "reading": "まつ",
+          "romaji": "matsu",
+          "meaning": "Menunggu",
+          "options": [
+            "Menterjemahkan buku",
+            "Menunggu",
+            "Meminjamkan",
+            "Menarik"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": 51,
+          "kanji": "運転する",
+          "reading": "うんてんする",
+          "romaji": "untensuru",
+          "meaning": "Mengemudi",
+          "options": [
+            "Tertarik",
+            "Berdoa",
+            "Mengemudi",
+            "Menikah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 52,
+          "kanji": "引く",
+          "reading": "ひく",
+          "romaji": "hiku",
+          "meaning": "Menarik 1",
+          "options": [
+            "Menarik 1",
+            "Informasi / menghubungi",
+            "Berbicara/Ngobrol",
+            "Diperlakukan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 53,
+          "kanji": "引っ張る",
+          "reading": "ひっぱる",
+          "romaji": "hipparu",
+          "meaning": "Menarik 2",
+          "options": [
+            "Menarik 2",
+            "Tidak Lulus / Gagal / berbuat salah",
+            "Melamar ( pekerjaan )",
+            "Menghindari"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 54,
+          "kanji": "勉強する",
+          "reading": "べんきょうする",
+          "romaji": "benkyousuru",
+          "meaning": "Belajar",
+          "options": [
+            "Belajar",
+            "Memodifikasi",
+            "Meminjam",
+            "Semangat / bersemangat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 55,
+          "kanji": "習う",
+          "reading": "ならう",
+          "romaji": "narau",
+          "meaning": "Belajar ( kepada )",
+          "options": [
+            "Dikeringkan",
+            "Bahagia/Senang",
+            "Mengembalikan (Ke Tempat Semula)",
+            "Belajar ( kepada )"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 56,
+          "kanji": "教える",
+          "reading": "おしえる",
+          "romaji": "oshieru",
+          "meaning": "Mengajarkan",
+          "options": [
+            "Ada (Benda Mati)",
+            "Menambahi",
+            "Mengajarkan",
+            "Memeriksa"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 57,
+          "kanji": "説明する",
+          "reading": "せつめいする",
+          "romaji": "setsumeisuru",
+          "meaning": "Menjelaskan",
+          "options": [
+            "Memperkenalkan",
+            "Menjelaskan",
+            "Memanaskan",
+            "Memohon / mengajukan permohonan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 58,
+          "kanji": "始める",
+          "reading": "はじめる",
+          "romaji": "hajimeru",
+          "meaning": "Memulai",
+          "options": [
+            "Mandi ( berendam )",
+            "Berbelanja",
+            "Mengukur",
+            "Memulai"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 59,
+          "kanji": "終わる",
+          "reading": "おわる",
+          "romaji": "owaru",
+          "meaning": "Selesai",
+          "options": [
+            "Tertarik",
+            "Memuaskan",
+            "Selesai",
+            "Lahir / dilahirkan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 60,
+          "kanji": "出来上がる",
+          "reading": "できあがる",
+          "romaji": "dekiagaru",
+          "meaning": "Selesai / jadi",
+          "options": [
+            "Merencanakan",
+            "Menggunakan",
+            "Memperbaiki",
+            "Selesai / jadi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 61,
+          "kanji": "出来る",
+          "reading": "できる",
+          "romaji": "dekiru",
+          "meaning": "Jadi/Bisa/Selesai",
+          "options": [
+            "Kembali (Arah)",
+            "Menggunakan",
+            "Berpengalaman",
+            "Jadi/Bisa/Selesai"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 62,
+          "kanji": "読む",
+          "reading": "よむ",
+          "romaji": "yomu",
+          "meaning": "Membaca",
+          "options": [
+            "Menetapkan (jadwal)",
+            "Membaca",
+            "Cepat pamit pulang",
+            "Bodoh"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 63,
+          "kanji": "書く",
+          "reading": "かく",
+          "romaji": "kaku",
+          "meaning": "Menulis",
+          "options": [
+            "Berfikir",
+            "Menulis",
+            "Memerlukan",
+            "Membawa"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 64,
+          "kanji": "消す",
+          "reading": "けす",
+          "romaji": "kesu",
+          "meaning": "Menghapus / memadamkan",
+          "options": [
+            "Menambahi",
+            "Menghapus / memadamkan",
+            "Menagih",
+            "Menyeberang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 65,
+          "kanji": "つける",
+          "reading": "つける",
+          "romaji": "tsukeru",
+          "meaning": "Menyalakan",
+          "options": [
+            "Menunggu",
+            "Merakit",
+            "Ada (Benda Hidup)",
+            "Menyalakan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 66,
+          "kanji": "聞く",
+          "reading": "きく",
+          "romaji": "kiku",
+          "meaning": "Mendengar / Bertanya",
+          "options": [
+            "Bisa dibakar / terbakar",
+            "Turun (Hujan/salju)",
+            "Mendengar / Bertanya",
+            "Informasi / menghubungi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 67,
+          "kanji": "質問する",
+          "reading": "しつもんする",
+          "romaji": "shitsumonsuru",
+          "meaning": "Bertanya",
+          "options": [
+            "Bertanya",
+            "Mencatat, memahami",
+            "Marah",
+            "Serahkan/Percayakan/mempercayakan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 68,
+          "kanji": "依頼する",
+          "reading": "いらいする",
+          "romaji": "iraisuru",
+          "meaning": "Bertanya (mengandalkan)",
+          "options": [
+            "Berselancar di internet",
+            "Bertanya (mengandalkan)",
+            "Berlatih",
+            "Melakukan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 69,
+          "kanji": "注意する",
+          "reading": "ちゅういする",
+          "romaji": "cyuuisuru",
+          "meaning": "Memperhatikan",
+          "options": [
+            "Menjual, berjualan",
+            "Memperhatikan",
+            "Mengikat",
+            "Menarik"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 70,
+          "kanji": "聞こえる",
+          "reading": "きこえる",
+          "romaji": "kikoeru",
+          "meaning": "Kedengaran",
+          "options": [
+            "Terluka (hati)",
+            "Input data",
+            "Kedengaran",
+            "Melepas (Pakaian)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 71,
+          "kanji": "覚える",
+          "reading": "おぼえる",
+          "romaji": "oboeru",
+          "meaning": "Mengingat / ingat",
+          "options": [
+            "Berkeliling memeriksa",
+            "Mengingat / ingat",
+            "Berkaitan",
+            "Menengok ke Belakang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 72,
+          "kanji": "忘れる",
+          "reading": "わすれる",
+          "romaji": "wasureru",
+          "meaning": "Lupa / melupakan",
+          "options": [
+            "Hilang / kehilangan / menghilangkan",
+            "Menghargai, berterima kasih",
+            "Curhat",
+            "Lupa / melupakan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 73,
+          "kanji": "分かる",
+          "reading": "わかる",
+          "romaji": "wakaru",
+          "meaning": "Mengerti",
+          "options": [
+            "Memakai (jam)",
+            "Terlambat",
+            "Melanggar",
+            "Mengerti"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 74,
+          "kanji": "ばかする",
+          "reading": "ばかする",
+          "romaji": "bakasuru",
+          "meaning": "Bodoh",
+          "options": [
+            "Mempercayai",
+            "Bodoh",
+            "Melengkung",
+            "Memakai (jam)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 75,
+          "kanji": "考える",
+          "reading": "かんがえる",
+          "romaji": "kangaeru",
+          "meaning": "Berfikir",
+          "options": [
+            "Kotor",
+            "Menulis",
+            "Berfikir",
+            "Mengingat / ingat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 76,
+          "kanji": "思う",
+          "reading": "おもう",
+          "romaji": "omou",
+          "meaning": "Mengira – ngira",
+          "options": [
+            "Berselancar di internet",
+            "Menari",
+            "Mengira – ngira",
+            "Berhasil"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 77,
+          "kanji": "判断する",
+          "reading": "はんだんする",
+          "romaji": "handansuru",
+          "meaning": "Menganggap , beranggapan",
+          "options": [
+            "Mengobrol",
+            "Merencanakan",
+            "Menganggap , beranggapan",
+            "Menutup"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 78,
+          "kanji": "まとめする",
+          "reading": "まとめする",
+          "romaji": "matomesuru",
+          "meaning": "Menyimpulkan",
+          "options": [
+            "Mencari uang",
+            "Menyimpulkan",
+            "Jatuh/gugur/hilang (noda)",
+            "Menghormati"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 79,
+          "kanji": "見る",
+          "reading": "みる",
+          "romaji": "miru",
+          "meaning": "Melihat",
+          "options": [
+            "Mengharapkan / berharap",
+            "Berhasil",
+            "Bergerak",
+            "Melihat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 80,
+          "kanji": "見える",
+          "reading": "みえる",
+          "romaji": "mieru",
+          "meaning": "Terlihat / kelihatan",
+          "options": [
+            "Menempelkan",
+            "Kalah",
+            "Terlihat / kelihatan",
+            "Selesai / jadi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 81,
+          "kanji": "見せる",
+          "reading": "みせる",
+          "romaji": "miseru",
+          "meaning": "Memperlihatkan",
+          "options": [
+            "Berhasil",
+            "Mengharapkan / berharap",
+            "Terbiasa",
+            "Memperlihatkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 82,
+          "kanji": "調べる",
+          "reading": "しらべる",
+          "romaji": "shiraberu",
+          "meaning": "Memeriksa 1",
+          "options": [
+            "Memperpanjang",
+            "Menjawab",
+            "Memeriksa 1",
+            "Selesai"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 83,
+          "kanji": "確認する",
+          "reading": "かくにんする",
+          "romaji": "kakuninsuru",
+          "meaning": "Menegaskan kembali",
+          "options": [
+            "Menegaskan kembali",
+            "Hilang / kehilangan / menghilangkan",
+            "Hidup, tinggal",
+            "Mengizinkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 84,
+          "kanji": "やり直す",
+          "reading": "やりなおす",
+          "romaji": "yarinaosu",
+          "meaning": "Perbaikan Kesalahan",
+          "options": [
+            "Mengobrol",
+            "Berubah",
+            "Perbaikan Kesalahan",
+            "Beres – Beres / membereskan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 85,
+          "kanji": "対策する",
+          "reading": "たいさくする",
+          "romaji": "taisakusuru",
+          "meaning": "Tindakan Perbaikan",
+          "options": [
+            "Menunggu",
+            "Mendapat Kerja",
+            "Tindakan Perbaikan",
+            "Berkeliling / berputar"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 86,
+          "kanji": "摂る",
+          "reading": "とる",
+          "romaji": "toru",
+          "meaning": "Mengambil",
+          "options": [
+            "Membuat",
+            "Terlambat",
+            "Mengambil",
+            "Merevisi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 87,
+          "kanji": "捨てる",
+          "reading": "すてる",
+          "romaji": "suteru",
+          "meaning": "Membuang",
+          "options": [
+            "Membuang",
+            "Menabung/Mengumpulkan (benda)",
+            "Mengerti",
+            "Menjual"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 88,
+          "kanji": "縛る",
+          "reading": "しばる",
+          "romaji": "shibaru",
+          "meaning": "Mengikat",
+          "options": [
+            "Menyentuh",
+            "Mengikat",
+            "Terlilit",
+            "Memotong"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 89,
+          "kanji": "組み立てる",
+          "reading": "くみたてる",
+          "romaji": "kumitateru",
+          "meaning": "Merakit",
+          "options": [
+            "Memarahi",
+            "Absen kerja",
+            "Merakit",
+            "Terlambat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 90,
+          "kanji": "切る",
+          "reading": "きる",
+          "romaji": "kiru",
+          "meaning": "Memotong",
+          "options": [
+            "Memasang",
+            "Memandu",
+            "Memotong",
+            "Melakukan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 91,
+          "kanji": "作る",
+          "reading": "つくる",
+          "romaji": "tsukuru",
+          "meaning": "Membuat 1",
+          "options": [
+            "Memproses",
+            "Membuat 1",
+            "Intropeksi diri",
+            "Menterjemahkan Pembicaraan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 92,
+          "kanji": "作成する",
+          "reading": "さくせいする",
+          "romaji": "sakuseisuru",
+          "meaning": "Membuat 2",
+          "options": [
+            "Membuat 2",
+            "Kerja Lembur",
+            "Mendaftakan diri",
+            "Turun"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 93,
+          "kanji": "手伝う",
+          "reading": "てつだう",
+          "romaji": "tetsudau",
+          "meaning": "Membantu",
+          "options": [
+            "Berdiri",
+            "Memadamkan api",
+            "Membantu",
+            "Naik"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 94,
+          "kanji": "殺す",
+          "reading": "ころす",
+          "romaji": "korosu",
+          "meaning": "Membunuh",
+          "options": [
+            "Membunuh",
+            "Mengemudi",
+            "Mengkalikan",
+            "Mengupas"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 95,
+          "kanji": "死ぬ",
+          "reading": "しぬ",
+          "romaji": "shinu",
+          "meaning": "Meninggal",
+          "options": [
+            "Menunggu",
+            "Meninggal",
+            "Memetik",
+            "Berputar"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 96,
+          "kanji": "開ける",
+          "reading": "あける",
+          "romaji": "akeru",
+          "meaning": "Membuka",
+          "options": [
+            "Membuka",
+            "Melanjutkan",
+            "Perlu saya tambahkan",
+            "Terlambat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 97,
+          "kanji": "閉める",
+          "reading": "しめる",
+          "romaji": "shimeru",
+          "meaning": "Menutup",
+          "options": [
+            "Mencapai daratan",
+            "Hamil",
+            "Menutup",
+            "Mengobrol"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 98,
+          "kanji": "つく",
+          "reading": "つく",
+          "romaji": "tsuku",
+          "meaning": "Menyala / nyala",
+          "options": [
+            "Memulai",
+            "Memberikan (Penghargaan)",
+            "Memotong",
+            "Menyala / nyala"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 99,
+          "kanji": "止める",
+          "reading": "とめる",
+          "romaji": "tomeru",
+          "meaning": "Mematikan/menghentikan",
+          "options": [
+            "Membagikan",
+            "Mematikan/menghentikan",
+            "Menemukan",
+            "Mengemudi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 100,
+          "kanji": "練習する",
+          "reading": "れんしゅうする",
+          "romaji": "rensyuusuru",
+          "meaning": "Berlatih",
+          "options": [
+            "Mendapat Kerja",
+            "Hilang / kehilangan / menghilangkan",
+            "Berlatih",
+            "Khawatir"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": 101,
+          "kanji": "直す",
+          "reading": "なおす",
+          "romaji": "naosu",
+          "meaning": "Memperbaiki",
+          "options": [
+            "Bersih – Bersih / membersihkan",
+            "Berkata",
+            "Memperbaiki",
+            "Menyalakan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 102,
+          "kanji": "修理する",
+          "reading": "しゅうりする",
+          "romaji": "syuurisuru",
+          "meaning": "Memperbaiki (Mesin)",
+          "options": [
+            "Memetik",
+            "Mendinginkan",
+            "Kering",
+            "Memperbaiki (Mesin)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 103,
+          "kanji": "壊れる",
+          "reading": "こわれる",
+          "romaji": "kowareru",
+          "meaning": "Rusak",
+          "options": [
+            "Turun",
+            "Rusak",
+            "Memarahi",
+            "Bekerja sama"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 104,
+          "kanji": "故障する",
+          "reading": "こしょうする",
+          "romaji": "kosyousuru",
+          "meaning": "Rusak ( mesin )",
+          "options": [
+            "Rusak ( mesin )",
+            "Membunuh",
+            "Menepati/Mentaati",
+            "Kesusahan / susah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 105,
+          "kanji": "分解する",
+          "reading": "ぶんかいする",
+          "romaji": "bunkaisuru",
+          "meaning": "Membongkar",
+          "options": [
+            "Memelihara (binatang)",
+            "Memakai (Pakaian)",
+            "Membatalkan",
+            "Membongkar"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 106,
+          "kanji": "分析する",
+          "reading": "ぶんせきする",
+          "romaji": "bunsekisuru",
+          "meaning": "Menganalisa",
+          "options": [
+            "Kesusahan / susah",
+            "Tindakan Perbaikan",
+            "Istirahat / Libur",
+            "Menganalisa"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 107,
+          "kanji": "操作する",
+          "reading": "そうさする",
+          "romaji": "sousasuru",
+          "meaning": "Mengoperasikan",
+          "options": [
+            "Mengoperasikan",
+            "Merendam/Mencelupkan",
+            "Berjalan",
+            "Makan Besar / makan bersama"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 108,
+          "kanji": "工程する",
+          "reading": "こうていする",
+          "romaji": "kouteisuru",
+          "meaning": "Melakukan Proses",
+          "options": [
+            "Beres – Beres / membereskan",
+            "Menarik",
+            "Turun",
+            "Melakukan Proses"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 109,
+          "kanji": "動く",
+          "reading": "うごく",
+          "romaji": "ugoku",
+          "meaning": "Bergerak",
+          "options": [
+            "Membaca",
+            "Pindahan (Tempat)",
+            "Memarahi",
+            "Bergerak"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 110,
+          "kanji": "回転する",
+          "reading": "かいてんする",
+          "romaji": "kaitensuru",
+          "meaning": "Berputar",
+          "options": [
+            "Berputar",
+            "Memelihara (binatang)",
+            "Memasak",
+            "Mendaftar/Resgister"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 111,
+          "kanji": "調整する",
+          "reading": "ちょうせいする",
+          "romaji": "cyouseisuru",
+          "meaning": "Mengatur/ Menyetting",
+          "options": [
+            "Mengatur/ Menyetting",
+            "Diperlakukan",
+            "Meningkatkan (pekerjaan yang dilakukan)",
+            "Makan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 112,
+          "kanji": "設定する",
+          "reading": "せっていする",
+          "romaji": "setteisuru",
+          "meaning": "Menetapkan (jadwal)",
+          "options": [
+            "Berteriak",
+            "(Barangnya) Sampai",
+            "Mandi",
+            "Menetapkan (jadwal)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 113,
+          "kanji": "準備する",
+          "reading": "じゅんびする",
+          "romaji": "jyunbisuru",
+          "meaning": "Mempersiapkan",
+          "options": [
+            "Mempersiapkan",
+            "Turun",
+            "Tiba",
+            "Pergi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 114,
+          "kanji": "用意する",
+          "reading": "よういする",
+          "romaji": "youisuru",
+          "meaning": "Menyiapkan / menyediakan",
+          "options": [
+            "Menyiapkan / menyediakan",
+            "Tersesat di jalan",
+            "Kesusahan / susah",
+            "Memakai (topi)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 115,
+          "kanji": "発見する",
+          "reading": "はっけんする",
+          "romaji": "hakkensuru",
+          "meaning": "Menemukan 1",
+          "options": [
+            "Menari",
+            "Menemukan 1",
+            "Menggantungkan",
+            "Berkaitan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 116,
+          "kanji": "みつける",
+          "reading": "みつける",
+          "romaji": "mitsukeru",
+          "meaning": "Menemukan 2",
+          "options": [
+            "Terjadi,muncul",
+            "Menemukan 2",
+            "Meningkatkan(mengalami peningkatan)",
+            "Meminjamkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 117,
+          "kanji": "掃除する",
+          "reading": "そうじする",
+          "romaji": "soujisuru",
+          "meaning": "Bersih – Bersih / membersihkan",
+          "options": [
+            "Putus Asa / menyerah",
+            "Bersih – Bersih / membersihkan",
+            "Mewaspadai",
+            "Panas tanpa angin"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 118,
+          "kanji": "片付ける",
+          "reading": "かたづける",
+          "romaji": "kataづkeru",
+          "meaning": "Beres – Beres / membereskan",
+          "options": [
+            "Mentaati peraturan",
+            "Bunuh Diri",
+            "Sakit hati",
+            "Beres – Beres / membereskan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 119,
+          "kanji": "洗濯する",
+          "reading": "せんたくする",
+          "romaji": "sentakusuru",
+          "meaning": "Mencuci (Kain/pakaian)",
+          "options": [
+            "Memadatkan",
+            "Mencuci (Kain/pakaian)",
+            "Bergerak",
+            "Mengerti"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 120,
+          "kanji": "洗う",
+          "reading": "あらう",
+          "romaji": "arau",
+          "meaning": "Mencuci (Barang)",
+          "options": [
+            "Keluar",
+            "Mencuci (Barang)",
+            "Melanjutkan sekolah",
+            "Menculik"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 121,
+          "kanji": "拭く",
+          "reading": "ふく",
+          "romaji": "fuku",
+          "meaning": "Mengelap",
+          "options": [
+            "Gerogi / Tegang",
+            "Tidur",
+            "Mengelap",
+            "Menyimpulkan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 122,
+          "kanji": "磨く",
+          "reading": "みがく",
+          "romaji": "migaku",
+          "meaning": "Menggosok",
+          "options": [
+            "Muncul",
+            "Turun",
+            "Menggosok",
+            "Membuat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 123,
+          "kanji": "歌う",
+          "reading": "うたう",
+          "romaji": "utau",
+          "meaning": "Menyanyi / bernyanyi",
+          "options": [
+            "Pemenang pertama",
+            "Mempersiapkan",
+            "Menterjemahkan buku",
+            "Menyanyi / bernyanyi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 124,
+          "kanji": "泳ぐ",
+          "reading": "およぐ",
+          "romaji": "oyogu",
+          "meaning": "Berenang",
+          "options": [
+            "Membungkus",
+            "Berenang",
+            "Mengeluarkan",
+            "Mengerti"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 125,
+          "kanji": "登る",
+          "reading": "のぼる",
+          "romaji": "noboru",
+          "meaning": "Mendaki",
+          "options": [
+            "Menikmati hidup",
+            "Menganggap , beranggapan",
+            "Mendaki",
+            "Bercanda"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 126,
+          "kanji": "止める",
+          "reading": "やめる",
+          "romaji": "yameru",
+          "meaning": "Diam/Resign/stop",
+          "options": [
+            "Memamerkan",
+            "Bangun Tidur",
+            "Tidur",
+            "Diam/Resign/stop"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 127,
+          "kanji": "渡る",
+          "reading": "わたる",
+          "romaji": "wataru",
+          "meaning": "Menyeberang",
+          "options": [
+            "Jatuh (kecelakaan)",
+            "Tidur",
+            "Menyeberang",
+            "Menulis"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 128,
+          "kanji": "曲げる",
+          "reading": "まげる",
+          "romaji": "mageru",
+          "meaning": "Membengkokkan / menekuk",
+          "options": [
+            "Memuji",
+            "Mengelap",
+            "Menyapa, berbicara kepada",
+            "Membengkokkan / menekuk"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 129,
+          "kanji": "曲がる",
+          "reading": "まがる",
+          "romaji": "magaru",
+          "meaning": "Belok",
+          "options": [
+            "Menerima/Mengikuti",
+            "Belok",
+            "Mengingat / ingat",
+            "Memenuhi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 130,
+          "kanji": "浴びる",
+          "reading": "あびる",
+          "romaji": "abiru",
+          "meaning": "Mandi 1",
+          "options": [
+            "Mandi 1",
+            "Mengira – ngira",
+            "Memetik",
+            "Terendam Air"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 131,
+          "kanji": "お風呂に入る",
+          "reading": "おふろにはいる",
+          "romaji": "ofuronihairu",
+          "meaning": "Mandi 2",
+          "options": [
+            "Menambahi",
+            "Menolong",
+            "Kaget / terkejut",
+            "Mandi 2"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 132,
+          "kanji": "入浴する",
+          "reading": "にゅうよくする",
+          "romaji": "nyuuyokusuru",
+          "meaning": "Mandi ( berendam )",
+          "options": [
+            "Diskusi / musyawarah",
+            "Kembali (Arah)",
+            "Mandi ( berendam )",
+            "Terbiasa"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 133,
+          "kanji": "入る",
+          "reading": "はいる",
+          "romaji": "hairu",
+          "meaning": "Masuk",
+          "options": [
+            "Terlambat",
+            "Menari",
+            "Masuk",
+            "Muncul"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 134,
+          "kanji": "出る",
+          "reading": "でる",
+          "romaji": "deru",
+          "meaning": "Keluar",
+          "options": [
+            "Menabrak",
+            "Keluar",
+            "Bodoh",
+            "Meninggal"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 135,
+          "kanji": "入れる",
+          "reading": "いれる",
+          "romaji": "ireru",
+          "meaning": "Memasukan",
+          "options": [
+            "Memasukan",
+            "Mengalami",
+            "Mempresentasikan",
+            "Berlari"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 136,
+          "kanji": "出す",
+          "reading": "だす",
+          "romaji": "dasu",
+          "meaning": "Mengeluarkan 1",
+          "options": [
+            "Menjamin",
+            "Menghafal",
+            "Rusak ( mesin )",
+            "Mengeluarkan 1"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 137,
+          "kanji": "乗る",
+          "reading": "のる",
+          "romaji": "noru",
+          "meaning": "Naik",
+          "options": [
+            "Merasakan",
+            "Mempercayai",
+            "Naik",
+            "Menyalahkan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 138,
+          "kanji": "降りる",
+          "reading": "おりる",
+          "romaji": "oriru",
+          "meaning": "Turun",
+          "options": [
+            "Membawa keluar",
+            "Tertawa",
+            "Turun",
+            "Menyentuh"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 139,
+          "kanji": "乗り換える",
+          "reading": "のりかえる",
+          "romaji": "norikaeru",
+          "meaning": "Ganti Kendaraan",
+          "options": [
+            "Berubah",
+            "Memperlihatkan",
+            "Ganti Kendaraan",
+            "Berusaha"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 140,
+          "kanji": "戻す",
+          "reading": "もどす",
+          "romaji": "modosu",
+          "meaning": "Mengembalikan (Ke Tempat Semula)",
+          "options": [
+            "Diskusi / musyawarah",
+            "Berubah/Berganti",
+            "Mengembalikan (Ke Tempat Semula)",
+            "Mengikat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 141,
+          "kanji": "かぶる",
+          "reading": "かぶる",
+          "romaji": "kaburu",
+          "meaning": "Memakai (topi)",
+          "options": [
+            "Ada (Benda Hidup)",
+            "Memakai (topi)",
+            "Memanggang / membakar",
+            "Mengelilingi / memutarkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 142,
+          "kanji": "掛ける",
+          "reading": "かける",
+          "romaji": "kakeru",
+          "meaning": "Memakai (kacamata)",
+          "options": [
+            "Memakai (kacamata)",
+            "Berubah/Berganti",
+            "Mengirim ( barang )",
+            "Tindakan Perbaikan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 143,
+          "kanji": "着る",
+          "reading": "きる",
+          "romaji": "kiru",
+          "meaning": "Memakai (Pakaian)",
+          "options": [
+            "Mengganggu,mengesalkan",
+            "Melakukan",
+            "Memakai (Pakaian)",
+            "Membawa/Memiliki"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 144,
+          "kanji": "履く",
+          "reading": "はく",
+          "romaji": "haku",
+          "meaning": "Memakai (Celana &amp; Sepatu/Kaos Kaki)",
+          "options": [
+            "Menemukan",
+            "Menutup",
+            "Memakai (Celana &amp; Sepatu/Kaos Kaki)",
+            "Membunuh"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 145,
+          "kanji": "脱ぐ",
+          "reading": "ぬぐ",
+          "romaji": "nugu",
+          "meaning": "Melepas (Pakaian)",
+          "options": [
+            "Melepas (Pakaian)",
+            "Getaran berhenti",
+            "Training / mendidik",
+            "Terlilit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 146,
+          "kanji": "はずす",
+          "reading": "はずす",
+          "romaji": "hazusu",
+          "meaning": "Melepas (Barang)",
+          "options": [
+            "Kami terima paket anda",
+            "Terkumpul, terakumulasi",
+            "Pensiun",
+            "Melepas (Barang)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 147,
+          "kanji": "着替える",
+          "reading": "きがえる",
+          "romaji": "kigaeru",
+          "meaning": "Mengganti (Pakaian)",
+          "options": [
+            "Menyemprotkan",
+            "Membangunkan / mendirikan",
+            "Merencanakan",
+            "Mengganti (Pakaian)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 148,
+          "kanji": "困る",
+          "reading": "こまる",
+          "romaji": "komaru",
+          "meaning": "Kesusahan / susah",
+          "options": [
+            "Mengobati",
+            "Kesusahan / susah",
+            "Ada (Benda Hidup)",
+            "Menggunakan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 149,
+          "kanji": "無くす",
+          "reading": "なくす",
+          "romaji": "nakusu",
+          "meaning": "Hilang / kehilangan / menghilangkan",
+          "options": [
+            "Hilang / kehilangan / menghilangkan",
+            "Mengecat",
+            "Serahkan/Percayakan/mempercayakan",
+            "Beres – Beres / membereskan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 150,
+          "kanji": "要る",
+          "reading": "いる",
+          "romaji": "iru",
+          "meaning": "Perlu / memerlukan",
+          "options": [
+            "Perlu / memerlukan",
+            "Cepat pamit pulang",
+            "Menukar (Mesin)",
+            "Absen Acara"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "questions": [
+        {
+          "id": 151,
+          "kanji": "必要する",
+          "reading": "ひつようする",
+          "romaji": "hitsuyousuru",
+          "meaning": "Memerlukan",
+          "options": [
+            "Mempresentasikan",
+            "Memerlukan",
+            "Menempelkan",
+            "Selesai"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 152,
+          "kanji": "触る",
+          "reading": "さわる",
+          "romaji": "sawaru",
+          "meaning": "Menyentuh",
+          "options": [
+            "Memadamkan api",
+            "Menyentuh",
+            "Merendam/Mencelupkan",
+            "Mendorong / menekan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 153,
+          "kanji": "笑う",
+          "reading": "わらう",
+          "romaji": "warau",
+          "meaning": "Tertawa",
+          "options": [
+            "Mempercayai",
+            "Menggunakan",
+            "Merebus",
+            "Tertawa"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 154,
+          "kanji": "冗談する",
+          "reading": "じょうだんする",
+          "romaji": "jyoudansuru",
+          "meaning": "Bercanda",
+          "options": [
+            "Bercanda",
+            "Mencapai daratan",
+            "Tidak Lulus / Gagal / berbuat salah",
+            "Tidur"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 155,
+          "kanji": "心配する",
+          "reading": "しんぱいする",
+          "romaji": "shinpaisuru",
+          "meaning": "Khawatir",
+          "options": [
+            "Menegaskan kembali",
+            "Khawatir",
+            "Mengganti (Pakaian)",
+            "Mentaati peraturan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 156,
+          "kanji": "気をつける",
+          "reading": "きをつける",
+          "romaji": "kiwotsukeru",
+          "meaning": "Berhati - hati",
+          "options": [
+            "Berhati - hati",
+            "Merokok",
+            "Menutup ( barang kecil )",
+            "Berfikir"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 157,
+          "kanji": "治る",
+          "reading": "なおる",
+          "romaji": "naoru",
+          "meaning": "Sembuh",
+          "options": [
+            "Kesusahan / susah",
+            "Memperdulikan / menghiraukan",
+            "Sembuh",
+            "Diperlakukan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 158,
+          "kanji": "生まれる",
+          "reading": "うまれる",
+          "romaji": "umareru",
+          "meaning": "Lahir / dilahirkan",
+          "options": [
+            "Merencanakan",
+            "Menghargai, berterima kasih",
+            "Menangkap dengan Telinga",
+            "Lahir / dilahirkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 159,
+          "kanji": "座る",
+          "reading": "すわる",
+          "romaji": "suwaru",
+          "meaning": "Duduk",
+          "options": [
+            "Terlihat / kelihatan",
+            "Duduk",
+            "Menempelkan, menyentuhkan",
+            "Menabung/Mengumpulkan (benda)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 160,
+          "kanji": "立つ",
+          "reading": "たつ",
+          "romaji": "tatsu",
+          "meaning": "Berdiri",
+          "options": [
+            "Bertengkar",
+            "Berdiri",
+            "Menjadi",
+            "Memakai (Celana &amp; Sepatu/Kaos Kaki)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 161,
+          "kanji": "言う",
+          "reading": "いう",
+          "romaji": "iu",
+          "meaning": "Berkata",
+          "options": [
+            "Memperlihatkan",
+            "Naik",
+            "Berkata",
+            "Beres – Beres / membereskan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 162,
+          "kanji": "話す",
+          "reading": "はなす",
+          "romaji": "hanasu",
+          "meaning": "Berbicara/Ngobrol",
+          "options": [
+            "Berbicara/Ngobrol",
+            "Berselancar di internet",
+            "Menyalakan Alarm",
+            "Melakukan / menyelenggarakan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 163,
+          "kanji": "喋る",
+          "reading": "しゃべる",
+          "romaji": "syaberu",
+          "meaning": "Mengobrol",
+          "options": [
+            "Membawa keluar",
+            "Turun (Hujan/salju)",
+            "Mengobrol",
+            "Semangat / bersemangat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 164,
+          "kanji": "結婚する",
+          "reading": "けっこんする",
+          "romaji": "kekkonsuru",
+          "meaning": "Menikah",
+          "options": [
+            "Menikah",
+            "Membuat",
+            "Berkembang",
+            "Bertanya"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 165,
+          "kanji": "降る",
+          "reading": "ふる",
+          "romaji": "furu",
+          "meaning": "Turun (Hujan/salju)",
+          "options": [
+            "Memeriksa",
+            "Menyeberang",
+            "Turun (Hujan/salju)",
+            "Istirahat / Libur"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 166,
+          "kanji": "置く",
+          "reading": "おく",
+          "romaji": "oku",
+          "meaning": "Meletakan",
+          "options": [
+            "Meletakan",
+            "Menjamu,mentraktir",
+            "Berubah/Berganti",
+            "Jatuh (kecelakaan)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 167,
+          "kanji": "選ぶ",
+          "reading": "えらぶ",
+          "romaji": "erabu",
+          "meaning": "Memilih",
+          "options": [
+            "Terbantu, tertolong",
+            "Memeriksa",
+            "Memilih",
+            "Meniru"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 168,
+          "kanji": "中止する",
+          "reading": "ちゅうしする",
+          "romaji": "cyuushisuru",
+          "meaning": "Membatalkan",
+          "options": [
+            "Membatalkan",
+            "Menghemat air",
+            "Membungkus",
+            "Memakai (jam)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 169,
+          "kanji": "決める",
+          "reading": "きめる",
+          "romaji": "kimeru",
+          "meaning": "Pastikan / menentukan",
+          "options": [
+            "Memprioritaskan",
+            "Pastikan / menentukan",
+            "Memukul",
+            "Mencemari , tercemar"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 170,
+          "kanji": "知る",
+          "reading": "しる",
+          "romaji": "shiru",
+          "meaning": "Kenal",
+          "options": [
+            "Mengulangi",
+            "Menikah",
+            "Kenal",
+            "Menarik"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 171,
+          "kanji": "喜ぶ",
+          "reading": "よろこぶ",
+          "romaji": "yorokobu",
+          "meaning": "Bahagia/Senang",
+          "options": [
+            "Pemenang pertama",
+            "Mengerti",
+            "Bahagia/Senang",
+            "Mengemudi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 172,
+          "kanji": "満足する",
+          "reading": "まんぞくする",
+          "romaji": "manzokusuru",
+          "meaning": "Memuaskan",
+          "options": [
+            "Menggunakan",
+            "Jongkok",
+            "Mengalami",
+            "Memuaskan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 173,
+          "kanji": "負ける",
+          "reading": "まける",
+          "romaji": "makeru",
+          "meaning": "Kalah",
+          "options": [
+            "Kalah",
+            "Mengembalikan",
+            "Naik",
+            "Mengoperasikan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 174,
+          "kanji": "伝える",
+          "reading": "つたえる",
+          "romaji": "tsutaeru",
+          "meaning": "Menyampaikan",
+          "options": [
+            "Mengkalikan",
+            "Melukis",
+            "Menyampaikan",
+            "Menikmati hidup"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 175,
+          "kanji": "配る",
+          "reading": "くばる",
+          "romaji": "kubaru",
+          "meaning": "Membagikan",
+          "options": [
+            "Turun",
+            "Menculik",
+            "Membagikan",
+            "Menggoreng"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 176,
+          "kanji": "信じる",
+          "reading": "しんじる",
+          "romaji": "shinjiru",
+          "meaning": "Mempercayai 1",
+          "options": [
+            "Menginap",
+            "Keluar Tempat / keluar rumah",
+            "Mempercayai 1",
+            "Mulai"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 177,
+          "kanji": "信用する",
+          "reading": "しんようする",
+          "romaji": "shinyousuru",
+          "meaning": "Mempercayai 2",
+          "options": [
+            "Memajang, menghiasi",
+            "Istirahat ( sebentar )",
+            "Mempercayai 2",
+            "Menepati/Mentaati"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 178,
+          "kanji": "合格する",
+          "reading": "ごうかくする",
+          "romaji": "goukakusuru",
+          "meaning": "Lulus",
+          "options": [
+            "Penerimaan / menampung",
+            "Lulus",
+            "Berkembang",
+            "Memohon / mengajukan permohonan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 179,
+          "kanji": "失敗する",
+          "reading": "しっぱいする",
+          "romaji": "shippaisuru",
+          "meaning": "Tidak Lulus / Gagal / berbuat salah",
+          "options": [
+            "Menggoreng",
+            "Mengeluarkan",
+            "Menyediakan(ruang,jarak)",
+            "Tidak Lulus / Gagal / berbuat salah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 180,
+          "kanji": "申し込む",
+          "reading": "もうしこむ",
+          "romaji": "moushikomu",
+          "meaning": "Mendaftakan diri",
+          "options": [
+            "Permisi",
+            "Menyediakan(ruang,jarak)",
+            "Memberi",
+            "Mendaftakan diri"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 181,
+          "kanji": "興味する",
+          "reading": "きょうみする",
+          "romaji": "kyoumisuru",
+          "meaning": "Tertarik",
+          "options": [
+            "Tertarik",
+            "Kerja Lembur",
+            "Makan",
+            "Menempelkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 182,
+          "kanji": "受験する",
+          "reading": "じゅけんする",
+          "romaji": "jyukensuru",
+          "meaning": "Ikut Ujian",
+          "options": [
+            "Ikut Ujian",
+            "Melanjutkan",
+            "Bersinar",
+            "Habis"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 183,
+          "kanji": "受ける",
+          "reading": "うける",
+          "romaji": "ukeru",
+          "meaning": "Menerima/Mengikuti",
+          "options": [
+            "Menyala / nyala",
+            "Meninggal",
+            "Membalikkan / melawan",
+            "Menerima/Mengikuti"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 184,
+          "kanji": "慣れる",
+          "reading": "なれる",
+          "romaji": "nareru",
+          "meaning": "Terbiasa",
+          "options": [
+            "Makan",
+            "Mengobrol",
+            "Terbiasa",
+            "Diskusi / musyawarah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 185,
+          "kanji": "なる",
+          "reading": "なる",
+          "romaji": "naru",
+          "meaning": "Menjadi",
+          "options": [
+            "Menjadi",
+            "Bisa dibakar / terbakar",
+            "Menyalakan",
+            "Mencuci (Kain/pakaian)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 186,
+          "kanji": "失礼する",
+          "reading": "しつれいする",
+          "romaji": "shitsureisuru",
+          "meaning": "Permisi",
+          "options": [
+            "Membuat",
+            "Merasakan",
+            "Permisi",
+            "Menunggu"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 187,
+          "kanji": "教育する",
+          "reading": "きょういくする",
+          "romaji": "kyouikusuru",
+          "meaning": "Training / mendidik",
+          "options": [
+            "Mengecat",
+            "Memakai (topi)",
+            "Training / mendidik",
+            "Rusak ( mesin )"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 188,
+          "kanji": "点灯する",
+          "reading": "てんとうする",
+          "romaji": "tentousuru",
+          "meaning": "Menyalakan Alarm",
+          "options": [
+            "Pariwisata / berwisata",
+            "Menyumbat",
+            "Mengembalikan",
+            "Menyalakan Alarm"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 189,
+          "kanji": "記入する",
+          "reading": "きにゅうする",
+          "romaji": "kinyuusuru",
+          "meaning": "Mengisi / mencatat (di kertas)",
+          "options": [
+            "Mengisi / mencatat (di kertas)",
+            "Ada (Benda Mati)",
+            "Memperpanjang",
+            "Mencoba memakai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 190,
+          "kanji": "塗る",
+          "reading": "ぬる",
+          "romaji": "nuru",
+          "meaning": "Mengecat",
+          "options": [
+            "Bekerja ( melakukan pekerjaan )",
+            "Mencatat, memahami",
+            "Bahagia/Senang",
+            "Mengecat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 191,
+          "kanji": "改造する",
+          "reading": "かいぞうする",
+          "romaji": "kaizousuru",
+          "meaning": "Memodifikasi",
+          "options": [
+            "Bercahaya / bersinar",
+            "Tinggal",
+            "Terbiasa",
+            "Memodifikasi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 192,
+          "kanji": "めぐる",
+          "reading": "めぐる",
+          "romaji": "meguru",
+          "meaning": "Mengupas",
+          "options": [
+            "Menjual, berjualan",
+            "Mengupas",
+            "Terluka (hati)",
+            "Pindahan (Tempat)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 193,
+          "kanji": "取り付ける",
+          "reading": "とりつける",
+          "romaji": "toritsukeru",
+          "meaning": "Memasang",
+          "options": [
+            "Menjual, berjualan",
+            "Belajar",
+            "Memperbaiki",
+            "Memasang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 194,
+          "kanji": "降ろす",
+          "reading": "おろす",
+          "romaji": "orosu",
+          "meaning": "Menurunkan",
+          "options": [
+            "Memerlukan",
+            "Menerima / menyambut",
+            "Membengkokkan / menekuk",
+            "Menurunkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 195,
+          "kanji": "墜落",
+          "reading": "ついらく",
+          "romaji": "tsuiraku",
+          "meaning": "Jatuh (kecelakaan)",
+          "options": [
+            "Berbumbu",
+            "Jatuh (kecelakaan)",
+            "Menepati/Mentaati",
+            "Menggunakan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 196,
+          "kanji": "混ぜる",
+          "reading": "まぜる",
+          "romaji": "mazeru",
+          "meaning": "Mencampur",
+          "options": [
+            "Ganti Kendaraan",
+            "Menjadi",
+            "Menjelaskan",
+            "Mencampur"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 197,
+          "kanji": "掘る",
+          "reading": "ほる",
+          "romaji": "horu",
+          "meaning": "Menggali",
+          "options": [
+            "Mengasuh/Memelihara (orang)",
+            "Menggali",
+            "Menyeberang",
+            "Bercanda"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 198,
+          "kanji": "漏れる",
+          "reading": "もれる",
+          "romaji": "moreru",
+          "meaning": "Bocor",
+          "options": [
+            "Bocor",
+            "Saling bicara satu sama lain",
+            "Memelihara (binatang)",
+            "Menitipkan/Deposit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 199,
+          "kanji": "水没する",
+          "reading": "すいぼつする",
+          "romaji": "suibotsusuru",
+          "meaning": "Terendam Air",
+          "options": [
+            "Terendam Air",
+            "Perlu / memerlukan",
+            "Istirahat / Libur",
+            "Senam"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 200,
+          "kanji": "もたらす",
+          "reading": "もたらす",
+          "romaji": "motarasu",
+          "meaning": "Menimbulkan",
+          "options": [
+            "Menimbulkan",
+            "/ menyelenggarakan",
+            "Memperbaiki (Mesin)",
+            "Melanggar"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "questions": [
+        {
+          "id": 201,
+          "kanji": "怪我する",
+          "reading": "けがする",
+          "romaji": "kegasuru",
+          "meaning": "Terluka (badan)",
+          "options": [
+            "Terluka (badan)",
+            "Mengirim ( barang )",
+            "Merakit",
+            "Mengemudi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 202,
+          "kanji": "傷付く",
+          "reading": "きずつく",
+          "romaji": "kizutsuku",
+          "meaning": "Terluka (hati)",
+          "options": [
+            "Terlambat bangun",
+            "Rusak ( mesin )",
+            "Terluka (hati)",
+            "Terlambat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 203,
+          "kanji": "傷つける",
+          "reading": "きずつける",
+          "romaji": "kizutsukeru",
+          "meaning": "Melukai",
+          "options": [
+            "Kenal",
+            "Bersantai",
+            "Mengontrol/mengawasi",
+            "Melukai"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 204,
+          "kanji": "挟む",
+          "reading": "はさむ",
+          "romaji": "hasamu",
+          "meaning": "Menjepit",
+          "options": [
+            "Terlambat bangun",
+            "Menjepit",
+            "Menjadi Kurus",
+            "Berdagang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 205,
+          "kanji": "拾う",
+          "reading": "ひろう",
+          "romaji": "hirou",
+          "meaning": "Memungut",
+          "options": [
+            "Kenal",
+            "Kesusahan / susah",
+            "Memungut",
+            "Menerima/Mengikuti"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 206,
+          "kanji": "運ぶ",
+          "reading": "はこぶ",
+          "romaji": "hakobu",
+          "meaning": "Mengangkut/Di Bawa",
+          "options": [
+            "Kenal",
+            "Bermalas-malasan , tidak melakukan apapun",
+            "Bertengkar",
+            "Mengangkut/Di Bawa"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 207,
+          "kanji": "避ける",
+          "reading": "さける",
+          "romaji": "sakeru",
+          "meaning": "Menghindari",
+          "options": [
+            "Menghindari",
+            "Perlu / memerlukan",
+            "Beres – Beres / membereskan",
+            "Melaksanakan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 208,
+          "kanji": "巻き込まれる",
+          "reading": "まきこまれる",
+          "romaji": "makikomareru",
+          "meaning": "Terlilit",
+          "options": [
+            "Mengobrol",
+            "Menelepon",
+            "Memeriksa",
+            "Terlilit"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 209,
+          "kanji": "鳴らす",
+          "reading": "ならす",
+          "romaji": "narasu",
+          "meaning": "Membunyikan",
+          "options": [
+            "Berhati - hati",
+            "Membunyikan",
+            "Berkeliling memeriksa",
+            "Menyimpulkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 210,
+          "kanji": "どく",
+          "reading": "どく",
+          "romaji": "doku",
+          "meaning": "Menyingkir/Minggir",
+          "options": [
+            "Mengukur",
+            "Menyingkir/Minggir",
+            "Menjawab",
+            "Merevisi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 211,
+          "kanji": "ぶつかる",
+          "reading": "ぶつかる",
+          "romaji": "butsukaru",
+          "meaning": "Menabrak",
+          "options": [
+            "Keluar Tempat / keluar rumah",
+            "Menabrak",
+            "Beres – Beres / membereskan",
+            "Membuat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 212,
+          "kanji": "感じる",
+          "reading": "かんじる",
+          "romaji": "kanjiru",
+          "meaning": "Merasakan",
+          "options": [
+            "Bersinar",
+            "Bersih – Bersih / membersihkan",
+            "Merasakan",
+            "Membuat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 213,
+          "kanji": "扱われる",
+          "reading": "あつかわれる",
+          "romaji": "atsukawareru",
+          "meaning": "Diperlakukan",
+          "options": [
+            "Merobohkan",
+            "Diperlakukan",
+            "Menyalakan Alarm",
+            "Memasukan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 214,
+          "kanji": "管理する",
+          "reading": "かんりする",
+          "romaji": "kanrisuru",
+          "meaning": "Mengontrol/mengawasi",
+          "options": [
+            "Merasakan",
+            "Menegaskan kembali",
+            "Mengontrol/mengawasi",
+            "Menyalahkan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 215,
+          "kanji": "保証する",
+          "reading": "ほしょうする",
+          "romaji": "hosyousuru",
+          "meaning": "Menjamin",
+          "options": [
+            "Menjamin",
+            "Menabrak",
+            "Memperlihatkan",
+            "Istirahat / Libur"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 216,
+          "kanji": "妊娠する",
+          "reading": "にんしんする",
+          "romaji": "ninshinsuru",
+          "meaning": "Hamil",
+          "options": [
+            "Menyapa, berbicara kepada",
+            "Memuji",
+            "Bunuh Diri",
+            "Hamil"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 217,
+          "kanji": "期待する",
+          "reading": "きたいする",
+          "romaji": "kitaisuru",
+          "meaning": "Mengharapkan / berharap",
+          "options": [
+            "Menyentuh",
+            "Merebus",
+            "Memohon / mengajukan permohonan",
+            "Mengharapkan / berharap"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 218,
+          "kanji": "添う",
+          "reading": "そう",
+          "romaji": "sou",
+          "meaning": "Memenuhi",
+          "options": [
+            "Menjemput",
+            "Memenuhi",
+            "Keluar Tempat / keluar rumah",
+            "Mengadakan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 219,
+          "kanji": "反省する",
+          "reading": "はんせいする",
+          "romaji": "hanseisuru",
+          "meaning": "Intropeksi diri",
+          "options": [
+            "Berkeliling memeriksa",
+            "Intropeksi diri",
+            "Lengket",
+            "Berdagang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 220,
+          "kanji": "入力する",
+          "reading": "にゅうりょくする",
+          "romaji": "nyuuryokusuru",
+          "meaning": "Input data",
+          "options": [
+            "Melukai",
+            "Kerja Lembur",
+            "Input data",
+            "Mengadakan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 221,
+          "kanji": "消える",
+          "reading": "きえる",
+          "romaji": "kieru",
+          "meaning": "Terhapus (Data)",
+          "options": [
+            "Terhapus (Data)",
+            "Diserap",
+            "Menganggap , beranggapan",
+            "Memodifikasi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 222,
+          "kanji": "節約する",
+          "reading": "せつやくする",
+          "romaji": "setsuyakusuru",
+          "meaning": "Menghemat",
+          "options": [
+            "Menghemat",
+            "Mengeluarkan",
+            "Menagih",
+            "Bersinar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 223,
+          "kanji": "短縮する",
+          "reading": "たんしゅくする",
+          "romaji": "tansyukusuru",
+          "meaning": "Mempersingkat",
+          "options": [
+            "Menari",
+            "Kerja Lembur",
+            "Mempersingkat",
+            "Muncul"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 224,
+          "kanji": "守る",
+          "reading": "まもる",
+          "romaji": "mamoru",
+          "meaning": "Menepati/Mentaati",
+          "options": [
+            "Patah tulang",
+            "Berkonstribusi",
+            "Menepati/Mentaati",
+            "Berhasil"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 225,
+          "kanji": "破る",
+          "reading": "やぶる",
+          "romaji": "yaburu",
+          "meaning": "Mengingkari/Merobek",
+          "options": [
+            "Menemukan",
+            "Mengingkari/Merobek",
+            "Menangis",
+            "Tertarik"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 226,
+          "kanji": "迎える",
+          "reading": "むかえる",
+          "romaji": "mukaeru",
+          "meaning": "Menjemput",
+          "options": [
+            "Menyeleksi",
+            "Menjemput",
+            "Menjatuhkan",
+            "Memelihara (binatang)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 227,
+          "kanji": "見舞する",
+          "reading": "みまいする",
+          "romaji": "mimaisuru",
+          "meaning": "Menjenguk",
+          "options": [
+            "Menjenguk",
+            "Ada (Benda Mati)",
+            "Menyambung / menghubungkan",
+            "Belajar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 228,
+          "kanji": "実行する",
+          "reading": "じっこうする",
+          "romaji": "jikkousuru",
+          "meaning": "Melakukan Aturan/melaksanakan",
+          "options": [
+            "Pensiun",
+            "Diet",
+            "Melakukan Aturan/melaksanakan",
+            "Mencegah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 229,
+          "kanji": "実施する",
+          "reading": "じっしする",
+          "romaji": "jisshisuru",
+          "meaning": "Melaksanakan",
+          "options": [
+            "Menyambung / menghubungkan",
+            "Melaksanakan",
+            "Serahkan/Percayakan/mempercayakan",
+            "Menggunakan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 230,
+          "kanji": "晴れる",
+          "reading": "はれる",
+          "romaji": "hareru",
+          "meaning": "Cuaca Cerah",
+          "options": [
+            "Bermain, memainkan ( musik )",
+            "Bergabung",
+            "Membungkus",
+            "Cuaca Cerah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 231,
+          "kanji": "失う",
+          "reading": "うしなう",
+          "romaji": "ushinau",
+          "meaning": "Kehilangan (Kepercayaan)",
+          "options": [
+            "Mengadakan",
+            "Kehilangan (Kepercayaan)",
+            "Menggunakan",
+            "Mengisi / mencatat (di kertas)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 232,
+          "kanji": "謝る",
+          "reading": "あやまる",
+          "romaji": "ayamaru",
+          "meaning": "Meminta Maaf",
+          "options": [
+            "Membeli",
+            "Keburu / Tidak Terlambat",
+            "Terlilit",
+            "Meminta Maaf"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 233,
+          "kanji": "頼む",
+          "reading": "たのむ",
+          "romaji": "tanomu",
+          "meaning": "Meminta pertolongan / memohon",
+          "options": [
+            "Mengambil",
+            "Menjamin",
+            "Meminta pertolongan / memohon",
+            "Terharu / berkesan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 234,
+          "kanji": "求める",
+          "reading": "もとめる",
+          "romaji": "motomeru",
+          "meaning": "Meminta",
+          "options": [
+            "Meminta",
+            "Mengeluarkan",
+            "Meminjamkan",
+            "Menganalisa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 235,
+          "kanji": "合う",
+          "reading": "あう",
+          "romaji": "au",
+          "meaning": "Cocok",
+          "options": [
+            "Menemukan",
+            "Menulis",
+            "Cocok",
+            "Menukar (Mesin)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 236,
+          "kanji": "向かう",
+          "reading": "むかう",
+          "romaji": "mukau",
+          "meaning": "Menuju",
+          "options": [
+            "Basah",
+            "Menuju",
+            "Memodifikasi",
+            "Hamil"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 237,
+          "kanji": "変わる",
+          "reading": "かわる",
+          "romaji": "kawaru",
+          "meaning": "Berubah/Berganti",
+          "options": [
+            "Input data",
+            "Mencoba memakai",
+            "Berkicau ( burung )",
+            "Berubah/Berganti"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 238,
+          "kanji": "届く",
+          "reading": "とどく",
+          "romaji": "todoku",
+          "meaning": "(Barangnya) Sampai",
+          "options": [
+            "(Barangnya) Sampai",
+            "Terharu / berkesan",
+            "Mengupayakan",
+            "Jadi/Bisa/Selesai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 239,
+          "kanji": "承認する",
+          "reading": "しょうにんする",
+          "romaji": "syouninsuru",
+          "meaning": "Mengesahkan / menyetujui",
+          "options": [
+            "Berkhianat",
+            "Mengesahkan / menyetujui",
+            "Menggosok",
+            "Ada (Benda Hidup)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 240,
+          "kanji": "活かす",
+          "reading": "いかす",
+          "romaji": "ikasu",
+          "meaning": "Memanfaatkan",
+          "options": [
+            "Memanfaatkan",
+            "Terlihat / kelihatan",
+            "Mengajarkan",
+            "Membeli"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 241,
+          "kanji": "報告する",
+          "reading": "ほうこくする",
+          "romaji": "houkokusuru",
+          "meaning": "Melaporkan / melapor",
+          "options": [
+            "Melaporkan / melapor",
+            "Datang",
+            "Janjian bertemu",
+            "Membaca"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 242,
+          "kanji": "連絡する",
+          "reading": "れんらくする",
+          "romaji": "renrakusuru",
+          "meaning": "Informasi / menghubungi",
+          "options": [
+            "Menengok ke Belakang",
+            "Mengatur/ Menyetting",
+            "Informasi / menghubungi",
+            "Mengingat / ingat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 243,
+          "kanji": "相談する",
+          "reading": "そうだんする",
+          "romaji": "soudansuru",
+          "meaning": "Diskusi / musyawarah",
+          "options": [
+            "Memukul",
+            "Menyapa, berbicara kepada",
+            "Serahkan/Percayakan/mempercayakan",
+            "Diskusi / musyawarah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 244,
+          "kanji": "治療する",
+          "reading": "ちりょうする",
+          "romaji": "chiryousuru",
+          "meaning": "Mengobati",
+          "options": [
+            "Bergerak",
+            "Mengobati",
+            "Memadatkan",
+            "Menganalisa"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 245,
+          "kanji": "取り込む",
+          "reading": "とりこむ",
+          "romaji": "torikomu",
+          "meaning": "Mengupayakan",
+          "options": [
+            "Kerja Lembur",
+            "Kesusahan / susah",
+            "Mengharapkan / berharap",
+            "Mengupayakan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 246,
+          "kanji": "間に合う",
+          "reading": "まにあう",
+          "romaji": "maniau",
+          "meaning": "Keburu / Tidak Terlambat",
+          "options": [
+            "Makan",
+            "Memohon / mengajukan permohonan",
+            "Keburu / Tidak Terlambat",
+            "Memperbaiki"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 247,
+          "kanji": "遅れる",
+          "reading": "おくれる",
+          "romaji": "okureru",
+          "meaning": "Terlambat 1",
+          "options": [
+            "Terlambat 1",
+            "Menjawab",
+            "Mencemari , tercemar",
+            "Berkeliling memeriksa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 248,
+          "kanji": "見直す",
+          "reading": "みなおす",
+          "romaji": "minaosu",
+          "meaning": "Meninjau Ulang",
+          "options": [
+            "Mengalami",
+            "Meningkatkan(mengalami peningkatan)",
+            "Meninjau Ulang",
+            "Keburu / Tidak Terlambat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 249,
+          "kanji": "答える",
+          "reading": "こたえる",
+          "romaji": "kotaeru",
+          "meaning": "Menjawab",
+          "options": [
+            "Mendapat teman",
+            "Menjawab",
+            "Berdiri",
+            "Mengajak Teman"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 250,
+          "kanji": "喧嘩する",
+          "reading": "けんかする",
+          "romaji": "kenkasuru",
+          "meaning": "Bertengkar",
+          "options": [
+            "Terluka (hati)",
+            "Menangkap dengan Telinga",
+            "Mengurangi",
+            "Bertengkar"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "questions": [
+        {
+          "id": 251,
+          "kanji": "違反する",
+          "reading": "いはんする",
+          "romaji": "ihansuru",
+          "meaning": "Melanggar",
+          "options": [
+            "Tinggal",
+            "Memaksakan diri",
+            "Melanggar",
+            "Belok"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 252,
+          "kanji": "引越しする",
+          "reading": "ひっこしする",
+          "romaji": "hikkoshisuru",
+          "meaning": "Pindahan (Tempat)",
+          "options": [
+            "Berangkat",
+            "Pindahan (Tempat)",
+            "Rusak ( mesin )",
+            "Bekerja ( melakukan pekerjaan )"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 253,
+          "kanji": "発表する",
+          "reading": "はっぴょうする",
+          "romaji": "happyousuru",
+          "meaning": "Mempresentasikan",
+          "options": [
+            "Mempresentasikan",
+            "Memperlihatkan",
+            "Menyimpulkan",
+            "Mengganti (Pakaian)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 254,
+          "kanji": "向上する",
+          "reading": "こうじょうする",
+          "romaji": "koujyousuru",
+          "meaning": "Meningkatkan(mengalami peningkatan)",
+          "options": [
+            "Memandang,melihat ke sekeliling",
+            "Menjadi",
+            "Meningkatkan(mengalami peningkatan)",
+            "Merekomendasikan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 255,
+          "kanji": "翻訳する",
+          "reading": "ほんやくする",
+          "romaji": "honyakusuru",
+          "meaning": "Menterjemahkan buku",
+          "options": [
+            "Hamil",
+            "Pariwisata / berwisata",
+            "Menterjemahkan buku",
+            "Menjawab"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 256,
+          "kanji": "通訳する",
+          "reading": "つうやくする",
+          "romaji": "tsuuyakusuru",
+          "meaning": "Menterjemahkan Pembicaraan",
+          "options": [
+            "Menempelkan",
+            "Menterjemahkan Pembicaraan",
+            "Menganggap , beranggapan",
+            "Ikut Ujian"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 257,
+          "kanji": "与える",
+          "reading": "あたえる",
+          "romaji": "ataeru",
+          "meaning": "Memberikan (Penghargaan)",
+          "options": [
+            "Bersembunyi",
+            "Mencuci (Barang)",
+            "Menolong",
+            "Memberikan (Penghargaan)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 258,
+          "kanji": "得る",
+          "reading": "える",
+          "romaji": "eru",
+          "meaning": "Menerima (Penghargaan)",
+          "options": [
+            "Menerima (Penghargaan)",
+            "Bersantai",
+            "Menerima",
+            "Memberi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 259,
+          "kanji": "ずれる",
+          "reading": "ずれる",
+          "romaji": "zureru",
+          "meaning": "Bergeser",
+          "options": [
+            "Bertanya",
+            "Mendorong / menekan",
+            "Bergeser",
+            "Menyeberang"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 260,
+          "kanji": "改正する",
+          "reading": "かいせいする",
+          "romaji": "kaiseisuru",
+          "meaning": "Merevisi",
+          "options": [
+            "Terluka (badan)",
+            "Menggoreng",
+            "Pulang",
+            "Merevisi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 261,
+          "kanji": "はずれる",
+          "reading": "はずれる",
+          "romaji": "hazureru",
+          "meaning": "Menyimpang",
+          "options": [
+            "Mengharapkan / berharap",
+            "Mempresentasikan",
+            "Mendaki",
+            "Menyimpang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 262,
+          "kanji": "勧める",
+          "reading": "すすめる",
+          "romaji": "susumeru",
+          "meaning": "Merekomendasikan",
+          "options": [
+            "Merekomendasikan",
+            "Memandang,melihat ke sekeliling",
+            "Mengingkari/Merobek",
+            "Menyimpang"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 263,
+          "kanji": "間違える",
+          "reading": "まちがえる",
+          "romaji": "machigaeru",
+          "meaning": "Salah / melakukan kesalahan",
+          "options": [
+            "Salah / melakukan kesalahan",
+            "Menyala / nyala",
+            "Diharapkan tidak melakukan",
+            "Memberikan (Penghargaan)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 264,
+          "kanji": "流れる",
+          "reading": "ながれる",
+          "romaji": "nagareru",
+          "meaning": "Mengalir",
+          "options": [
+            "Belajar ( kepada )",
+            "Dikeringkan",
+            "Menerima",
+            "Mengalir"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 265,
+          "kanji": "でんわをかける",
+          "reading": "でんわをかける",
+          "romaji": "denwawokakeru",
+          "meaning": "Menelepon",
+          "options": [
+            "Menyimpang",
+            "Terjadi,muncul",
+            "Menelepon",
+            "Melaksanakan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 266,
+          "kanji": "連れる",
+          "reading": "つれる",
+          "romaji": "tsureru",
+          "meaning": "Mengantarkan",
+          "options": [
+            "Merevisi",
+            "Mengantarkan",
+            "Disertai dengan, termasuk",
+            "Mendorong / menekan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 267,
+          "kanji": "増やす",
+          "reading": "ふやす",
+          "romaji": "fuyasu",
+          "meaning": "Menambahi",
+          "options": [
+            "Menambahi",
+            "Menderita penyakit",
+            "Mempercayai",
+            "Menyimpang"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 268,
+          "kanji": "減らす",
+          "reading": "へらす",
+          "romaji": "herasu",
+          "meaning": "Mengurangi",
+          "options": [
+            "Menegaskan kembali",
+            "Mengurangi",
+            "Meninggal",
+            "Memperdulikan / menghiraukan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 269,
+          "kanji": "計る",
+          "reading": "はかる",
+          "romaji": "hakaru",
+          "meaning": "Mengukur",
+          "options": [
+            "Menerima (Penghargaan)",
+            "Mengukur",
+            "Istirahat / Libur",
+            "Mengantarkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 270,
+          "kanji": "貼る",
+          "reading": "はる",
+          "romaji": "haru",
+          "meaning": "Menempelkan",
+          "options": [
+            "Istirahat ( sebentar )",
+            "Membangunkan / mendirikan",
+            "Bertengkar",
+            "Menempelkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 271,
+          "kanji": "やる",
+          "reading": "やる",
+          "romaji": "yaru",
+          "meaning": "Melakukan 1",
+          "options": [
+            "Tersambung",
+            "Melakukan 1",
+            "Kerja Lembur",
+            "Berpengalaman"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 272,
+          "kanji": "する",
+          "reading": "する",
+          "romaji": "suru",
+          "meaning": "Melakukan 2",
+          "options": [
+            "Melakukan 2",
+            "Intropeksi diri",
+            "Berusaha",
+            "Terlilit"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 273,
+          "kanji": "行う",
+          "reading": "おこなう",
+          "romaji": "okonau",
+          "meaning": "Melakukan / menyelenggarakan",
+          "options": [
+            "Istirahat ( sebentar )",
+            "Menyanyi / bernyanyi",
+            "Berhenti / Stop",
+            "Melakukan / menyelenggarakan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 274,
+          "kanji": "行う",
+          "reading": "おこなう",
+          "romaji": "okonau",
+          "meaning": "/ menyelenggarakan",
+          "options": [
+            "/ menyelenggarakan",
+            "Berkonstribusi",
+            "Menjalani saat2 yang berat, kesulitan",
+            "Berolahraga"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 275,
+          "kanji": "誘う",
+          "reading": "さそう",
+          "romaji": "sasou",
+          "meaning": "Mengajak Teman",
+          "options": [
+            "Bermain",
+            "Menikah",
+            "Menempelkan",
+            "Mengajak Teman"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 276,
+          "kanji": "頑張る",
+          "reading": "がんばる",
+          "romaji": "ganbaru",
+          "meaning": "Semangat / bersemangat",
+          "options": [
+            "Mempersingkat",
+            "Menghindari",
+            "Menyeberang",
+            "Semangat / bersemangat"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 277,
+          "kanji": "助ける",
+          "reading": "たすける",
+          "romaji": "tasukeru",
+          "meaning": "Menolong",
+          "options": [
+            "Tersambung",
+            "Menolong",
+            "Memasang",
+            "Berhati - hati"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 278,
+          "kanji": "繋ぐ",
+          "reading": "つなぐ",
+          "romaji": "tsunagu",
+          "meaning": "Menyambung / menghubungkan",
+          "options": [
+            "Antri / Berbaris / berjajar",
+            "Menggoreng",
+            "Menyambung / menghubungkan",
+            "Menanda Tangani"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 279,
+          "kanji": "みつかる",
+          "reading": "みつかる",
+          "romaji": "mitsukaru",
+          "meaning": "Ditemukan",
+          "options": [
+            "Ditemukan",
+            "Terhapus (Data)",
+            "Mengurangi",
+            "Merokok"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 280,
+          "kanji": "酔っ払う",
+          "reading": "よっぱらう",
+          "romaji": "yopparau",
+          "meaning": "Mabuk",
+          "options": [
+            "Permisi",
+            "Mabuk",
+            "Menyalakan Alarm",
+            "Menggali"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 281,
+          "kanji": "探す",
+          "reading": "さがす",
+          "romaji": "sagasu",
+          "meaning": "Mencari",
+          "options": [
+            "Lulus",
+            "Menghitung",
+            "Menjual",
+            "Mencari"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 282,
+          "kanji": "聞き取る",
+          "reading": "ききとる",
+          "romaji": "kikitoru",
+          "meaning": "Menangkap dengan Telinga",
+          "options": [
+            "Mengalir",
+            "Berubah",
+            "Memasang",
+            "Menangkap dengan Telinga"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 283,
+          "kanji": "回す",
+          "reading": "まわす",
+          "romaji": "mawasu",
+          "meaning": "Mengelilingi / memutarkan",
+          "options": [
+            "Menderita penyakit",
+            "Semangat / bersemangat",
+            "Membantu",
+            "Mengelilingi / memutarkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 284,
+          "kanji": "回る",
+          "reading": "まわる",
+          "romaji": "mawaru",
+          "meaning": "Berkeliling / berputar",
+          "options": [
+            "Memasak",
+            "Kesusahan / susah",
+            "Menyimpulkan",
+            "Berkeliling / berputar"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 285,
+          "kanji": "受け取る",
+          "reading": "うけとる",
+          "romaji": "uketoru",
+          "meaning": "Menerima / menyambut",
+          "options": [
+            "Mengantarkan",
+            "Menghadap",
+            "Menerima / menyambut",
+            "Membubuhkan cap"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 286,
+          "kanji": "受け入れる",
+          "reading": "うけいれる",
+          "romaji": "ukeireru",
+          "meaning": "Penerimaan / menampung",
+          "options": [
+            "Gerogi / Tegang",
+            "Penerimaan / menampung",
+            "Berbicara/Ngobrol",
+            "Membengkokkan / menekuk"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 287,
+          "kanji": "祈る",
+          "reading": "いのる",
+          "romaji": "inoru",
+          "meaning": "Berdoa",
+          "options": [
+            "Menterjemahkan buku",
+            "Diperlakukan",
+            "Berdoa",
+            "Pemenang pertama"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 288,
+          "kanji": "踊る",
+          "reading": "おどる",
+          "romaji": "odoru",
+          "meaning": "Menari",
+          "options": [
+            "Bunuh Diri",
+            "Menari",
+            "Mendaur ulang",
+            "Berkumpul"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 289,
+          "kanji": "痩せる",
+          "reading": "やせる",
+          "romaji": "yaseru",
+          "meaning": "Menjadi Kurus",
+          "options": [
+            "Diperlakukan",
+            "Melanjutkan sekolah",
+            "Tertawa",
+            "Menjadi Kurus"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 290,
+          "kanji": "太る",
+          "reading": "ふとる",
+          "romaji": "futoru",
+          "meaning": "Menjadi Gemuk",
+          "options": [
+            "Mencari uang",
+            "Menjadi Gemuk",
+            "Meminta",
+            "Memotong"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 291,
+          "kanji": "残る",
+          "reading": "のこる",
+          "romaji": "nokoru",
+          "meaning": "Tersisa",
+          "options": [
+            "Tersisa",
+            "Putus Asa / menyerah",
+            "Melakukan Proses",
+            "Membatalkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 292,
+          "kanji": "無くなる",
+          "reading": "なくなる",
+          "romaji": "nakunaru",
+          "meaning": "Habis",
+          "options": [
+            "Naik",
+            "Habis",
+            "Berolahraga",
+            "Menularkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 293,
+          "kanji": "乾く",
+          "reading": "かわく",
+          "romaji": "kawaku",
+          "meaning": "Kering",
+          "options": [
+            "Memakai (topi)",
+            "Kering",
+            "Mengadakan",
+            "Meminjamkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 294,
+          "kanji": "濡れる",
+          "reading": "ぬれる",
+          "romaji": "nureru",
+          "meaning": "Basah",
+          "options": [
+            "Memadamkan api",
+            "Marah",
+            "Basah",
+            "Berkicau ( burung )"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 295,
+          "kanji": "叩く",
+          "reading": "たたく",
+          "romaji": "tataku",
+          "meaning": "Memukul",
+          "options": [
+            "Memukul",
+            "Menjemput",
+            "Menghafal",
+            "Mengobrol"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 296,
+          "kanji": "押す",
+          "reading": "おす",
+          "romaji": "osu",
+          "meaning": "Mendorong / menekan",
+          "options": [
+            "Mendorong / menekan",
+            "Menyadari",
+            "Menerima/Mengikuti",
+            "Melakukan Proses"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 297,
+          "kanji": "振り向く",
+          "reading": "ふりむく",
+          "romaji": "furimuku",
+          "meaning": "Menengok ke Belakang",
+          "options": [
+            "Menengok ke Belakang",
+            "Menagih",
+            "Makan",
+            "Terbiasa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 298,
+          "kanji": "冷やす",
+          "reading": "ひやす",
+          "romaji": "hiyasu",
+          "meaning": "Mendinginkan",
+          "options": [
+            "Mendinginkan",
+            "Menempel / tertempel",
+            "Bodoh",
+            "Menggunakan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 299,
+          "kanji": "沸く",
+          "reading": "わく",
+          "romaji": "waku",
+          "meaning": "Mendidih",
+          "options": [
+            "Ada (Benda Mati)",
+            "Menukar (Mesin)",
+            "Menitipkan/Deposit",
+            "Mendidih"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 300,
+          "kanji": "焼く",
+          "reading": "やく",
+          "romaji": "yaku",
+          "meaning": "Memanggang / membakar",
+          "options": [
+            "Memprioritaskan",
+            "Bangun Tidur",
+            "Memanggang / membakar",
+            "Lulus"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "questions": [
+        {
+          "id": 301,
+          "kanji": "燃える",
+          "reading": "もえる",
+          "romaji": "moeru",
+          "meaning": "Bisa dibakar / terbakar",
+          "options": [
+            "Jalan – Jalan",
+            "Bisa dibakar / terbakar",
+            "Memindahkan, berpindah",
+            "Menunggu"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 302,
+          "kanji": "落とす",
+          "reading": "おとす",
+          "romaji": "otosu",
+          "meaning": "Menjatuhkan",
+          "options": [
+            "Memakai (Celana &amp; Sepatu/Kaos Kaki)",
+            "Menjatuhkan",
+            "Bunuh Diri",
+            "Cukup"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 303,
+          "kanji": "斃す",
+          "reading": "たおす",
+          "romaji": "taosu",
+          "meaning": "Merobohkan",
+          "options": [
+            "Ada (Benda Hidup)",
+            "Berbelanja",
+            "Merobohkan",
+            "Memperluas"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 304,
+          "kanji": "起こす",
+          "reading": "おこす",
+          "romaji": "okosu",
+          "meaning": "Membangunkan / mendirikan",
+          "options": [
+            "Terkumpul, terakumulasi",
+            "Membangunkan / mendirikan",
+            "Perlu / memerlukan",
+            "Menegaskan kembali"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 305,
+          "kanji": "飛ぶ",
+          "reading": "とぶ",
+          "romaji": "tobu",
+          "meaning": "Terbang",
+          "options": [
+            "Berkicau ( burung )",
+            "Membandingkan",
+            "Terbang",
+            "Menerima / menyambut"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 306,
+          "kanji": "並ぶ",
+          "reading": "ならぶ",
+          "romaji": "narabu",
+          "meaning": "Antri / Berbaris / berjajar",
+          "options": [
+            "Antri / Berbaris / berjajar",
+            "Keburu / Tidak Terlambat",
+            "Bertengkar",
+            "Mengalir"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 307,
+          "kanji": "滑る",
+          "reading": "すべる",
+          "romaji": "suberu",
+          "meaning": "Terpeleset",
+          "options": [
+            "Mengoperasikan",
+            "Terpeleset",
+            "Beres – Beres / membereskan",
+            "Melampirkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 308,
+          "kanji": "落ちる",
+          "reading": "おちる",
+          "romaji": "ochiru",
+          "meaning": "Jatuh/gugur/hilang (noda)",
+          "options": [
+            "Bersih – Bersih / membersihkan",
+            "Menambahi",
+            "Diperlakukan",
+            "Jatuh/gugur/hilang (noda)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 309,
+          "kanji": "足りる",
+          "reading": "たりる",
+          "romaji": "tariru",
+          "meaning": "Cukup",
+          "options": [
+            "Menitipkan/Deposit",
+            "Cukup",
+            "Menimbulkan",
+            "Bekerja"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 310,
+          "kanji": "明らめる",
+          "reading": "あきらめる",
+          "romaji": "akirameru",
+          "meaning": "Putus Asa / menyerah",
+          "options": [
+            "Putus Asa / menyerah",
+            "Memakai (Celana &amp; Sepatu/Kaos Kaki)",
+            "Mandi",
+            "Memperbaiki (Mesin)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 311,
+          "kanji": "折れる",
+          "reading": "おれる",
+          "romaji": "oreru",
+          "meaning": "Patah",
+          "options": [
+            "Pastikan / menentukan",
+            "Mempercayai",
+            "Patah",
+            "Tertarik"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 312,
+          "kanji": "数える",
+          "reading": "かぞえる",
+          "romaji": "kazoeru",
+          "meaning": "Menghitung 1",
+          "options": [
+            "Terlambat",
+            "Mengangkut/Di Bawa",
+            "Ikut Ujian",
+            "Menghitung 1"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 313,
+          "kanji": "計算する",
+          "reading": "けいさんする",
+          "romaji": "keisansuru",
+          "meaning": "Menghitung 2",
+          "options": [
+            "Menghitung 2",
+            "Berjemur",
+            "Berkicau ( burung )",
+            "Membandingkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 314,
+          "kanji": "比べる",
+          "reading": "くらべる",
+          "romaji": "kuraberu",
+          "meaning": "Membandingkan",
+          "options": [
+            "Membandingkan",
+            "Melakukan / menyelenggarakan",
+            "Berjanji",
+            "Menerima"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 315,
+          "kanji": "育てる",
+          "reading": "そだてる",
+          "romaji": "sodateru",
+          "meaning": "Mengasuh/Memelihara (orang)",
+          "options": [
+            "Mengasuh/Memelihara (orang)",
+            "Memetik",
+            "Berbicara/Ngobrol",
+            "Mengupayakan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 316,
+          "kanji": "建てる",
+          "reading": "たてる",
+          "romaji": "tateru",
+          "meaning": "Mendirikan /Membangun (bangunan)",
+          "options": [
+            "Mendirikan /Membangun (bangunan)",
+            "Makan",
+            "Bertindak, beraksi",
+            "Kenal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 317,
+          "kanji": "貯める",
+          "reading": "ためる",
+          "romaji": "tameru",
+          "meaning": "Menabung/Mengumpulkan (benda)",
+          "options": [
+            "Bergeser",
+            "Menabung/Mengumpulkan (benda)",
+            "Meningkatkan (pekerjaan yang dilakukan)",
+            "Naik"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 318,
+          "kanji": "貯金する",
+          "reading": "ちょきんする",
+          "romaji": "cyokinsuru",
+          "meaning": "Menabung (uang)",
+          "options": [
+            "Menggoreng",
+            "Memenuhi",
+            "Menabung (uang)",
+            "Tinggal"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 319,
+          "kanji": "漬ける",
+          "reading": "つける",
+          "romaji": "tsukeru",
+          "meaning": "Merendam/Mencelupkan",
+          "options": [
+            "Melakukan / menyelenggarakan",
+            "Merendam/Mencelupkan",
+            "Lulus",
+            "Bertindak, beraksi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 320,
+          "kanji": "続ける",
+          "reading": "つづける",
+          "romaji": "tsuづkeru",
+          "meaning": "Melanjutkan",
+          "options": [
+            "Bersantai",
+            "Bocor",
+            "Menerima",
+            "Melanjutkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 321,
+          "kanji": "出発する",
+          "reading": "しゅっぱつする",
+          "romaji": "syuppatsusuru",
+          "meaning": "Berangkat Perjalanan",
+          "options": [
+            "Menggantungkan",
+            "Berangkat Perjalanan",
+            "Memenuhi",
+            "Pindahan (Tempat)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 322,
+          "kanji": "計画する",
+          "reading": "けいかくする",
+          "romaji": "keikakusuru",
+          "meaning": "Merencanakan",
+          "options": [
+            "Melaksanakan",
+            "Menyalakan Alarm",
+            "Pastikan / menentukan",
+            "Merencanakan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 323,
+          "kanji": "緊張する",
+          "reading": "きんちょうする",
+          "romaji": "kincyousuru",
+          "meaning": "Gerogi / Tegang",
+          "options": [
+            "Gerogi / Tegang",
+            "Getaran berhenti",
+            "Membatalkan",
+            "Tertawa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 324,
+          "kanji": "残業する",
+          "reading": "ざんぎょうする",
+          "romaji": "zangyousuru",
+          "meaning": "Kerja Lembur",
+          "options": [
+            "Terbantu, tertolong",
+            "Menyimpang",
+            "Mengajarkan",
+            "Kerja Lembur"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 325,
+          "kanji": "就職する",
+          "reading": "しゅうしょくする",
+          "romaji": "syuusyokusuru",
+          "meaning": "Mendapat Kerja",
+          "options": [
+            "Kami terima paket anda",
+            "Mengingkari/Merobek",
+            "Mendapat Kerja",
+            "Memenuhi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 326,
+          "kanji": "紹介する",
+          "reading": "しょうかいする",
+          "romaji": "syoukaisuru",
+          "meaning": "Memperkenalkan",
+          "options": [
+            "Membawa keluar",
+            "Menghindari",
+            "Memperkenalkan",
+            "Mempersingkat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 327,
+          "kanji": "招待する",
+          "reading": "しょうたいする",
+          "romaji": "syoutaisuru",
+          "meaning": "Mengundang/Undangan",
+          "options": [
+            "Terjadi,muncul",
+            "Tertarik",
+            "Membengkokkan / menekuk",
+            "Mengundang/Undangan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 328,
+          "kanji": "成功する",
+          "reading": "せいこうする",
+          "romaji": "seikousuru",
+          "meaning": "Berhasil",
+          "options": [
+            "Melakukan",
+            "Pariwisata / berwisata",
+            "Berhasil",
+            "Menghafal"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 329,
+          "kanji": "任せる",
+          "reading": "まかせる",
+          "romaji": "makaseru",
+          "meaning": "Serahkan/Percayakan/mempercayakan",
+          "options": [
+            "Serahkan/Percayakan/mempercayakan",
+            "Menjamin",
+            "Membuka",
+            "Berhenti / Stop"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 330,
+          "kanji": "登録する",
+          "reading": "とうろくする",
+          "romaji": "tourokusuru",
+          "meaning": "Mendaftar/Resgister",
+          "options": [
+            "Menegaskan kembali",
+            "Memerlukan Waktu",
+            "Berkhianat",
+            "Mendaftar/Resgister"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 331,
+          "kanji": "努力する",
+          "reading": "どりょくする",
+          "romaji": "doryokusuru",
+          "meaning": "Berusaha",
+          "options": [
+            "Berusaha",
+            "Memarahi",
+            "Terharu / berkesan",
+            "Sabar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 332,
+          "kanji": "反対する",
+          "reading": "はんたいする",
+          "romaji": "hantaisuru",
+          "meaning": "Membalikkan / melawan",
+          "options": [
+            "Dikeringkan",
+            "Membalikkan / melawan",
+            "Melukis",
+            "Merasa santai"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 333,
+          "kanji": "吃驚する",
+          "reading": "びっくりする",
+          "romaji": "bikkurisuru",
+          "meaning": "Kaget / terkejut",
+          "options": [
+            "Bersinar",
+            "Mengelap",
+            "Menimbulkan",
+            "Kaget / terkejut"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 334,
+          "kanji": "発明する",
+          "reading": "はつめいする",
+          "romaji": "hatsumeisuru",
+          "meaning": "Menciptakan",
+          "options": [
+            "Disertai dengan, termasuk",
+            "Menciptakan",
+            "Mengadakan",
+            "Tersambung"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 335,
+          "kanji": "誘拐する",
+          "reading": "ゆうかいする",
+          "romaji": "yuukaisuru",
+          "meaning": "Menculik",
+          "options": [
+            "Menculik",
+            "Tidur",
+            "Menciptakan",
+            "Mengirim ( barang )"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 336,
+          "kanji": "添付する",
+          "reading": "てんぷする",
+          "romaji": "tenpusuru",
+          "meaning": "Melampirkan",
+          "options": [
+            "Melampirkan",
+            "Memotong",
+            "Berangkat Perjalanan",
+            "Menetapkan (jadwal)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 337,
+          "kanji": "発展する",
+          "reading": "はってんする",
+          "romaji": "hattensuru",
+          "meaning": "Berkembang",
+          "options": [
+            "Keburu / Tidak Terlambat",
+            "Berkembang",
+            "Kesusahan / susah",
+            "Menetapkan (jadwal)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 338,
+          "kanji": "関連する",
+          "reading": "かんれんする",
+          "romaji": "kanrensuru",
+          "meaning": "Berkaitan 1",
+          "options": [
+            "Berkaitan 1",
+            "Mengerti",
+            "Mulai",
+            "Meninggal"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 339,
+          "kanji": "関する",
+          "reading": "かんする",
+          "romaji": "kansuru",
+          "meaning": "Berkaitan 2",
+          "options": [
+            "Menggunakan",
+            "Berkaitan 2",
+            "Menyentuh",
+            "Memotong"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 340,
+          "kanji": "参加する",
+          "reading": "さんかする",
+          "romaji": "sankasuru",
+          "meaning": "Bergabung",
+          "options": [
+            "Menitipkan/Deposit",
+            "Bergabung",
+            "Menginap",
+            "Mempercayai"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 341,
+          "kanji": "基く",
+          "reading": "もとづく",
+          "romaji": "motoづku",
+          "meaning": "Berdasarkan",
+          "options": [
+            "Memohon / mengajukan permohonan",
+            "Membuang",
+            "Menutup",
+            "Berdasarkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 342,
+          "kanji": "協力する",
+          "reading": "きょうりょくする",
+          "romaji": "kyouryokusuru",
+          "meaning": "Bekerja sama",
+          "options": [
+            "Terjadi,muncul",
+            "Mandi",
+            "Bekerja sama",
+            "Menutup"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 343,
+          "kanji": "商売する",
+          "reading": "しょうばいする",
+          "romaji": "syoubaisuru",
+          "meaning": "Berdagang",
+          "options": [
+            "Berjemur",
+            "Berdagang",
+            "Mandi ( berendam )",
+            "Memberi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 344,
+          "kanji": "裏切る",
+          "reading": "うらぎる",
+          "romaji": "uragiru",
+          "meaning": "Berkhianat",
+          "options": [
+            "Mulai",
+            "Berkhianat",
+            "Mencampur",
+            "Memberi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 345,
+          "kanji": "約束する",
+          "reading": "やくそくする",
+          "romaji": "yakusokusuru",
+          "meaning": "Berjanji",
+          "options": [
+            "Menutup ( barang kecil )",
+            "Menunjuk Jari",
+            "Berjanji",
+            "Mengikat (tali sepatu)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 346,
+          "kanji": "集中する",
+          "reading": "しゅうちゅうする",
+          "romaji": "syuucyuusuru",
+          "meaning": "Berkonsentrasi",
+          "options": [
+            "Keburu / Tidak Terlambat",
+            "Menjadi Kurus",
+            "Berkonsentrasi",
+            "Lalai/lupa"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 347,
+          "kanji": "貢献する",
+          "reading": "こうけんする",
+          "romaji": "koukensuru",
+          "meaning": "Berkonstribusi",
+          "options": [
+            "Menghangatkan",
+            "Menerima (Penghargaan)",
+            "Berkonstribusi",
+            "Bergerak"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 348,
+          "kanji": "運動する",
+          "reading": "うんどうする",
+          "romaji": "undousuru",
+          "meaning": "Berolahraga",
+          "options": [
+            "Memberi",
+            "Mengeluarkan",
+            "Menghapus / memadamkan",
+            "Berolahraga"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 349,
+          "kanji": "経験する",
+          "reading": "けいけんする",
+          "romaji": "keikensuru",
+          "meaning": "Berpengalaman",
+          "options": [
+            "/ menyelenggarakan",
+            "Berpengalaman",
+            "Berteriak",
+            "Bermalas-malasan , tidak melakukan apapun"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 350,
+          "kanji": "離れる",
+          "reading": "はなれる",
+          "romaji": "hanareru",
+          "meaning": "Berpisah",
+          "options": [
+            "Membeli",
+            "Menyimpan",
+            "Berpisah",
+            "Meletakan"
+          ],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "questions": [
+        {
+          "id": 351,
+          "kanji": "隠れる",
+          "reading": "かくれる",
+          "romaji": "kakureru",
+          "meaning": "Bersembunyi",
+          "options": [
+            "Membatasi",
+            "Menabrak",
+            "Bersembunyi",
+            "Sembuh"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 352,
+          "kanji": "輝く",
+          "reading": "かがやく",
+          "romaji": "kagayaku",
+          "meaning": "Bersinar",
+          "options": [
+            "Bersinar",
+            "Turun (Hujan/salju)",
+            "Menggunakan",
+            "Menemukan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 353,
+          "kanji": "叫ぶ",
+          "reading": "さけぶ",
+          "romaji": "sakebu",
+          "meaning": "Berteriak",
+          "options": [
+            "Mempersingkat",
+            "Merobohkan",
+            "Terlihat / kelihatan",
+            "Berteriak"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 354,
+          "kanji": "自殺する",
+          "reading": "じさつする",
+          "romaji": "jisatsusuru",
+          "meaning": "Bunuh Diri",
+          "options": [
+            "Membeli",
+            "Menghafal",
+            "Menghadap",
+            "Bunuh Diri"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 355,
+          "kanji": "腐る",
+          "reading": "くさる",
+          "romaji": "kusaru",
+          "meaning": "Membusuk",
+          "options": [
+            "Berangkat",
+            "Meminjamkan",
+            "Membusuk",
+            "Pulang"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 356,
+          "kanji": "我慢する",
+          "reading": "がまんする",
+          "romaji": "gamansuru",
+          "meaning": "Sabar",
+          "options": [
+            "Berkumpul",
+            "Terkejut",
+            "Membungkus",
+            "Sabar"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 357,
+          "kanji": "請求する",
+          "reading": "せいきゅうする",
+          "romaji": "seikyuusuru",
+          "meaning": "Menagih",
+          "options": [
+            "Menagih",
+            "Membawa/Memiliki",
+            "Merendah (sikap)",
+            "Bercanda"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 358,
+          "kanji": "打ち明ける",
+          "reading": "うちあける",
+          "romaji": "uchiakeru",
+          "meaning": "Curhat",
+          "options": [
+            "Naik",
+            "Curhat",
+            "Mencuri",
+            "Kaget / terkejut"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 359,
+          "kanji": "架ける",
+          "reading": "かける",
+          "romaji": "kakeru",
+          "meaning": "Menggantungkan",
+          "options": [
+            "Menggantungkan",
+            "Menjamu,mentraktir",
+            "Menghitung",
+            "Antri / Berbaris / berjajar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 360,
+          "kanji": "かける",
+          "reading": "かける",
+          "romaji": "kakeru",
+          "meaning": "Mengkalikan",
+          "options": [
+            "Mengkalikan",
+            "Menambahi",
+            "Bisa dibakar / terbakar",
+            "Terlambat bangun"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 361,
+          "kanji": "震える",
+          "reading": "ふるえる",
+          "romaji": "furueru",
+          "meaning": "Menggigil",
+          "options": [
+            "Memperbaiki",
+            "Menjual, berjualan",
+            "Menggigil",
+            "Menukar/Mengubah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 362,
+          "kanji": "付く",
+          "reading": "つく",
+          "romaji": "tsuku",
+          "meaning": "Menempel / tertempel",
+          "options": [
+            "Datang",
+            "Menempel / tertempel",
+            "Menghapus / memadamkan",
+            "Membawa/Memiliki"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 363,
+          "kanji": "尊敬する",
+          "reading": "そんけいする",
+          "romaji": "sonkeisuru",
+          "meaning": "Menghormati",
+          "options": [
+            "Menghormati",
+            "Mengingat / ingat",
+            "Menjatuhkan",
+            "Permisi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 364,
+          "kanji": "思い出す",
+          "reading": "おもいだす",
+          "romaji": "omoidasu",
+          "meaning": "Mengingat / mengenang / terkenang",
+          "options": [
+            "Jalan – Jalan",
+            "Menghafal",
+            "Kembali (Arah)",
+            "Mengingat / mengenang / terkenang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 365,
+          "kanji": "許可する",
+          "reading": "きょかする",
+          "romaji": "kyokasuru",
+          "meaning": "Mengizinkan",
+          "options": [
+            "Mengizinkan",
+            "Berbelanja",
+            "Curhat",
+            "Gerogi / Tegang"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 366,
+          "kanji": "買い物する",
+          "reading": "かいものする",
+          "romaji": "kaimonosuru",
+          "meaning": "Berbelanja",
+          "options": [
+            "Memarkir",
+            "Memakai (Celana &amp; Sepatu/Kaos Kaki)",
+            "Menjepit",
+            "Berbelanja"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 367,
+          "kanji": "くり返す",
+          "reading": "くりかえす",
+          "romaji": "kurikaesu",
+          "meaning": "Mengulangi",
+          "options": [
+            "Bercahaya / bersinar",
+            "Membangunkan / mendirikan",
+            "Penerimaan / menampung",
+            "Mengulangi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 368,
+          "kanji": "預ける",
+          "reading": "あずける",
+          "romaji": "azukeru",
+          "meaning": "Menitipkan/Deposit",
+          "options": [
+            "Getaran berhenti",
+            "Membusuk",
+            "Menitipkan/Deposit",
+            "Memarahi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 369,
+          "kanji": "指す",
+          "reading": "さす",
+          "romaji": "sasu",
+          "meaning": "Menunjuk Jari",
+          "options": [
+            "Menangkap dengan Telinga",
+            "Menunjuk Jari",
+            "Menghemat",
+            "Mengambil"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 370,
+          "kanji": "責める",
+          "reading": "せめる",
+          "romaji": "semeru",
+          "meaning": "Menyalahkan",
+          "options": [
+            "Meminjam",
+            "Menyalahkan",
+            "Memperkenalkan",
+            "Mempercayai"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 371,
+          "kanji": "歓迎する",
+          "reading": "かんげいする",
+          "romaji": "kangeisuru",
+          "meaning": "Menyambut",
+          "options": [
+            "Menyambut",
+            "Terisi",
+            "Menarik",
+            "Bergeser"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 372,
+          "kanji": "合わせる",
+          "reading": "あわせる",
+          "romaji": "awaseru",
+          "meaning": "Pass/Menyatukan",
+          "options": [
+            "Menyiapkan / menyediakan",
+            "Kerja Lembur",
+            "Merevisi",
+            "Pass/Menyatukan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 373,
+          "kanji": "呼ぶ",
+          "reading": "よぶ",
+          "romaji": "yobu",
+          "meaning": "Memanggil",
+          "options": [
+            "Tidak Lulus / Gagal / berbuat salah",
+            "Melamar ( pekerjaan )",
+            "Serahkan/Percayakan/mempercayakan",
+            "Memanggil"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 374,
+          "kanji": "現れる",
+          "reading": "あらわれる",
+          "romaji": "arawareru",
+          "meaning": "Muncul",
+          "options": [
+            "Terpeleset",
+            "Berkumpul",
+            "Mencari uang",
+            "Muncul"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 375,
+          "kanji": "高める",
+          "reading": "たかめる",
+          "romaji": "takameru",
+          "meaning": "Meningkatkan (pekerjaan yang dilakukan)",
+          "options": [
+            "Bercanda",
+            "Meningkatkan (pekerjaan yang dilakukan)",
+            "Menggunakan",
+            "Melakukan Proses"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 376,
+          "kanji": "署名する",
+          "reading": "しょめいする",
+          "romaji": "syomeisuru",
+          "meaning": "Menanda Tangani",
+          "options": [
+            "Menutup ( barang kecil )",
+            "Menerima/Mengikuti",
+            "Membatalkan",
+            "Menanda Tangani"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 377,
+          "kanji": "失業する",
+          "reading": "しつぎょうする",
+          "romaji": "shitsugyousuru",
+          "meaning": "Menganggur",
+          "options": [
+            "Memperlihatkan",
+            "Memperbaiki",
+            "Menganggur",
+            "Pindahan (Tempat)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 378,
+          "kanji": "優先する",
+          "reading": "ゆうせんする",
+          "romaji": "yuusensuru",
+          "meaning": "Memprioritaskan",
+          "options": [
+            "Berkhianat",
+            "Bermain",
+            "Sembuh",
+            "Memprioritaskan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 379,
+          "kanji": "処理する",
+          "reading": "しょりする",
+          "romaji": "syorisuru",
+          "meaning": "Memproses",
+          "options": [
+            "Memproses",
+            "Mandi",
+            "Mengingkari/Merobek",
+            "Mengembalikan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 380,
+          "kanji": "申請する",
+          "reading": "しんせいする",
+          "romaji": "shinseisuru",
+          "meaning": "Memohon / mengajukan permohonan",
+          "options": [
+            "Lulus",
+            "Meninggal",
+            "Mendirikan /Membangun (bangunan)",
+            "Memohon / mengajukan permohonan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 381,
+          "kanji": "怒る",
+          "reading": "おこる",
+          "romaji": "okoru",
+          "meaning": "Marah",
+          "options": [
+            "Mengemudi",
+            "Menerima (Penghargaan)",
+            "Mengajarkan",
+            "Marah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 382,
+          "kanji": "実習する",
+          "reading": "じっしゅうする",
+          "romaji": "jissyuusuru",
+          "meaning": "Praktek",
+          "options": [
+            "Merasa santai",
+            "Mengesahkan / menyetujui",
+            "Praktek",
+            "Mengganti (Pakaian)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 383,
+          "kanji": "汚れる",
+          "reading": "よごれる",
+          "romaji": "yogoreru",
+          "meaning": "Kotor",
+          "options": [
+            "Kesusahan / susah",
+            "Kotor",
+            "Mencuri",
+            "Terburu – buru / tergesa- gesa"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 384,
+          "kanji": "汚す",
+          "reading": "よごす",
+          "romaji": "yogosu",
+          "meaning": "Mengotori",
+          "options": [
+            "Getaran berhenti",
+            "Maju",
+            "Melampirkan",
+            "Mengotori"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 385,
+          "kanji": "驚く",
+          "reading": "おどろく",
+          "romaji": "odoroku",
+          "meaning": "Terkejut 1",
+          "options": [
+            "Berputar",
+            "Menggunakan",
+            "Menghafal",
+            "Terkejut 1"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 386,
+          "kanji": "泣く",
+          "reading": "なく",
+          "romaji": "naku",
+          "meaning": "Menangis",
+          "options": [
+            "Menangis",
+            "Memodifikasi",
+            "Menagih",
+            "Marah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 387,
+          "kanji": "鳴く",
+          "reading": "なく",
+          "romaji": "naku",
+          "meaning": "Berkicau ( burung )",
+          "options": [
+            "Terlambat evakuasi",
+            "Mendinginkan",
+            "Cukup",
+            "Berkicau ( burung )"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 388,
+          "kanji": "褒める",
+          "reading": "ほめる",
+          "romaji": "homeru",
+          "meaning": "Memuji",
+          "options": [
+            "Meletakan",
+            "Membatalkan",
+            "Membawa Pergi",
+            "Memuji"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 389,
+          "kanji": "しかる",
+          "reading": "しかる",
+          "romaji": "shikaru",
+          "meaning": "Memarahi",
+          "options": [
+            "Memetik",
+            "Memarahi",
+            "Menyampaikan",
+            "Bekerja"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 390,
+          "kanji": "包む",
+          "reading": "つつむ",
+          "romaji": "tsutsumu",
+          "meaning": "Membungkus",
+          "options": [
+            "Membungkus",
+            "Bergerak",
+            "Diperlakukan",
+            "Mencampur"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 391,
+          "kanji": "たずねる",
+          "reading": "たずねる",
+          "romaji": "tazuneru",
+          "meaning": "Mampir,Mencari",
+          "options": [
+            "Pensiun",
+            "Mampir,Mencari",
+            "Terendam Air",
+            "Membawa Pergi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 393,
+          "kanji": "結ぶ",
+          "reading": "むすぶ",
+          "romaji": "musubu",
+          "meaning": "Mengikat (tali sepatu)",
+          "options": [
+            "Tidur",
+            "Berangkat Perjalanan",
+            "Meminyaki, mengolesi minyak",
+            "Mengikat (tali sepatu)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 394,
+          "kanji": "光る",
+          "reading": "ひかる",
+          "romaji": "hikaru",
+          "meaning": "Bercahaya / bersinar",
+          "options": [
+            "Bercahaya / bersinar",
+            "Mendaftar/Resgister",
+            "Mendirikan /Membangun (bangunan)",
+            "Menimbun , menumpuk"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 395,
+          "kanji": "集合する",
+          "reading": "しゅうごうする",
+          "romaji": "syuugousuru",
+          "meaning": "Berkumpul",
+          "options": [
+            "Berkumpul",
+            "Menggoreng",
+            "Panas tanpa angin",
+            "Mengganggu,mengesalkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 396,
+          "kanji": "感動する",
+          "reading": "かんどうする",
+          "romaji": "kandousuru",
+          "meaning": "Terharu / berkesan",
+          "options": [
+            "Terharu / berkesan",
+            "Menghitung",
+            "Mematikan/menghentikan",
+            "Membeli"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 397,
+          "kanji": "仕舞う",
+          "reading": "しまう",
+          "romaji": "shimau",
+          "meaning": "Menyimpan",
+          "options": [
+            "Menerima (Penghargaan)",
+            "Berangkat",
+            "Berkhianat",
+            "Menyimpan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 398,
+          "kanji": "暗記する",
+          "reading": "あんきする",
+          "romaji": "ankisuru",
+          "meaning": "Menghafal",
+          "options": [
+            "Terbiasa",
+            "Memuaskan",
+            "Menghafal",
+            "Perlu / memerlukan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 399,
+          "kanji": "努める",
+          "reading": "つとめる",
+          "romaji": "tsutomeru",
+          "meaning": "Bekerja (dikantor)",
+          "options": [
+            "Menarik",
+            "Bekerja (dikantor)",
+            "Berubah",
+            "Mengangkut/Di Bawa"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 400,
+          "kanji": "いらいらする",
+          "reading": "いらいらする",
+          "romaji": "irairasuru",
+          "meaning": "Sakit hati",
+          "options": [
+            "Memelihara (binatang)",
+            "Mendorong / menekan",
+            "Mengikuti iringan musik",
+            "Sakit hati"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "questions": [
+        {
+          "id": 401,
+          "kanji": "体験する",
+          "reading": "たいけんする",
+          "romaji": "taikensuru",
+          "meaning": "Mengalami",
+          "options": [
+            "Menjawab",
+            "Berusaha",
+            "Melamar ( pekerjaan )",
+            "Mengalami"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 402,
+          "kanji": "うっかりする",
+          "reading": "うっかりする",
+          "romaji": "ukkarisuru",
+          "meaning": "Lalai/lupa",
+          "options": [
+            "Mempercayai",
+            "Lalai/lupa",
+            "Mengangkut/Di Bawa",
+            "Memprioritaskan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 403,
+          "kanji": "うっすりする",
+          "reading": "うっすりする",
+          "romaji": "ussurisuru",
+          "meaning": "Sedikit",
+          "options": [
+            "Sedikit",
+            "Jatuh/gugur/hilang (noda)",
+            "Menabung (uang)",
+            "Memeriksa"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 404,
+          "kanji": "ねばねばする",
+          "reading": "ねばねばする",
+          "romaji": "nebanebasuru",
+          "meaning": "Lengket",
+          "options": [
+            "Hamil",
+            "Lengket",
+            "Terlambat evakuasi",
+            "Berubah"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 405,
+          "kanji": "きらきらする",
+          "reading": "きらきらする",
+          "romaji": "kirakirasuru",
+          "meaning": "Berkedip",
+          "options": [
+            "Menemukan",
+            "Berkedip",
+            "Mendidih",
+            "Berlari"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 406,
+          "kanji": "どきっとする",
+          "reading": "どきっとする",
+          "romaji": "dokittosuru",
+          "meaning": "Terkejut 2",
+          "options": [
+            "Training / mendidik",
+            "Keluar Tempat / keluar rumah",
+            "Terkejut 2",
+            "Bermalas-malasan , tidak melakukan apapun"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 407,
+          "kanji": "進む",
+          "reading": "すすむ",
+          "romaji": "susumu",
+          "meaning": "Maju",
+          "options": [
+            "Maju",
+            "Mencuri",
+            "Meletakan",
+            "Istirahat ( sebentar )"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 408,
+          "kanji": "はめる",
+          "reading": "はめる",
+          "romaji": "hameru",
+          "meaning": "Memakai (jam)",
+          "options": [
+            "Memakai (jam)",
+            "Penerimaan / menampung",
+            "/ menyelenggarakan",
+            "Membongkar"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 409,
+          "kanji": "体操する",
+          "reading": "たいそうする",
+          "romaji": "taisousuru",
+          "meaning": "Senam",
+          "options": [
+            "Mampir,Mencari",
+            "Menggunakan",
+            "Senam",
+            "Terlilit"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 410,
+          "kanji": "目覚める",
+          "reading": "めざめる",
+          "romaji": "mezameru",
+          "meaning": "Terbangun dari tidur",
+          "options": [
+            "Mengupas",
+            "Kehilangan (Kepercayaan)",
+            "Terbangun dari tidur",
+            "Pulang"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 411,
+          "kanji": "飼う",
+          "reading": "かう",
+          "romaji": "kau",
+          "meaning": "Memelihara (binatang)",
+          "options": [
+            "Berputar",
+            "Memelihara (binatang)",
+            "Berangkat",
+            "Mencuci (Kain/pakaian)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 412,
+          "kanji": "気にする",
+          "reading": "きにする",
+          "romaji": "kinisuru",
+          "meaning": "Memperdulikan / menghiraukan",
+          "options": [
+            "Mencari",
+            "Memenuhi",
+            "Memperdulikan / menghiraukan",
+            "Menemukan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 413,
+          "kanji": "打ち合わせをします",
+          "reading": "うちあわせをします",
+          "romaji": "uchiawasewoshimasu",
+          "meaning": "Rapat",
+          "options": [
+            "Mulai",
+            "Rapat",
+            "Mengatur/ Menyetting",
+            "Menyala / nyala"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 414,
+          "kanji": "ネットを見ます",
+          "reading": "ネットをみます",
+          "romaji": "nettowomimasu",
+          "meaning": "Berselancar di internet",
+          "options": [
+            "Berkonsentrasi",
+            "Absen kerja",
+            "Mengharapkan / berharap",
+            "Berselancar di internet"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 415,
+          "kanji": "ごろごろする",
+          "reading": "ごろごろする",
+          "romaji": "gorogorosuru",
+          "meaning": "Bermalas-malasan , tidak melakukan apapun",
+          "options": [
+            "Diharapkan tidak melakukan",
+            "Bermalas-malasan , tidak melakukan apapun",
+            "Mengupas",
+            "Terendam Air"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 416,
+          "kanji": "ゆっくりします",
+          "reading": "ゆっくりします",
+          "romaji": "yukkurishimasu",
+          "meaning": "Bersantai",
+          "options": [
+            "Bersantai",
+            "Permisi",
+            "Menabung (uang)",
+            "Istirahat ( sebentar )"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 417,
+          "kanji": "温める",
+          "reading": "あたためる",
+          "romaji": "atatameru",
+          "meaning": "Menghangatkan",
+          "options": [
+            "Merokok",
+            "Memuji",
+            "Menghangatkan",
+            "Mempercayai"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 418,
+          "kanji": "タッチする",
+          "reading": "タッチする",
+          "romaji": "tacchisuru",
+          "meaning": "Menempelkan, menyentuhkan",
+          "options": [
+            "Berkedip",
+            "Absen kerja",
+            "Menempelkan, menyentuhkan",
+            "Membongkar"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 419,
+          "kanji": "おつけしますか",
+          "reading": "おつけしますか",
+          "romaji": "otsukeshimasuka",
+          "meaning": "Perlu saya tambahkan",
+          "options": [
+            "Mempresentasikan",
+            "Menjamin",
+            "Perlu saya tambahkan",
+            "Menyediakan(ruang,jarak)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 420,
+          "kanji": "じめじめする",
+          "reading": "じめじめする",
+          "romaji": "jimejimesuru",
+          "meaning": "Panas tanpa angin",
+          "options": [
+            "Panas tanpa angin",
+            "Istirahat ( sebentar )",
+            "Perlu / memerlukan",
+            "Memulai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 421,
+          "kanji": "嫌になる",
+          "reading": "いやになる",
+          "romaji": "iyaninaru",
+          "meaning": "Mengganggu,mengesalkan",
+          "options": [
+            "Berdasarkan",
+            "Masuk",
+            "Mengganggu,mengesalkan",
+            "Mengelap"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 422,
+          "kanji": "見渡す",
+          "reading": "みわたす",
+          "romaji": "miwatasu",
+          "meaning": "Memandang,melihat ke sekeliling",
+          "options": [
+            "Merasakan",
+            "Terlambat evakuasi",
+            "Memandang,melihat ke sekeliling",
+            "Mendaki"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 423,
+          "kanji": "案内する",
+          "reading": "あんないする",
+          "romaji": "annaisuru",
+          "meaning": "Memandu",
+          "options": [
+            "Menjelaskan",
+            "Menghitung",
+            "Memandu",
+            "Meminta pertolongan / memohon"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 424,
+          "kanji": "待ち合わせする",
+          "reading": "まちあわせする",
+          "romaji": "machiawasesuru",
+          "meaning": "Janjian bertemu",
+          "options": [
+            "Menempelkan, menyentuhkan",
+            "Beres – Beres / membereskan",
+            "Janjian bertemu",
+            "Jatuh (kecelakaan)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 425,
+          "kanji": "寝坊する",
+          "reading": "ねぼうする",
+          "romaji": "nebousuru",
+          "meaning": "Terlambat bangun",
+          "options": [
+            "Terlambat bangun",
+            "Menderita penyakit",
+            "Meminjamkan",
+            "Melukai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 426,
+          "kanji": "道に迷う",
+          "reading": "みちにまよう",
+          "romaji": "michinimayou",
+          "meaning": "Tersesat di jalan",
+          "options": [
+            "Ada (Benda Hidup)",
+            "Tersesat di jalan",
+            "Putus Asa / menyerah",
+            "Cukup"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 427,
+          "kanji": "とれる",
+          "reading": "とれる",
+          "romaji": "toreru",
+          "meaning": "Memetik",
+          "options": [
+            "Mengharapkan / berharap",
+            "Memetik",
+            "Curhat",
+            "Berbicara/Ngobrol"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 428,
+          "kanji": "取り出す",
+          "reading": "とりだす",
+          "romaji": "toridasu",
+          "meaning": "Mengeluarkan 2",
+          "options": [
+            "Memperbaiki (Mesin)",
+            "Menemukan",
+            "Membawa Pergi",
+            "Mengeluarkan 2"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 429,
+          "kanji": "あける",
+          "reading": "あける",
+          "romaji": "akeru",
+          "meaning": "Menyediakan(ruang,jarak)",
+          "options": [
+            "Menyediakan(ruang,jarak)",
+            "Membusuk",
+            "Pindahan (Tempat)",
+            "Menemukan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 430,
+          "kanji": "再起動する",
+          "reading": "さいきどうする",
+          "romaji": "saikidousuru",
+          "meaning": "Bangkit lagi",
+          "options": [
+            "Serahkan/Percayakan/mempercayakan",
+            "Bangkit lagi",
+            "Menyanyi / bernyanyi",
+            "Berbicara/Ngobrol"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 431,
+          "kanji": "遅刻する",
+          "reading": "ちこくする",
+          "romaji": "chikokusuru",
+          "meaning": "Terlambat 2",
+          "options": [
+            "Mengevakuasi",
+            "Memanggil",
+            "Mengizinkan",
+            "Terlambat 2"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 432,
+          "kanji": "早退する",
+          "reading": "そうたいする",
+          "romaji": "soutaisuru",
+          "meaning": "Cepat pamit pulang",
+          "options": [
+            "Berkaitan",
+            "Mengukus",
+            "Memuji",
+            "Cepat pamit pulang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 433,
+          "kanji": "検査する",
+          "reading": "けんさする",
+          "romaji": "kensasuru",
+          "meaning": "Memeriksa 2",
+          "options": [
+            "Mencuci (Kain/pakaian)",
+            "Memberi",
+            "Berkata",
+            "Memeriksa 2"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 434,
+          "kanji": "病気にかかる",
+          "reading": "びょうきにかかる",
+          "romaji": "byoukinikakaru",
+          "meaning": "Menderita penyakit",
+          "options": [
+            "Diperlakukan",
+            "Merencanakan",
+            "Menderita penyakit",
+            "Diserap"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 435,
+          "kanji": "抑える",
+          "reading": "おさえる",
+          "romaji": "osaeru",
+          "meaning": "Menekan / manahan",
+          "options": [
+            "Membubuhkan cap",
+            "Menekan / manahan",
+            "Menyambung / menghubungkan",
+            "Bermain"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 436,
+          "kanji": "試す",
+          "reading": "ためす",
+          "romaji": "tamesu",
+          "meaning": "Mencoba",
+          "options": [
+            "Berdasarkan",
+            "Mencoba",
+            "Lalai/lupa",
+            "Tiba"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 437,
+          "kanji": "ダイエットする",
+          "reading": "ダイエットする",
+          "romaji": "daiettosuru",
+          "meaning": "Diet",
+          "options": [
+            "Diet",
+            "Berhasil",
+            "Menggigil",
+            "Menyukai"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 438,
+          "kanji": "発生する",
+          "reading": "はっせいする",
+          "romaji": "hasseisuru",
+          "meaning": "Terjadi,muncul",
+          "options": [
+            "Mengupayakan",
+            "Bermain",
+            "Terjadi,muncul",
+            "Memulai"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 439,
+          "kanji": "感染する",
+          "reading": "かんせんする",
+          "romaji": "kansensuru",
+          "meaning": "Terinfeksi, tertular",
+          "options": [
+            "Mengadakan",
+            "Melampirkan",
+            "Mengotori",
+            "Terinfeksi, tertular"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 440,
+          "kanji": "予防する",
+          "reading": "よぼうする",
+          "romaji": "yobousuru",
+          "meaning": "Mencegah",
+          "options": [
+            "Mencegah",
+            "Menghadap",
+            "Menelepon",
+            "Menyingkir/Minggir"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 441,
+          "kanji": "調理する",
+          "reading": "ちょうりする",
+          "romaji": "cyourisuru",
+          "meaning": "Memasak",
+          "options": [
+            "Memasak",
+            "Mencari",
+            "Memotong",
+            "Memerlukan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 442,
+          "kanji": "うつす",
+          "reading": "うつす",
+          "romaji": "utsusu",
+          "meaning": "Menularkan",
+          "options": [
+            "Menggali",
+            "Mempresentasikan",
+            "Menterjemahkan Pembicaraan",
+            "Menularkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 443,
+          "kanji": "汚染する",
+          "reading": "おせんする",
+          "romaji": "osensuru",
+          "meaning": "Mencemari , tercemar",
+          "options": [
+            "Menganalisa",
+            "Mengajarkan",
+            "Mencemari , tercemar",
+            "Mengikat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 444,
+          "kanji": "加熱する",
+          "reading": "かねつする",
+          "romaji": "kanetsusuru",
+          "meaning": "Memanaskan",
+          "options": [
+            "Memanaskan",
+            "Perbaikan Kesalahan",
+            "Mendaur ulang",
+            "Training / mendidik"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 445,
+          "kanji": "ごちそうする",
+          "reading": "ごちそうする",
+          "romaji": "gochisousuru",
+          "meaning": "Menjamu,mentraktir",
+          "options": [
+            "Melukai",
+            "Mengangkut/Di Bawa",
+            "Menyingkir/Minggir",
+            "Menjamu,mentraktir"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 446,
+          "kanji": "飾る",
+          "reading": "かざる",
+          "romaji": "kazaru",
+          "meaning": "Memajang, menghiasi",
+          "options": [
+            "Memakai (topi)",
+            "Memajang, menghiasi",
+            "Membawa",
+            "Menerima/Mengikuti"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 447,
+          "kanji": "ともだちができる",
+          "reading": "ともだちができる",
+          "romaji": "tomodachigadekiru",
+          "meaning": "Mendapat teman",
+          "options": [
+            "Mendapat teman",
+            "Menggoreng",
+            "Menempelkan",
+            "Menemukan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 448,
+          "kanji": "のんびりする",
+          "reading": "のんびりする",
+          "romaji": "nonbirisuru",
+          "meaning": "Merasa santai",
+          "options": [
+            "Menggoreng",
+            "Berdasarkan",
+            "Penerimaan / menampung",
+            "Merasa santai"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 449,
+          "kanji": "引退する",
+          "reading": "いんたいする",
+          "romaji": "intaisuru",
+          "meaning": "Pensiun",
+          "options": [
+            "Menggunakan",
+            "Dikeringkan",
+            "Pensiun",
+            "Mengundang/Undangan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 450,
+          "kanji": "はやすひげをはやす",
+          "reading": "はやすひげをはやす",
+          "romaji": "hayasuhigewohayasu",
+          "meaning": "Memelihara (kumis)",
+          "options": [
+            "Memelihara (kumis)",
+            "Melaksanakan",
+            "Mengira – ngira",
+            "Menggunakan"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "questions": [
+        {
+          "id": 451,
+          "kanji": "のせる",
+          "reading": "のせる",
+          "romaji": "noseru",
+          "meaning": "Meletakkan",
+          "options": [
+            "Terlihat / kelihatan",
+            "Membatasi",
+            "Mengajak Teman",
+            "Meletakkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 452,
+          "kanji": "あじがついている",
+          "reading": "あじがついている",
+          "romaji": "ajigatsuiteiru",
+          "meaning": "Berbumbu",
+          "options": [
+            "Berbumbu",
+            "Menyalakan Alarm",
+            "Selesai / jadi",
+            "Berkenalan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 453,
+          "kanji": "ゆでる",
+          "reading": "ゆでる",
+          "romaji": "yuderu",
+          "meaning": "Merebus 1",
+          "options": [
+            "Melamar ( pekerjaan )",
+            "Merebus 1",
+            "Membusuk",
+            "Sabar"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 454,
+          "kanji": "煮る",
+          "reading": "にる",
+          "romaji": "niru",
+          "meaning": "Merebus 2",
+          "options": [
+            "Perlu / memerlukan",
+            "Cuaca Cerah",
+            "Memilih",
+            "Merebus 2"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 455,
+          "kanji": "蒸す",
+          "reading": "むす",
+          "romaji": "musu",
+          "meaning": "Mengukus",
+          "options": [
+            "Mengukus",
+            "Memeriksa",
+            "Sedikit",
+            "Patah"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 456,
+          "kanji": "いためる",
+          "reading": "いためる",
+          "romaji": "itameru",
+          "meaning": "Menumis",
+          "options": [
+            "Cocok",
+            "Mabuk",
+            "Jatuh (kecelakaan)",
+            "Menumis"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 457,
+          "kanji": "揚げる",
+          "reading": "あげる",
+          "romaji": "ageru",
+          "meaning": "Menggoreng",
+          "options": [
+            "Berusaha",
+            "Janjian bertemu",
+            "Membusuk",
+            "Menggoreng"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 458,
+          "kanji": "日焼けする",
+          "reading": "ひやけする",
+          "romaji": "hiyakesuru",
+          "meaning": "Berjemur",
+          "options": [
+            "Mendengar / Bertanya",
+            "Berjemur",
+            "Terlihat / kelihatan",
+            "Mengingat / mengenang / terkenang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 459,
+          "kanji": "発車する",
+          "reading": "はっしゃする",
+          "romaji": "hassyasuru",
+          "meaning": "Berangkat",
+          "options": [
+            "Membunyikan",
+            "Keburu / Tidak Terlambat",
+            "Berangkat",
+            "Meminta"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 460,
+          "kanji": "絵を描く",
+          "reading": "えをかく",
+          "romaji": "ewokaku",
+          "meaning": "Melukis",
+          "options": [
+            "Melukis",
+            "Menghitung",
+            "Melamar ( pekerjaan )",
+            "Menari"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 461,
+          "kanji": "水が濁る",
+          "reading": "みずがにごる",
+          "romaji": "mizuganigoru",
+          "meaning": "Airnya keruh",
+          "options": [
+            "Airnya keruh",
+            "Kedengaran",
+            "Makan Besar / makan bersama",
+            "Ada (Benda Hidup)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 462,
+          "kanji": "延期する",
+          "reading": "えんきする",
+          "romaji": "enkisuru",
+          "meaning": "Ditunda,diundur",
+          "options": [
+            "Menyemprotkan",
+            "Ditunda,diundur",
+            "Berpisah",
+            "Berkicau ( burung )"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 463,
+          "kanji": "開催する",
+          "reading": "かいさいする",
+          "romaji": "kaisaisuru",
+          "meaning": "Mengadakan",
+          "options": [
+            "Memetik",
+            "Mengadakan",
+            "Melukai",
+            "Menolong"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 464,
+          "kanji": "生産する",
+          "reading": "せいさんする",
+          "romaji": "seisansuru",
+          "meaning": "Memproduksi",
+          "options": [
+            "Berdagang",
+            "Menyeberang",
+            "Memproduksi",
+            "Menganggap , beranggapan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 465,
+          "kanji": "輪になる",
+          "reading": "わになる",
+          "romaji": "waninaru",
+          "meaning": "Membuat lingkaran",
+          "options": [
+            "Membungkus",
+            "Bertengkar",
+            "Meninggal",
+            "Membuat lingkaran"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 466,
+          "kanji": "音楽に合わせて",
+          "reading": "おんがくにあわせて",
+          "romaji": "ongakuniawasete",
+          "meaning": "Mengikuti iringan musik",
+          "options": [
+            "Pastikan / menentukan",
+            "Mengikuti iringan musik",
+            "Meletakkan",
+            "Bersih – Bersih / membersihkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 467,
+          "kanji": "遠慮する",
+          "reading": "えんりょする",
+          "romaji": "enryosuru",
+          "meaning": "Diharapkan tidak melakukan",
+          "options": [
+            "Mengingkari/Merobek",
+            "Memakai (topi)",
+            "Diharapkan tidak melakukan",
+            "Melepas (Barang)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 468,
+          "kanji": "優勝する",
+          "reading": "ゆうしょうする",
+          "romaji": "yuusyousuru",
+          "meaning": "Pemenang pertama",
+          "options": [
+            "Mengalami",
+            "Menengok ke Belakang",
+            "Pemenang pertama",
+            "Berubah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 469,
+          "kanji": "通話する",
+          "reading": "つうわする",
+          "romaji": "tsuuwasuru",
+          "meaning": "Berbicara di telepon",
+          "options": [
+            "Berubah",
+            "Berbicara di telepon",
+            "Pemenang pertama",
+            "Mentaati peraturan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 470,
+          "kanji": "持ち込む",
+          "reading": "もちこむ",
+          "romaji": "mochikomu",
+          "meaning": "Membawa",
+          "options": [
+            "Membawa",
+            "Kering",
+            "Bunuh Diri",
+            "Mengundang/Undangan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 471,
+          "kanji": "終了する",
+          "reading": "しゅうりょうする",
+          "romaji": "syuuryousuru",
+          "meaning": "Berakhir, selesai",
+          "options": [
+            "Memenuhi",
+            "Menutup",
+            "Menekan / manahan",
+            "Berakhir, selesai"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 472,
+          "kanji": "限る",
+          "reading": "かぎる",
+          "romaji": "kagiru",
+          "meaning": "Membatasi",
+          "options": [
+            "Menarik,melepas",
+            "Membatasi",
+            "Merendam/Mencelupkan",
+            "Menabung (uang)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 473,
+          "kanji": "おしゃれする",
+          "reading": "おしゃれする",
+          "romaji": "osyaresuru",
+          "meaning": "Berdandan,berpakaian indah",
+          "options": [
+            "Membusuk",
+            "Berdandan,berpakaian indah",
+            "Menutup ( barang kecil )",
+            "Gerogi / Tegang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 474,
+          "kanji": "盛り上がる",
+          "reading": "もりあがる",
+          "romaji": "moriagaru",
+          "meaning": "Meriah,semarak",
+          "options": [
+            "Menyentuh",
+            "Meriah,semarak",
+            "Membawa Datang",
+            "Datang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 475,
+          "kanji": "過ごす",
+          "reading": "すごす",
+          "romaji": "sugosu",
+          "meaning": "Menghabiskan waktu",
+          "options": [
+            "Merakit",
+            "Memakai (Pakaian)",
+            "Menghabiskan waktu",
+            "Menegaskan kembali"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 476,
+          "kanji": "祝う",
+          "reading": "いわう",
+          "romaji": "iwau",
+          "meaning": "Merayakan",
+          "options": [
+            "Janjian bertemu",
+            "Menggosok",
+            "Merayakan",
+            "Mandi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 477,
+          "kanji": "骨を折る",
+          "reading": "ほねをおる",
+          "romaji": "honewooru",
+          "meaning": "Patah tulang",
+          "options": [
+            "Mempresentasikan",
+            "Mengkalikan",
+            "Memasang",
+            "Patah tulang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 478,
+          "kanji": "まねをする",
+          "reading": "まねをする",
+          "romaji": "manewosuru",
+          "meaning": "Meniru",
+          "options": [
+            "Menyeleksi",
+            "Tidur",
+            "Mengangkut/Di Bawa",
+            "Meniru"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 479,
+          "kanji": "ルールを守る",
+          "reading": "ルールをまもる",
+          "romaji": "ruーruwomamoru",
+          "meaning": "Mentaati peraturan",
+          "options": [
+            "Menerima / menyambut",
+            "Mentaati peraturan",
+            "Rusak ( mesin )",
+            "Masuk"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 480,
+          "kanji": "つまる",
+          "reading": "つまる",
+          "romaji": "tsumaru",
+          "meaning": "Menyumbat",
+          "options": [
+            "Menyumbat",
+            "Meninggal",
+            "Menelepon",
+            "Mengingkari/Merobek"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 481,
+          "kanji": "気に入る",
+          "reading": "きにいる",
+          "romaji": "kiniiru",
+          "meaning": "Menyukai",
+          "options": [
+            "Memanfaatkan",
+            "Menyukai",
+            "Berjanji",
+            "Tidak Lulus / Gagal / berbuat salah"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 482,
+          "kanji": "試着する",
+          "reading": "しちゃくする",
+          "romaji": "shicyakusuru",
+          "meaning": "Mencoba memakai",
+          "options": [
+            "Menjamin",
+            "Merasakan",
+            "Mencoba memakai",
+            "Berubah"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 483,
+          "kanji": "盗む",
+          "reading": "ぬすむ",
+          "romaji": "nusumu",
+          "meaning": "Mencuri",
+          "options": [
+            "Berdasarkan",
+            "Mencuri",
+            "Bertengkar",
+            "Kesusahan / susah"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 484,
+          "kanji": "停める",
+          "reading": "とめる",
+          "romaji": "tomeru",
+          "meaning": "Memarkir",
+          "options": [
+            "Memarkir",
+            "Absen Acara",
+            "Melindungi diri",
+            "Membeli"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 485,
+          "kanji": "移動する",
+          "reading": "いどうする",
+          "romaji": "idousuru",
+          "meaning": "Memindahkan, berpindah",
+          "options": [
+            "Bersembunyi",
+            "Mengingat / mengenang / terkenang",
+            "Memindahkan, berpindah",
+            "Menitipkan/Deposit"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 486,
+          "kanji": "スタンプをおす",
+          "reading": "スタンプをおす",
+          "romaji": "sutanpuwoosu",
+          "meaning": "Membubuhkan cap",
+          "options": [
+            "Bertengkar",
+            "Membubuhkan cap",
+            "Mengisi / mencatat (di kertas)",
+            "Mendaftakan diri"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 487,
+          "kanji": "気づく",
+          "reading": "きづく",
+          "romaji": "kiづku",
+          "meaning": "Menyadari",
+          "options": [
+            "Memberikan (Penghargaan)",
+            "Menyadari",
+            "Berubah",
+            "Menetapkan (jadwal)"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 488,
+          "kanji": "つながる",
+          "reading": "つながる",
+          "romaji": "tsunagaru",
+          "meaning": "Tersambung",
+          "options": [
+            "Tersambung",
+            "Mencatat, memahami",
+            "Merendam/Mencelupkan",
+            "Kehilangan (Kepercayaan)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 489,
+          "kanji": "購入する",
+          "reading": "こうにゅうする",
+          "romaji": "kounyuusuru",
+          "meaning": "Membeli 2",
+          "options": [
+            "Berbelanja",
+            "Membeli 2",
+            "Mendengar / Bertanya",
+            "Merekomendasikan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 490,
+          "kanji": "動かす",
+          "reading": "うごかす",
+          "romaji": "ugokasu",
+          "meaning": "Memindahkan, menggerakkan",
+          "options": [
+            "Training / mendidik",
+            "Melakukan / menyelenggarakan",
+            "Membaca",
+            "Memindahkan, menggerakkan"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 491,
+          "kanji": "貯まる",
+          "reading": "たまる",
+          "romaji": "tamaru",
+          "meaning": "Terkumpul, terakumulasi",
+          "options": [
+            "Tidur",
+            "Janjian bertemu",
+            "Berkedip",
+            "Terkumpul, terakumulasi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 492,
+          "kanji": "変わる",
+          "reading": "かわる",
+          "romaji": "kawaru",
+          "meaning": "Berubah",
+          "options": [
+            "Bodoh",
+            "Berubah",
+            "Berkonsentrasi",
+            "Kesusahan / susah"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 493,
+          "kanji": "展示する",
+          "reading": "てんじする",
+          "romaji": "tenjisuru",
+          "meaning": "Memamerkan",
+          "options": [
+            "Memamerkan",
+            "Memperdulikan / menghiraukan",
+            "Perlu / memerlukan",
+            "Ada (Benda Hidup)"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 494,
+          "kanji": "声をかける",
+          "reading": "こえをかける",
+          "romaji": "koewokakeru",
+          "meaning": "Menyapa, berbicara kepada",
+          "options": [
+            "Terkejut",
+            "Bergerak",
+            "Menyapa, berbicara kepada",
+            "Jadi/Bisa/Selesai"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 495,
+          "kanji": "了承する",
+          "reading": "りょうしょうする",
+          "romaji": "ryousyousuru",
+          "meaning": "Mencatat, memahami",
+          "options": [
+            "Mengangkut/Di Bawa",
+            "Mencatat, memahami",
+            "Melampirkan",
+            "Informasi / menghubungi"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 496,
+          "kanji": "ついている",
+          "reading": "ついている",
+          "romaji": "tsuiteiru",
+          "meaning": "Disertai dengan, termasuk",
+          "options": [
+            "Disertai dengan, termasuk",
+            "Istirahat / Libur",
+            "Meminjam",
+            "Melakukan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 497,
+          "kanji": "延ばす",
+          "reading": "のばす",
+          "romaji": "nobasu",
+          "meaning": "Memperpanjang",
+          "options": [
+            "Memperpanjang",
+            "Menangis",
+            "Berjalan",
+            "Mengambil"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 498,
+          "kanji": "販売する",
+          "reading": "はんばいする",
+          "romaji": "hanbaisuru",
+          "meaning": "Menjual, berjualan",
+          "options": [
+            "Menganalisa",
+            "Menjual, berjualan",
+            "Jatuh (kecelakaan)",
+            "Memperpanjang"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 499,
+          "kanji": "かぶせる",
+          "reading": "かぶせる",
+          "romaji": "kabuseru",
+          "meaning": "Menutup ( barang kecil )",
+          "options": [
+            "Mengadakan",
+            "Diam/Resign/stop",
+            "Menutup ( barang kecil )",
+            "Memakai (topi)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 500,
+          "kanji": "油を差す",
+          "reading": "あぶらをさす",
+          "romaji": "aburawosasu",
+          "meaning": "Meminyaki, mengolesi minyak",
+          "options": [
+            "Menambahi",
+            "Menelepon",
+            "Menjemput",
+            "Meminyaki, mengolesi minyak"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "questions": [
+        {
+          "id": 501,
+          "kanji": "お預かりします",
+          "reading": "おあずかりします",
+          "romaji": "oazukarishimasu",
+          "meaning": "Kami terima paket anda",
+          "options": [
+            "Antri / Berbaris / berjajar",
+            "Kami terima paket anda",
+            "Mengontrol/mengawasi",
+            "Memeriksa"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 502,
+          "kanji": "表示する",
+          "reading": "ひょうじする",
+          "romaji": "hyoujisuru",
+          "meaning": "Menampilkan",
+          "options": [
+            "Menampilkan",
+            "Mengingat / ingat",
+            "Meminjam",
+            "Menggoreng"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 503,
+          "kanji": "両替えする",
+          "reading": "りょうがえする",
+          "romaji": "ryougaesuru",
+          "meaning": "Penukaran pecahan uang",
+          "options": [
+            "Saling bicara satu sama lain",
+            "Minum",
+            "Tertawa",
+            "Penukaran pecahan uang"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 504,
+          "kanji": "暮らす",
+          "reading": "くらす",
+          "romaji": "kurasu",
+          "meaning": "Hidup, tinggal",
+          "options": [
+            "Menuju",
+            "Hidup, tinggal",
+            "Cuaca Cerah",
+            "Bekerja ( melakukan pekerjaan )"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 505,
+          "kanji": "助かる",
+          "reading": "たすかる",
+          "romaji": "tasukaru",
+          "meaning": "Terbantu, tertolong",
+          "options": [
+            "Mengira – ngira",
+            "Terbantu, tertolong",
+            "Mampir,Mencari",
+            "Hilang / kehilangan / menghilangkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 506,
+          "kanji": "節水する",
+          "reading": "せっすいする",
+          "romaji": "sessuisuru",
+          "meaning": "Menghemat air",
+          "options": [
+            "Tertawa",
+            "Mengingat / mengenang / terkenang",
+            "Menghemat air",
+            "Berhati - hati"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 507,
+          "kanji": "リサイクルする",
+          "reading": "リサイクルする",
+          "romaji": "risaikurusuru",
+          "meaning": "Mendaur ulang",
+          "options": [
+            "Menyala / nyala",
+            "Mendaur ulang",
+            "Berlari",
+            "Mempercayai"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 508,
+          "kanji": "分別する",
+          "reading": "ぶんべつする",
+          "romaji": "bunbetsusuru",
+          "meaning": "Menyeleksi",
+          "options": [
+            "Berkaitan",
+            "Menyeleksi",
+            "Merebus",
+            "Maju"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 509,
+          "kanji": "まとめる",
+          "reading": "まとめる",
+          "romaji": "matomeru",
+          "meaning": "Mengumpulkan",
+          "options": [
+            "Patah",
+            "Mengumpulkan",
+            "Menabrak",
+            "Merekomendasikan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 510,
+          "kanji": "水を出す",
+          "reading": "みずをだす",
+          "romaji": "mizuwodasu",
+          "meaning": "Membuka keran, mengalirkan air",
+          "options": [
+            "Membuka keran, mengalirkan air",
+            "Berpengalaman",
+            "Mengeluarkan",
+            "Mengecat"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 511,
+          "kanji": "すすぐ",
+          "reading": "すすぐ",
+          "romaji": "susugu",
+          "meaning": "Membilas",
+          "options": [
+            "Menjamu,mentraktir",
+            "Menghadap",
+            "Memandu",
+            "Membilas"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 512,
+          "kanji": "水を切る",
+          "reading": "みずをきる",
+          "romaji": "mizuwokiru",
+          "meaning": "Dikeringkan",
+          "options": [
+            "Dikeringkan",
+            "Memuji",
+            "Tertarik",
+            "Membagikan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 513,
+          "kanji": "しみこませる",
+          "reading": "しみこませる",
+          "romaji": "shimikomaseru",
+          "meaning": "Diserap",
+          "options": [
+            "Menangis",
+            "Diserap",
+            "Ada (Benda Hidup)",
+            "Keburu / Tidak Terlambat"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 514,
+          "kanji": "固める",
+          "reading": "かためる",
+          "romaji": "katameru",
+          "meaning": "Memadatkan",
+          "options": [
+            "Lulus",
+            "Memadatkan",
+            "Mandi ( berendam )",
+            "Menagih"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 517,
+          "kanji": "揺れる",
+          "reading": "ゆれる",
+          "romaji": "yureru",
+          "meaning": "Bergetar, bergoncang",
+          "options": [
+            "Bergetar, bergoncang",
+            "Mengasuh/Memelihara (orang)",
+            "Mencuci (Barang)",
+            "Menabrak"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 518,
+          "kanji": "積もる",
+          "reading": "つもる",
+          "romaji": "tsumoru",
+          "meaning": "Menimbun , menumpuk",
+          "options": [
+            "Merevisi",
+            "Menjamin",
+            "Menimbun , menumpuk",
+            "Memenuhi"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 519,
+          "kanji": "非難する",
+          "reading": "ひなんする",
+          "romaji": "hinansuru",
+          "meaning": "Mengevakuasi",
+          "options": [
+            "Berjemur",
+            "Mengevakuasi",
+            "Melakukan",
+            "Mempercayai"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 520,
+          "kanji": "行動する",
+          "reading": "こうどうする",
+          "romaji": "koudousuru",
+          "meaning": "Bertindak, beraksi",
+          "options": [
+            "Membawa",
+            "Membusuk",
+            "Menangkap dengan Telinga",
+            "Bertindak, beraksi"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 521,
+          "kanji": "上陸する",
+          "reading": "じょうりくする",
+          "romaji": "jyourikusuru",
+          "meaning": "Mencapai daratan",
+          "options": [
+            "Membawa Pergi",
+            "Mengambil",
+            "Mencapai daratan",
+            "Mengingat / ingat"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 522,
+          "kanji": "警戒する",
+          "reading": "けいかいする",
+          "romaji": "keikaisuru",
+          "meaning": "Mewaspadai",
+          "options": [
+            "Menyampaikan",
+            "Mewaspadai",
+            "Saling bicara satu sama lain",
+            "Mempersiapkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 523,
+          "kanji": "身を守る",
+          "reading": "みをまもる",
+          "romaji": "miwomamoru",
+          "meaning": "Melindungi diri",
+          "options": [
+            "Melindungi diri",
+            "Disertai dengan, termasuk",
+            "Membusuk",
+            "Melampirkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 524,
+          "kanji": "消火する",
+          "reading": "しょうかする",
+          "romaji": "syoukasuru",
+          "meaning": "Memadamkan api",
+          "options": [
+            "Berfikir",
+            "Ditunda,diundur",
+            "Memadamkan api",
+            "Memuji"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 525,
+          "kanji": "点呼する",
+          "reading": "てんこする",
+          "romaji": "tenkosuru",
+          "meaning": "Mengabsen",
+          "options": [
+            "Membuka keran, mengalirkan air",
+            "Rusak",
+            "Membeli",
+            "Mengabsen"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 526,
+          "kanji": "姿勢を低くする",
+          "reading": "しせいをひくくする",
+          "romaji": "shiseiwohikukusuru",
+          "meaning": "Merendah (sikap)",
+          "options": [
+            "Patah tulang",
+            "Jatuh/gugur/hilang (noda)",
+            "Melanjutkan",
+            "Merendah (sikap)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 527,
+          "kanji": "しゃがむ",
+          "reading": "しゃがむ",
+          "romaji": "syagamu",
+          "meaning": "Jongkok",
+          "options": [
+            "Mengikat (tali sepatu)",
+            "Mandi",
+            "Jongkok",
+            "Bodoh"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 528,
+          "kanji": "開始する",
+          "reading": "かいしする",
+          "romaji": "kaishisuru",
+          "meaning": "Mulai",
+          "options": [
+            "Mengganggu,mengesalkan",
+            "Menghitung",
+            "Mulai",
+            "Kering"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 529,
+          "kanji": "ゆれがおさまる",
+          "reading": "ゆれがおさまる",
+          "romaji": "yuregaosamaru",
+          "meaning": "Getaran berhenti",
+          "options": [
+            "Berhenti / Stop",
+            "Bergetar, bergoncang",
+            "Berlari",
+            "Getaran berhenti"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 530,
+          "kanji": "逃げ遅れる",
+          "reading": "にげおくれる",
+          "romaji": "nigeokureru",
+          "meaning": "Terlambat evakuasi",
+          "options": [
+            "Terlambat evakuasi",
+            "Mematikan/menghentikan",
+            "Bekerja",
+            "Istirahat ( sebentar )"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 531,
+          "kanji": "見て回る",
+          "reading": "みてまわる",
+          "romaji": "mitemawaru",
+          "meaning": "Berkeliling memeriksa",
+          "options": [
+            "Berkeliling memeriksa",
+            "Membungkus",
+            "Menjawab",
+            "Diperlakukan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 532,
+          "kanji": "充満する",
+          "reading": "じゅうまんする",
+          "romaji": "jyuumansuru",
+          "meaning": "Terisi",
+          "options": [
+            "Terisi",
+            "Pemenang pertama",
+            "Memperbaiki (Mesin)",
+            "Membeli"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 533,
+          "kanji": "声をかけ合う",
+          "reading": "こえをかけあう",
+          "romaji": "koewokakeau",
+          "meaning": "Saling bicara satu sama lain",
+          "options": [
+            "Merendam/Mencelupkan",
+            "Mempersiapkan",
+            "Saling bicara satu sama lain",
+            "Terlilit"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 534,
+          "kanji": "抜く",
+          "reading": "ぬく",
+          "romaji": "nuku",
+          "meaning": "Menarik,melepas",
+          "options": [
+            "Mendirikan /Membangun (bangunan)",
+            "Memilih",
+            "Menarik,melepas",
+            "Menjenguk"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 535,
+          "kanji": "向ける",
+          "reading": "むける",
+          "romaji": "mukeru",
+          "meaning": "Menghadap",
+          "options": [
+            "Diserap",
+            "Memelihara (kumis)",
+            "Tersambung",
+            "Menghadap"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 536,
+          "kanji": "握る",
+          "reading": "にぎる",
+          "romaji": "nigiru",
+          "meaning": "Menggenggam",
+          "options": [
+            "Memeriksa",
+            "Menggenggam",
+            "Menumis",
+            "Mencari"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 537,
+          "kanji": "噴射する",
+          "reading": "ふんしゃする",
+          "romaji": "funsyasuru",
+          "meaning": "Menyemprotkan",
+          "options": [
+            "Menyukai",
+            "Melanjutkan",
+            "Menyemprotkan",
+            "Merendam/Mencelupkan"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 538,
+          "kanji": "ゆがむ",
+          "reading": "ゆがむ",
+          "romaji": "yugamu",
+          "meaning": "Melengkung",
+          "options": [
+            "Menangis",
+            "Memodifikasi",
+            "Mempresentasikan",
+            "Melengkung"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 539,
+          "kanji": "無理をする",
+          "reading": "むりをする",
+          "romaji": "muriwosuru",
+          "meaning": "Memaksakan diri",
+          "options": [
+            "Terharu / berkesan",
+            "Airnya keruh",
+            "Melanjutkan sekolah",
+            "Memaksakan diri"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 540,
+          "kanji": "断水する",
+          "reading": "だんすいする",
+          "romaji": "dansuisuru",
+          "meaning": "Air ledeng macet",
+          "options": [
+            "Menjalani saat2 yang berat, kesulitan",
+            "Air ledeng macet",
+            "Mengingat / mengenang / terkenang",
+            "Mendidih"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 541,
+          "kanji": "持ち出す",
+          "reading": "もちだす",
+          "romaji": "mochidasu",
+          "meaning": "Membawa keluar",
+          "options": [
+            "Tersesat di jalan",
+            "Menjual",
+            "Mengalir",
+            "Membawa keluar"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 542,
+          "kanji": "苦労する",
+          "reading": "くろうする",
+          "romaji": "kurousuru",
+          "meaning": "Menjalani saat2 yang berat, kesulitan",
+          "options": [
+            "Membuat lingkaran",
+            "Memberikan (Penghargaan)",
+            "Menjalani saat2 yang berat, kesulitan",
+            "Melepas (Pakaian)"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 543,
+          "kanji": "感謝する",
+          "reading": "かんしゃする",
+          "romaji": "kansyasuru",
+          "meaning": "Menghargai, berterima kasih",
+          "options": [
+            "Menyemprotkan",
+            "Merasa santai",
+            "Menghargai, berterima kasih",
+            "Ditunda,diundur"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 544,
+          "kanji": "演奏する",
+          "reading": "えんそうする",
+          "romaji": "ensousuru",
+          "meaning": "Bermain, memainkan ( musik )",
+          "options": [
+            "Bermain, memainkan ( musik )",
+            "Diet",
+            "Perlu / memerlukan",
+            "Menyimpulkan"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 545,
+          "kanji": "お金を稼ぐ",
+          "reading": "おかねをかせぐ",
+          "romaji": "okanewokasegu",
+          "meaning": "Mencari uang",
+          "options": [
+            "Menurunkan",
+            "Berkonstribusi",
+            "Mencari uang",
+            "Pensiun"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "id": 546,
+          "kanji": "進学する",
+          "reading": "しんがくする",
+          "romaji": "shingakusuru",
+          "meaning": "Melanjutkan sekolah",
+          "options": [
+            "Basah",
+            "Input data",
+            "Mencuci (Barang)",
+            "Melanjutkan sekolah"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "id": 547,
+          "kanji": "のんびり暮らす",
+          "reading": "のんびりくらす",
+          "romaji": "nonbirikurasu",
+          "meaning": "Menikmati hidup",
+          "options": [
+            "Merencanakan",
+            "Menikmati hidup",
+            "Menerima (Penghargaan)",
+            "Menjawab"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 548,
+          "kanji": "広げる",
+          "reading": "ひろげる",
+          "romaji": "hirogeru",
+          "meaning": "Memperluas",
+          "options": [
+            "Bercanda",
+            "Memperluas",
+            "Putus Asa / menyerah",
+            "Mengelilingi / memutarkan"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "id": 549,
+          "kanji": "応募する",
+          "reading": "おうぼする",
+          "romaji": "oubosuru",
+          "meaning": "Melamar ( pekerjaan )",
+          "options": [
+            "Melamar ( pekerjaan )",
+            "Meriah,semarak",
+            "Bocor",
+            "Mengurangi"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "id": 550,
+          "kanji": "知り合う",
+          "reading": "しりあう",
+          "romaji": "shiriau",
+          "meaning": "Berkenalan",
+          "options": [
+            "Memukul",
+            "Melihat",
+            "Menambahi",
+            "Berkenalan"
+          ],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ]
+}

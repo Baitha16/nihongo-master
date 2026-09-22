@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "docx": "^9.7.1",
+    "mammoth": "^1.12.3",
+    "pdf-parse": "^1.1.1"
+  },
+  "name": "belajar-jepang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
