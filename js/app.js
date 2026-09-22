@@ -1,4 +1,6 @@
-const API_BASE = 'https://autohotkey-eight.vercel.app';
+const API_BASE = (location.hostname === 'localhost' || location.hostname === '127.0.0.1')
+  ? 'http://localhost:3000'
+  : 'https://autohotkey-eight.vercel.app';
 
 function getHWID() {
   const STORAGE_KEY = 'nihongo-master-hwid';
@@ -318,12 +320,27 @@ const App = {
       if (!data.success) return;
 
       const serverProgress = data.progress || {};
+      const hasLocal = (this.masteredWords && Object.keys(this.masteredWords).length > 0)
+        || (this.streak || 0) > 0
+        || (this.bestScore || 0) > 0;
+      const hasServer = (serverProgress.masteredWords && Object.keys(serverProgress.masteredWords).length > 0)
+        || (serverProgress.streak || 0) > 0
+        || (serverProgress.bestScore || 0) > 0;
+
       if (serverProgress.masteredWords && Object.keys(serverProgress.masteredWords).length > 0) {
         this.masteredWords = { ...serverProgress.masteredWords, ...this.masteredWords };
         this.studiedWords = { ...serverProgress.studiedWords, ...this.studiedWords };
-        this.streak = serverProgress.streak || this.streak;
-        this.bestScore = Math.min(100, Math.max(serverProgress.bestScore || 0, this.bestScore));
+      }
+      if (serverProgress.streak != null) {
+        this.streak = Math.max(serverProgress.streak || 0, this.streak || 0);
+      }
+      if (serverProgress.bestScore != null) {
+        this.bestScore = Math.min(100, Math.max(serverProgress.bestScore || 0, this.bestScore || 0));
+      }
+      if (hasServer) {
         this.saveProgress();
+      } else if (hasLocal) {
+        this.syncProgressToAPI();
       }
 
       const serverMarked = data.marked_words || {};
@@ -413,6 +430,7 @@ const App = {
     document.getElementById('btn-show-mastered').addEventListener('click', () => this.showStatsModal('mastered'));
     document.getElementById('btn-show-studied').addEventListener('click', () => this.showStatsModal('studied'));
     document.getElementById('btn-show-score').addEventListener('click', () => this.showStatsModal('score'));
+    document.getElementById('btn-show-leaderboard').addEventListener('click', () => this.showLeaderboardModal());
 
     document.getElementById('btn-back-repeat').addEventListener('click', () => this.showScreen('home'));
     document.getElementById('btn-repeat-show').addEventListener('click', () => this.showRepeatAnswer());
@@ -858,6 +876,147 @@ const App = {
     });
   },
 
+  async selectCategory(category) {
+    this.currentCategory = category;
+    const catInfo = DataLoader.getCategoryInfo(category);
+    document.getElementById('level-screen-title').textContent = `Pilih Level - ${catInfo.name}`;
+
+    const levels = await DataLoader.getLevels(category);
+    this.renderLevels(levels);
+
+    const oldRef = document.getElementById('hk-reference');
+    if (oldRef) oldRef.remove();
+    if (DataLoader.isHiraganaKatakana(category)) {
+      this.renderHKReference();
+    }
+
+    this.showScreen('levels');
+  },
+
+  renderHKReference() {
+    const isHira = this.currentCategory === 'hiragana';
+    const basic = isHira
+      ? [
+          ['あ','い','う','え','お','a','i','u','e','o'],
+          ['か','き','く','け','こ','ka','ki','ku','ke','ko'],
+          ['さ','し','す','せ','そ','sa','shi','su','se','so'],
+          ['た','ち','つ','て','と','ta','chi','tsu','te','to'],
+          ['な','に','ぬ','ね','の','na','ni','nu','ne','no'],
+          ['は','ひ','ふ','へ','ほ','ha','hi','fu','he','ho'],
+          ['ま','み','む','め','も','ma','mi','mu','me','mo'],
+          ['や','ゆ','よ','','','ya','yu','yo','',''],
+          ['ら','り','る','れ','ろ','ra','ri','ru','re','ro'],
+          ['わ','を','ん','','','wa','wo','n','','']
+        ]
+      : [
+          ['ア','イ','ウ','エ','オ','a','i','u','e','o'],
+          ['カ','キ','ク','ケ','コ','ka','ki','ku','ke','ko'],
+          ['サ','シ','ス','セ','ソ','sa','shi','su','se','so'],
+          ['タ','チ','ツ','テ','ト','ta','chi','tsu','te','to'],
+          ['ナ','ニ','ヌ','ネ','ノ','na','ni','nu','ne','no'],
+          ['ハ','ヒ','フ','ヘ','ホ','ha','hi','fu','he','ho'],
+          ['マ','ミ','ム','メ','モ','ma','mi','mu','me','mo'],
+          ['ヤ','ユ','ヨ','','','ya','yu','yo','',''],
+          ['ラ','リ','ル','レ','ロ','ra','ri','ru','re','ro'],
+          ['ワ','ヲ','ン','','','wa','wo','n','','']
+        ];
+    const dakuten = isHira
+      ? [
+          ['が','ぎ','ぐ','げ','ご','ga','gi','gu','ge','go'],
+          ['ざ','じ','ず','ぜ','ぞ','za','ji','zu','ze','zo'],
+          ['だ','ぢ','づ','で','ど','da','di','du','de','do'],
+          ['ば','び','ぶ','べ','ぼ','ba','bi','bu','be','bo'],
+          ['ぱ','ぴ','ぷ','ぺ','ぽ','pa','pi','pu','pe','po']
+        ]
+      : [
+          ['ガ','ギ','グ','ゲ','ゴ','ga','gi','gu','ge','go'],
+          ['ザ','ジ','ズ','ゼ','ゾ','za','ji','zu','ze','zo'],
+          ['ダ','ヂ','ヅ','デ','ド','da','di','du','de','do'],
+          ['バ','ビ','ブ','ベ','ボ','ba','bi','bu','be','bo'],
+          ['パ','ピ','プ','ペ','ポ','pa','pi','pu','pe','po']
+        ];
+    const kombinasi = isHira
+      ? [
+          ['きゃ','きゅ','きょ','kya','kyu','kyo'],
+          ['しゃ','しゅ','しょ','sha','shu','sho'],
+          ['ちゃ','ちゅ','ちょ','cha','chu','cho'],
+          ['にゃ','にゅ','にょ','nya','nyu','nyo'],
+          ['ひゃ','ひゅ','ひょ','hya','hyu','hyo'],
+          ['みゃ','みゅ','みょ','mya','myu','myo'],
+          ['りゃ','りゅ','りょ','rya','ryu','ryo'],
+          ['ぎゃ','ぎゅ','ぎょ','gya','gyu','gyo'],
+          ['じゃ','じゅ','じょ','ja','ju','jo'],
+          ['びゃ','びゅ','びょ','bya','byu','byo'],
+          ['ぴゃ','ぴゅ','ぴょ','pya','pyu','pyo']
+        ]
+      : [
+          ['キャ','キュ','キョ','kya','kyu','kyo'],
+          ['シャ','シュ','ショ','sha','shu','sho'],
+          ['チャ','チュ','チョ','cha','chu','cho'],
+          ['ニャ','ニュ','ニョ','nya','nyu','nyo'],
+          ['ヒャ','ヒュ','ヒョ','hya','hyu','hyo'],
+          ['ミャ','ミュ','ミョ','mya','myu','myo'],
+          ['リャ','リュ','リョ','rya','ryu','ryo'],
+          ['ギャ','ギュ','ギョ','gya','gyu','gyo'],
+          ['ジャ','ジュ','ジョ','ja','ju','jo'],
+          ['ビャ','ビュ','ビョ','bya','byu','byo'],
+          ['ピャ','ピュ','ピョ','pya','pyu','pyo']
+        ];
+
+    const basicHTML = basic.map(row => `
+      <div class="hk-row">
+        ${row.slice(0,5).map((ch,i) => ch
+          ? `<span class="hk-char">${ch}<small>${row[i+5]}</small></span>`
+          : `<span class="hk-char hk-empty"></span>`
+        ).join('')}
+      </div>
+    `).join('');
+
+    const dakutenHTML = dakuten.map(row => `
+      <div class="hk-row">
+        ${row.slice(0,5).map((ch,i) => `<span class="hk-char">${ch}<small>${row[i+5]}</small></span>`).join('')}
+      </div>
+    `).join('');
+
+    const kombinasiHTML = kombinasi.map(row => `
+      <div class="hk-row">
+        ${row.slice(0,3).map((ch,i) => `<span class="hk-char">${ch}<small>${row[i+3]}</small></span>`).join('')}
+      </div>
+    `).join('');
+
+    const label = isHira ? 'Hiragana' : 'Katakana';
+    const section = document.createElement('div');
+    section.id = 'hk-reference';
+    section.className = 'hk-reference';
+    section.innerHTML = `
+      <div class="hk-tabs">
+        <button class="hk-tab active" data-tab="basic">Dasar ${label}</button>
+        <button class="hk-tab" data-tab="dakuten">Dakuten</button>
+        <button class="hk-tab" data-tab="kombinasi">Kombinasi</button>
+      </div>
+      <div class="hk-panel active" data-panel="basic">
+        <div class="hk-grid">${basicHTML}</div>
+      </div>
+      <div class="hk-panel" data-panel="dakuten">
+        <div class="hk-grid">${dakutenHTML}</div>
+      </div>
+      <div class="hk-panel" data-panel="kombinasi">
+        <div class="hk-grid">${kombinasiHTML}</div>
+      </div>
+    `;
+
+    section.querySelectorAll('.hk-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        section.querySelectorAll('.hk-tab').forEach(t => t.classList.remove('active'));
+        section.querySelectorAll('.hk-panel').forEach(p => p.classList.remove('active'));
+        tab.classList.add('active');
+        section.querySelector(`.hk-panel[data-panel="${tab.dataset.tab}"]`).classList.add('active');
+      });
+    });
+
+    document.getElementById('screen-levels').appendChild(section);
+  },
+
   showQuizOptions(level) {
     const isHK = DataLoader.isHiraganaKatakana(this.currentCategory);
     
@@ -876,7 +1035,7 @@ const App = {
             Urut
           </button>
         </div>
-        ${!isHK ? `
+        ${`
         <div class="quiz-mode-label">Mode Soal</div>
         <div class="quiz-mode-buttons">
           <button class="reverse-btn${!this.isReversed ? ' active' : ''}" data-reverse="false">
@@ -886,7 +1045,7 @@ const App = {
             🇮🇩 Soal Indonesia
           </button>
         </div>
-        ` : ''}
+        `}
         <div class="quiz-modal-actions">
           <button class="btn-primary" id="btn-start-quiz">Mulai</button>
           <button class="btn-outline" id="btn-cancel-quiz">Batal</button>
@@ -1241,6 +1400,9 @@ const App = {
     if (mode === 'meaning') {
       correctAnswer = question.meaning;
       pool = allQuestions.map(q => ({ value: q.meaning, reading: q.reading, kanji: q.kanji }));
+    } else if (mode === 'kanji') {
+      correctAnswer = question.kanji;
+      pool = allQuestions.map(q => ({ value: q.kanji, reading: q.reading, meaning: q.meaning }));
     } else {
       correctAnswer = question.reading;
       pool = allQuestions.map(q => ({ value: q.reading, meaning: q.meaning, kanji: q.kanji }));
@@ -1380,7 +1542,15 @@ const App = {
 
     const isHiraganaKatakana = DataLoader.isHiraganaKatakana(this.currentCategory);
 
-    if (this.isReversed && !isHiraganaKatakana) {
+    if (this.isReversed && isHiraganaKatakana) {
+      questionCard.classList.add('reversed');
+      kanjiEl.textContent = question.romaji || question.meaning;
+      kanjiEl.classList.add('reversed-text');
+      kanjiEl.classList.remove('large-character');
+      readingEl.textContent = 'Pilih karakter yang sesuai';
+      romajiEl.textContent = '';
+      questionTextEl.textContent = 'Karakter apa ini?';
+    } else if (this.isReversed && !isHiraganaKatakana) {
       questionCard.classList.add('reversed');
       kanjiEl.textContent = question.meaning;
       kanjiEl.classList.add('reversed-text');
@@ -1413,7 +1583,11 @@ const App = {
 
     let displayOptions, correctIdx;
 
-    if (isHiraganaKatakana) {
+    if (isHiraganaKatakana && this.isReversed) {
+      const trap = this.generateTrapOptions(question, this.currentQuestions, 'kanji');
+      displayOptions = trap.options;
+      correctIdx = trap.correctIndex;
+    } else if (isHiraganaKatakana) {
       displayOptions = question.options;
       correctIdx = question.correctIndex;
     } else if (this.isReversed) {
@@ -1558,7 +1732,6 @@ const App = {
     const key = `${this.currentCategory}-level-${this.currentLevel}`;
     UserStorage.set(`completed-${key}`, 'true');
     UserStorage.set(`score-${key}`, percentage);
-    this.debouncedSyncToAPI();
 
     if (percentage > this.bestScore) {
       this.bestScore = Math.min(100, percentage);
@@ -1576,6 +1749,7 @@ const App = {
     });
 
     this.saveProgress();
+    this.syncProgressToAPI();
 
     this.showScreen('result');
 
@@ -1729,6 +1903,59 @@ const App = {
     modal.addEventListener('click', (e) => {
       if (e.target === modal) modal.remove();
     });
+  },
+
+  async showLeaderboardModal() {
+    const modal = document.createElement('div');
+    modal.className = 'stats-modal';
+    modal.innerHTML = `
+      <div class="stats-modal-content">
+        <div class="stats-modal-header">
+          <h3>🏆 Peringkat</h3>
+          <button class="stats-modal-close" id="close-leaderboard-modal">✕</button>
+        </div>
+        <div class="leaderboard-list" id="leaderboard-list">
+          <div class="leaderboard-loading">Memuat peringkat...</div>
+        </div>
+      </div>
+    `;
+
+    document.body.appendChild(modal);
+
+    document.getElementById('close-leaderboard-modal').addEventListener('click', () => {
+      modal.remove();
+    });
+
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) modal.remove();
+    });
+
+    try {
+      const res = await fetch(`${API_BASE}/api/leaderboard`);
+      const json = await res.json();
+      const list = document.getElementById('leaderboard-list');
+
+      if (!json.success || !Array.isArray(json.leaderboard) || json.leaderboard.length === 0) {
+        list.innerHTML = '<div class="leaderboard-loading">Belum ada data peringkat.</div>';
+        return;
+      }
+
+      const medals = ['🥇', '🥈', '🥉'];
+      list.innerHTML = json.leaderboard.map((entry, i) => {
+        const medal = i < 3 ? medals[i] : `${entry.rank}.`;
+        return `
+          <div class="leaderboard-row">
+            <span class="leaderboard-rank">${medal}</span>
+            <span class="leaderboard-owner">${entry.owner}</span>
+            <span class="leaderboard-score">🏆 ${entry.bestScore || 0}%</span>
+            <span class="leaderboard-streak">🔥 ${entry.streak || 0}</span>
+          </div>
+        `;
+      }).join('');
+    } catch (err) {
+      const list = document.getElementById('leaderboard-list');
+      if (list) list.innerHTML = '<div class="leaderboard-loading">Gagal memuat peringkat.</div>';
+    }
   },
 
   updateProgressRings() {

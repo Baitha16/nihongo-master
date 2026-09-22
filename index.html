@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>日本語マスター - Belajar Kosakata Jepang</title>
-  <link rel="stylesheet" href="css/style.css?v=54">
+  <link rel="stylesheet" href="css/style.css?v=64">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -91,6 +91,10 @@
             <span class="stat-value" id="best-score">0%</span>
             <span class="stat-label">Skor Terbaik</span>
           </button>
+          <button class="stat-card clickable" id="btn-show-leaderboard">
+            <span class="stat-value">🏆</span>
+            <span class="stat-label">Peringkat</span>
+          </button>
         </div>
 
         <!-- Hiragana & Katakana Section -->
@@ -138,78 +142,6 @@
           </div>
         </div>
 
-        <!-- N4 Vocabulary Section -->
-        <h2 class="section-title">Kosakata JLPT N4</h2>
-        <div class="category-grid">
-          <button class="category-card" data-category="nouns">
-            <div class="category-icon">名</div>
-            <div class="category-info">
-              <h3>Kata Benda</h3>
-              <span class="category-jp">名詞 / Meishi</span>
-            </div>
-            <div class="category-progress">
-              <div class="progress-ring">
-                <svg viewBox="0 0 36 36">
-                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                  <path class="progress-fill nouns-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                </svg>
-                <span class="progress-text">0%</span>
-              </div>
-            </div>
-          </button>
-
-          <button class="category-card" data-category="verbs">
-            <div class="category-icon">動</div>
-            <div class="category-info">
-              <h3>Kata Kerja</h3>
-              <span class="category-jp">動詞 / Doushi</span>
-            </div>
-            <div class="category-progress">
-              <div class="progress-ring">
-                <svg viewBox="0 0 36 36">
-                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                  <path class="progress-fill verbs-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                </svg>
-                <span class="progress-text">0%</span>
-              </div>
-            </div>
-          </button>
-
-          <button class="category-card" data-category="adjectives">
-            <div class="category-icon">形</div>
-            <div class="category-info">
-              <h3>Kata Sifat</h3>
-              <span class="category-jp">形容詞 / Keiyoushi</span>
-            </div>
-            <div class="category-progress">
-              <div class="progress-ring">
-                <svg viewBox="0 0 36 36">
-                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                  <path class="progress-fill adjectives-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                </svg>
-                <span class="progress-text">0%</span>
-              </div>
-            </div>
-          </button>
-
-          <button class="category-card" data-category="kanji">
-            <div class="category-icon kanji-icon">漢</div>
-            <div class="category-info">
-              <h3>Kuis Khusus Kanji</h3>
-              <span class="category-jp">漢字 / Kanji</span>
-            </div>
-            <div class="category-progress">
-              <div class="progress-ring">
-                <svg viewBox="0 0 36 36">
-                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                  <path class="progress-fill kanji-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                </svg>
-                <span class="progress-text">0%</span>
-              </div>
-            </div>
-          </button>
-        </div>
-
         <!-- N5 Database Section -->
         <h2 class="section-title">Kosakata JLPT N5</h2>
         <div class="category-grid">
@@ -224,23 +156,6 @@
                 <svg viewBox="0 0 36 36">
                   <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
                   <path class="progress-fill kotoba-n5-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                </svg>
-                <span class="progress-text">0%</span>
-              </div>
-            </div>
-          </button>
-
-          <button class="category-card" data-category="kanji-n5">
-            <div class="category-icon" style="background: linear-gradient(135deg, #8e44ad, #9b59b6);">漢</div>
-            <div class="category-info">
-              <h3>Kanji N5</h3>
-              <span class="category-jp">漢字 / Kanji N5</span>
-            </div>
-            <div class="category-progress">
-              <div class="progress-ring">
-                <svg viewBox="0 0 36 36">
-                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
-                  <path class="progress-fill kanji-n5-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
                 </svg>
                 <span class="progress-text">0%</span>
               </div>
@@ -265,9 +180,80 @@
           </button>
         </div>
 
+        <!-- Mixed N5-N4 Vocabulary Section -->
+        <h2 class="section-title">Kosakata Campuran N5–N4</h2>
+        <div class="category-grid">
+          <button class="category-card" data-category="nouns">
+            <div class="category-icon" style="background: linear-gradient(135deg, #e74c3c, #c0392b);">名</div>
+            <div class="category-info">
+              <h3>Kata Benda N4</h3>
+              <span class="category-jp">名詞 / Noun</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill nouns-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="verbs">
+            <div class="category-icon" style="background: linear-gradient(135deg, #3498db, #2980b9);">動</div>
+            <div class="category-info">
+              <h3>Kata Kerja N4</h3>
+              <span class="category-jp">動詞 / Verb</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill verbs-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+
+          <button class="category-card" data-category="adjectives">
+            <div class="category-icon" style="background: linear-gradient(135deg, #2ecc71, #27ae60);">形</div>
+            <div class="category-info">
+              <h3>Kata Sifat N4</h3>
+              <span class="category-jp">形容詞 / Adjective</span>
+            </div>
+            <div class="category-progress">
+              <div class="progress-ring">
+                <svg viewBox="0 0 36 36">
+                  <path class="progress-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                  <path class="progress-fill adjectives-progress" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"/>
+                </svg>
+                <span class="progress-text">0%</span>
+              </div>
+            </div>
+          </button>
+        </div>
+
         <!-- Coming Soon Section -->
         <h2 class="section-title coming-soon-title">Segera Hadir</h2>
         <div class="category-grid coming-soon">
+          <div class="category-card disabled" data-category="kanji-n5-soon">
+            <div class="category-icon" style="background: linear-gradient(135deg, #8e44ad, #9b59b6);">漢</div>
+            <div class="category-info">
+              <h3>Kanji N5</h3>
+              <span class="category-jp">漢字 / Kanji N5</span>
+            </div>
+            <span class="coming-badge">Soon</span>
+          </div>
+          <div class="category-card disabled" data-category="kanji-soon">
+            <div class="category-icon" style="background: linear-gradient(135deg, #8e44ad, #9b59b6);">漢</div>
+            <div class="category-info">
+              <h3>Kanji N4</h3>
+              <span class="category-jp">漢字 / Kanji</span>
+            </div>
+            <span class="coming-badge">Soon</span>
+          </div>
           <div class="category-card disabled" data-category="n3">
             <div class="category-icon n3-icon">N3</div>
             <div class="category-info">
@@ -457,7 +443,7 @@
     </div><!-- /app-main -->
   </div>
 
-  <script src="js/data-loader.js?v=54"></script>
-  <script src="js/app.js?v=54"></script>
+  <script src="js/data-loader.js?v=64"></script>
+  <script src="js/app.js?v=64"></script>
 </body>
 </html>

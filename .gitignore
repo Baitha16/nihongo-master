@@ -4,3 +4,18 @@ node_modules/
 .DS_Store
 Thumbs.db
 ~$*
+
+.vercel
+
+# Sensitive / source materials — never push
+*.cmd
+*.docx
+*.pdf
+*.env
+.env
+.env.local
+.env.*
+KOTOBA/
+DATABASE/*.docx
+DATABASE/*.txt
+DATABASE/*.pdf
