@@ -150,6 +150,14 @@ body {
   transform: rotate(30deg);
 }
 
+.btn-leaderboard:hover {
+  transform: none;
+}
+
+.btn-leaderboard svg {
+  display: block;
+}
+
 [data-theme="light"] .icon-moon { display: none; }
 [data-theme="dark"] .icon-sun { display: none; }
 
@@ -271,7 +279,7 @@ body {
 /* ===== Stats Bar ===== */
 .stats-bar {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
 }
@@ -1669,7 +1677,7 @@ body {
   }
 
   .stats-bar {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 0.5rem;
   }
 
@@ -2480,7 +2488,7 @@ body {
 /* ===== Stats Bar ===== */
 .stats-bar {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
 }
