@@ -15,7 +15,8 @@ const DataLoader = {
       kanji: 'data/kanji.json',
       'kotoba-n5': 'data/database/kotoba-n5.json',
       'kanji-n5': 'data/database/kanji-n5.json',
-      'bunpou-n5': 'data/database/bunpou-n5.json'
+      'bunpou-n5': 'data/database/bunpou-n5.json',
+      'kaiwa-n5': 'data/database/kaiwa-n5.json'
     };
 
     const filePath = fileMap[category];
@@ -39,7 +40,7 @@ const DataLoader = {
   },
 
   async getCategories() {
-    const categories = ['hiragana', 'katakana', 'nouns', 'verbs', 'adjectives', 'kanji', 'kotoba-n5', 'kanji-n5', 'bunpou-n5'];
+    const categories = ['hiragana', 'katakana', 'nouns', 'verbs', 'adjectives', 'kanji', 'kotoba-n5', 'kanji-n5', 'bunpou-n5', 'kaiwa-n5'];
     const results = {};
 
     for (const cat of categories) {
@@ -89,7 +90,8 @@ const DataLoader = {
       kanji: { name: 'Kuis Khusus Kanji', jp: '漢字', romaji: 'Kanji' },
       'kotoba-n5': { name: 'Kosakata N5', jp: '語彙 N5', romaji: 'Kotoba N5' },
       'kanji-n5': { name: 'Kanji N5', jp: '漢字 N5', romaji: 'Kanji N5' },
-      'bunpou-n5': { name: 'Tata Bahasa N5', jp: '文法 N5', romaji: 'Bunpou N5' }
+      'bunpou-n5': { name: 'Tata Bahasa N5', jp: '文法 N5', romaji: 'Bunpou N5' },
+      'kaiwa-n5': { name: 'Kaiwa N5', jp: '会話 N5', romaji: 'Kaiwa N5' }
     };
     return info[category] || { name: category, jp: '', romaji: '' };
   },

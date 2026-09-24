@@ -278,7 +278,7 @@ const App = {
     try {
       const allMarked = this.loadAllMarkedWords();
       const completedLevels = {};
-      const categories = ['hiragana','katakana','nouns','verbs','adjectives','kanji','kotoba-n5','kanji-n5','bunpou-n5'];
+      const categories = ['hiragana','katakana','nouns','verbs','adjectives','kanji','kotoba-n5','kanji-n5','bunpou-n5','kaiwa-n5'];
       categories.forEach(cat => {
         const total = this.getCategoryTotalLevels(cat);
         for (let i = 1; i <= total; i++) {
@@ -626,7 +626,8 @@ const App = {
       kanji: 'Kanji',
       'kotoba-n5': 'Kosakata N5',
       'kanji-n5': 'Kanji N5',
-      'bunpou-n5': 'Tata Bahasa N5'
+      'bunpou-n5': 'Tata Bahasa N5',
+      'kaiwa-n5': 'Kaiwa N5'
     };
     const catName = categoryNames[category] || category;
 
@@ -672,7 +673,8 @@ const App = {
       kanji: 'Kanji',
       'kotoba-n5': 'Kosakata N5',
       'kanji-n5': 'Kanji N5',
-      'bunpou-n5': 'Tata Bahasa N5'
+      'bunpou-n5': 'Tata Bahasa N5',
+      'kaiwa-n5': 'Kaiwa N5'
     };
     
     keys.sort().forEach(key => {
@@ -732,7 +734,8 @@ const App = {
       kanji: 'Kanji',
       'kotoba-n5': 'Kosakata N5',
       'kanji-n5': 'Kanji N5',
-      'bunpou-n5': 'Tata Bahasa N5'
+      'bunpou-n5': 'Tata Bahasa N5',
+      'kaiwa-n5': 'Kaiwa N5'
     };
     const catName = categoryNames[category] || category;
 
@@ -755,7 +758,8 @@ const App = {
 
     document.getElementById('repeat-question-text').textContent = 'Apa artinya?';
     document.getElementById('repeat-kanji').textContent = question.kanji;
-    document.getElementById('repeat-reading').textContent = question.reading || '';
+    const hasKanjiRepeat = question.kanji && question.kanji !== question.reading;
+    document.getElementById('repeat-reading').textContent = hasKanjiRepeat ? (question.reading || '') : '';
     document.getElementById('repeat-romaji').textContent = question.romaji || '';
     document.getElementById('repeat-kanji').classList.remove('large-character', 'reversed-text');
 
@@ -1560,13 +1564,15 @@ const App = {
       kanjiEl.classList.remove('reversed-text');
       kanjiEl.textContent = question.kanji;
 
+      const hasKanji = question.kanji && question.kanji !== question.reading;
+
       if (isHiraganaKatakana) {
         readingEl.textContent = '';
         romajiEl.textContent = '';
         questionTextEl.textContent = 'Bunyi karakter ini?';
         kanjiEl.classList.add('large-character');
       } else {
-        readingEl.textContent = question.reading || '';
+        readingEl.textContent = hasKanji ? (question.reading || '') : '';
         romajiEl.textContent = question.romaji || '';
         questionTextEl.textContent = 'Apa artinya?';
         kanjiEl.classList.remove('large-character');
@@ -1772,11 +1778,12 @@ const App = {
         ? answer.question._currentCorrectIndex
         : answer.question.correctIndex;
 
+      const reviewHasKanji = answer.question.kanji && answer.question.kanji !== answer.question.reading;
       item.innerHTML = `
         <div class="review-status">${answer.isCorrect ? '✓' : '✗'}</div>
         <div class="review-content">
           <div class="review-kanji">${answer.question.kanji}</div>
-          ${answer.question.reading ? `<div class="review-reading">${answer.question.reading}</div>` : ''}
+          ${reviewHasKanji && answer.question.reading ? `<div class="review-reading">${answer.question.reading}</div>` : ''}
           ${answer.question.romaji ? `<div class="review-romaji">${answer.question.romaji}</div>` : ''}
           <div class="review-answers">
             <div class="review-your-answer">Jawaban Anda: ${labels[answer.selectedIndex]}. ${displayOptions[answer.selectedIndex]}</div>
@@ -1822,7 +1829,8 @@ const App = {
       kanji: 3,
       'kotoba-n5': 48,
       'kanji-n5': 11,
-      'bunpou-n5': 25
+      'bunpou-n5': 25,
+      'kaiwa-n5': 2
     };
     return maxLevels[category] || 10;
   },
@@ -1837,7 +1845,8 @@ const App = {
       { id: 'kanji', name: 'Kanji', icon: '漢', color: '#8e44ad' },
       { id: 'kotoba-n5', name: 'Kosakata N5', icon: '語', color: '#f39c12' },
       { id: 'kanji-n5', name: 'Kanji N5', icon: '漢', color: '#8e44ad' },
-      { id: 'bunpou-n5', name: 'Tata Bahasa N5', icon: '文', color: '#16a085' }
+      { id: 'bunpou-n5', name: 'Tata Bahasa N5', icon: '文', color: '#16a085' },
+      { id: 'kaiwa-n5', name: 'Kaiwa N5', icon: '会', color: '#e67e22' }
     ];
 
     let title = '';
@@ -1956,7 +1965,7 @@ const App = {
   },
 
   updateProgressRings() {
-    const categories = ['hiragana', 'katakana', 'nouns', 'verbs', 'adjectives', 'kanji', 'kotoba-n5', 'kanji-n5', 'bunpou-n5'];
+    const categories = ['hiragana', 'katakana', 'nouns', 'verbs', 'adjectives', 'kanji', 'kotoba-n5', 'kanji-n5', 'bunpou-n5', 'kaiwa-n5'];
     categories.forEach(cat => {
       const total = this.getCategoryTotalLevels(cat);
       let completed = 0;

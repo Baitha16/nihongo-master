@@ -1,0 +1,507 @@
+{
+  "category": "Kaiwa JLPT N5",
+  "categoryJapanese": "会話 N5",
+  "categoryRomaji": "Kaiwa N5",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "hiragana": "おはようございます",
+          "kanji": "おはようございます",
+          "romaji": "Ohayou gozaimasu",
+          "meaning": "selamat pagi",
+          "reading": "おはようございます"
+        },
+        {
+          "hiragana": "こんにちは",
+          "kanji": "こんにちは",
+          "romaji": "Konnichiwa",
+          "meaning": "selamat siang",
+          "reading": "こんにちは"
+        },
+        {
+          "hiragana": "こんばんは",
+          "kanji": "こんばんは",
+          "romaji": "Konbanwa",
+          "meaning": "selamat malam",
+          "reading": "こんばんは"
+        },
+        {
+          "hiragana": "おやすみなさい",
+          "kanji": "おやすみなさい",
+          "romaji": "Oyasuminasai",
+          "meaning": "selamat tidur",
+          "reading": "おやすみなさい"
+        },
+        {
+          "hiragana": "さようなら",
+          "kanji": "さようなら",
+          "romaji": "Sayounara",
+          "meaning": "selamat tinggal",
+          "reading": "さようなら"
+        },
+        {
+          "hiragana": "では / じゃまた",
+          "kanji": "では / じゃまた",
+          "romaji": "Dewa / Ja mata",
+          "meaning": "sampai jumpa lagi",
+          "reading": "では / じゃまた"
+        },
+        {
+          "hiragana": "またね",
+          "kanji": "またね",
+          "romaji": "Mata ne",
+          "meaning": "sampai ketemu lagi ya",
+          "reading": "またね"
+        },
+        {
+          "hiragana": "おねがいします",
+          "kanji": "おねがいします",
+          "romaji": "Onegaishimasu",
+          "meaning": "tolong, mohon",
+          "reading": "おねがいします"
+        },
+        {
+          "hiragana": "どうもありがとうございました",
+          "kanji": "どうもありがとうございました",
+          "romaji": "Doumo Arigatougozaimasu",
+          "meaning": "terima kasih(banyak)",
+          "reading": "どうもありがとうございました"
+        },
+        {
+          "hiragana": "どういたしまして",
+          "kanji": "どういたしまして",
+          "romaji": "Douitashimashite",
+          "meaning": "sama-sama",
+          "reading": "どういたしまして"
+        },
+        {
+          "hiragana": "ひさしぶりです",
+          "kanji": "ひさしぶりです",
+          "romaji": "Hisashiburi desu",
+          "meaning": "lama tak jumpa",
+          "reading": "ひさしぶりです"
+        },
+        {
+          "hiragana": "もしもし",
+          "kanji": "もしもし",
+          "romaji": "Moshimoshi",
+          "meaning": "halo(lewat telpon)",
+          "reading": "もしもし"
+        },
+        {
+          "hiragana": "しつれいします",
+          "kanji": "しつれいします",
+          "romaji": "Shitsurei shimasu",
+          "meaning": "permisi(saya duluan)",
+          "reading": "しつれいします"
+        },
+        {
+          "hiragana": "おめでとう",
+          "kanji": "おめでとう",
+          "romaji": "Omedetou",
+          "meaning": "selamat",
+          "reading": "おめでとう"
+        },
+        {
+          "hiragana": "いただきます",
+          "kanji": "いただきます",
+          "romaji": "Itadakimasu",
+          "meaning": "selamat makan",
+          "reading": "いただきます"
+        },
+        {
+          "hiragana": "ごちそうさまでした",
+          "kanji": "ごちそうさまでした",
+          "romaji": "Gochisousama deshita",
+          "meaning": "terima kasih atas hidangannya(setelah makan)",
+          "reading": "ごちそうさまでした"
+        },
+        {
+          "hiragana": "いってきます",
+          "kanji": "いってきます",
+          "romaji": "Ittekimasu",
+          "meaning": "saya berangkat",
+          "reading": "いってきます"
+        },
+        {
+          "hiragana": "いってらっしゃい",
+          "kanji": "いってらっしゃい",
+          "romaji": "Itterasshai",
+          "meaning": "silahkan berangkat(jawaban ittekimasu)",
+          "reading": "いってらっしゃい"
+        },
+        {
+          "hiragana": "ただいま",
+          "kanji": "ただいま",
+          "romaji": "Tadaima",
+          "meaning": "saya pulang/kembali",
+          "reading": "ただいま"
+        },
+        {
+          "hiragana": "おかえりなさい",
+          "kanji": "おかえりなさい",
+          "romaji": "Okaerinasai",
+          "meaning": "pulanglah(jawaban dari tadaima)",
+          "reading": "おかえりなさい"
+        },
+        {
+          "hiragana": "どうぞ",
+          "kanji": "どうぞ",
+          "romaji": "Douzo",
+          "meaning": "silahkan",
+          "reading": "どうぞ"
+        },
+        {
+          "hiragana": "はじめまして",
+          "kanji": "はじめまして",
+          "romaji": "Hajimemashite",
+          "meaning": "salam kenal",
+          "reading": "はじめまして"
+        },
+        {
+          "hiragana": "どうぞよろしくおねがいします",
+          "kanji": "どうぞよろしくおねがいします",
+          "romaji": "Douzo yoroshiku onegaishimasu",
+          "meaning": "Terimalah perkenalan saya",
+          "reading": "どうぞよろしくおねがいします"
+        },
+        {
+          "hiragana": "こちらこそよろしくおねがいします",
+          "kanji": "こちらこそよろしくおねがいします",
+          "romaji": "Kochira koso yoroshiku onegaishimasu",
+          "meaning": "Sama-sama terimalah juga perkenalan saya",
+          "reading": "こちらこそよろしくおねがいします"
+        },
+        {
+          "hiragana": "おげんきですか / おいかがですか",
+          "kanji": "おげんきですか / おいかがですか",
+          "romaji": "Ogenki desu ka / Oikaga desu ka",
+          "meaning": "Bagaimana kabarnya?",
+          "reading": "おげんきですか / おいかがですか"
+        },
+        {
+          "hiragana": "おかげさまで",
+          "kanji": "おかげさまで",
+          "romaji": "Okagesama de",
+          "meaning": "berkat anda/berkat do'a anda",
+          "reading": "おかげさまで"
+        },
+        {
+          "hiragana": "ごめんください",
+          "kanji": "ごめんください",
+          "romaji": "Gomen kudasai",
+          "meaning": "permisi(saat bertamu)",
+          "reading": "ごめんください"
+        },
+        {
+          "hiragana": "おじゃまします / しました",
+          "kanji": "おじゃまします / しました",
+          "romaji": "Ojama shimasu / shimashita",
+          "meaning": "maaf (tlh) mengganggu(saat masuk ke rumah orang)",
+          "reading": "おじゃまします / しました"
+        },
+        {
+          "hiragana": "おせわになります",
+          "kanji": "おせわになります",
+          "romaji": "Osewa ni narimasu",
+          "meaning": "maaf merepotkan anda ( mohon bantuannya )",
+          "reading": "おせわになります"
+        },
+        {
+          "hiragana": "ようこそ / いらっしゃいませ",
+          "kanji": "ようこそ / いらっしゃいませ",
+          "romaji": "Youkoso / Irasshaimase",
+          "meaning": "selamat datang",
+          "reading": "ようこそ / いらっしゃいませ"
+        },
+        {
+          "hiragana": "おつかれさまでした",
+          "kanji": "おつかれさまでした",
+          "romaji": "Otsukaresama deshita",
+          "meaning": "terima kasih atas kerjasamanya",
+          "reading": "おつかれさまでした"
+        },
+        {
+          "hiragana": "おさきに",
+          "kanji": "おさきに",
+          "romaji": "Osaki ni",
+          "meaning": "saya duluan",
+          "reading": "おさきに"
+        },
+        {
+          "hiragana": "いいてんきですね",
+          "kanji": "いいてんきですね",
+          "romaji": "Ii tenki desu ne",
+          "meaning": "cuacanya bagus ya",
+          "reading": "いいてんきですね"
+        },
+        {
+          "hiragana": "おまたせしました",
+          "kanji": "おまたせしました",
+          "romaji": "Omatae shimashita",
+          "meaning": "Maaf membuat menunggu/maaf menunggu lama",
+          "reading": "おまたせしました"
+        },
+        {
+          "hiragana": "たいせつにします",
+          "kanji": "たいせつにします",
+          "romaji": "Taisetsu ni shimasu",
+          "meaning": "Akan menjaga dengan baik",
+          "reading": "たいせつにします"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "hiragana": "そんなことはない",
+          "kanji": "そんなことはない",
+          "romaji": "Sonna koto wa nai",
+          "meaning": "Jangan mengatakan begitu (merendah ketika dipuji)",
+          "reading": "そんなことはない"
+        },
+        {
+          "hiragana": "かしこまりました",
+          "kanji": "かしこまりました",
+          "romaji": "Kashikomarimashita",
+          "meaning": "Iya Mengerti (sopan)",
+          "reading": "かしこまりました"
+        },
+        {
+          "hiragana": "ごめんなさい",
+          "kanji": "ごめんなさい",
+          "romaji": "Gomennasai",
+          "meaning": "Maaf",
+          "reading": "ごめんなさい"
+        },
+        {
+          "hiragana": "すみません",
+          "kanji": "すみません",
+          "romaji": "Sumimasen",
+          "meaning": "maaf/permisi",
+          "reading": "すみません"
+        },
+        {
+          "hiragana": "ごぶさたしております",
+          "kanji": "ごぶさたしております",
+          "romaji": "Gobusata shite orimasu",
+          "meaning": "Maaf sudah lama tidak bertemu",
+          "reading": "ごぶさたしております"
+        },
+        {
+          "hiragana": "なにになさいますか",
+          "kanji": "なにになさいますか",
+          "romaji": "Nani ni nasaimasu ka",
+          "meaning": "Akan memilih apa/memesan apa?",
+          "reading": "なにになさいますか"
+        },
+        {
+          "hiragana": "おまちしております",
+          "kanji": "おまちしております",
+          "romaji": "Omachi shite orimasu",
+          "meaning": "Kami menunggu kedatangan anda",
+          "reading": "おまちしております"
+        },
+        {
+          "hiragana": "ちょっといいですか",
+          "kanji": "ちょっといいですか",
+          "romaji": "Chotto ii desu ka",
+          "meaning": "Bisa minta waktu sebentar",
+          "reading": "ちょっといいですか"
+        },
+        {
+          "hiragana": "よかったら",
+          "kanji": "よかったら",
+          "romaji": "Yokattara",
+          "meaning": "Kalau mau",
+          "reading": "よかったら"
+        },
+        {
+          "hiragana": "もうしわけありません",
+          "kanji": "もうしわけありません",
+          "romaji": "Moushiwake arimasen",
+          "meaning": "Saya mohon maaf",
+          "reading": "もうしわけありません"
+        },
+        {
+          "hiragana": "ちょっといいでしょうか",
+          "kanji": "ちょっといいでしょうか",
+          "romaji": "Chotto ii deshou ka",
+          "meaning": "Maaf, bisa minta waktunya sebentar",
+          "reading": "ちょっといいでしょうか"
+        },
+        {
+          "hiragana": "べつにかまいません",
+          "kanji": "べつにかまいません",
+          "romaji": "Betsu ni kamaimasen",
+          "meaning": "Tidak masalah",
+          "reading": "べつにかまいません"
+        },
+        {
+          "hiragana": "おだいじに",
+          "kanji": "おだいじに",
+          "romaji": "Odaijini",
+          "meaning": "Semoga lekas sembuh",
+          "reading": "おだいじに"
+        },
+        {
+          "hiragana": "どうされましたか",
+          "kanji": "どうされましたか",
+          "romaji": "Dou saremashita ka",
+          "meaning": "Apa yang terjadi",
+          "reading": "どうされましたか"
+        },
+        {
+          "hiragana": "それはいけませんね",
+          "kanji": "それはいけませんね",
+          "romaji": "Sore wa ikemasen ne",
+          "meaning": "Itu tidak baik",
+          "reading": "それはいけませんね"
+        },
+        {
+          "hiragana": "どうしていますか",
+          "kanji": "どうしていますか",
+          "romaji": "Dou shite imasu ka",
+          "meaning": "Bagaimana menanganinya",
+          "reading": "どうしていますか"
+        },
+        {
+          "hiragana": "たのしみですね",
+          "kanji": "たのしみですね",
+          "romaji": "Tanoshimi desu ne",
+          "meaning": "Wah,menyenangkan ya",
+          "reading": "たのしみですね"
+        },
+        {
+          "hiragana": "おしあわせに",
+          "kanji": "おしあわせに",
+          "romaji": "Oshiawase ni",
+          "meaning": "Semoga bahagia",
+          "reading": "おしあわせに"
+        },
+        {
+          "hiragana": "おげんきで",
+          "kanji": "おげんきで",
+          "romaji": "Ogenki de",
+          "meaning": "Jaga diri baik-baik",
+          "reading": "おげんきで"
+        },
+        {
+          "hiragana": "かんぱい",
+          "kanji": "かんぱい",
+          "romaji": "Kanpai",
+          "meaning": "bersulang",
+          "reading": "かんぱい"
+        },
+        {
+          "hiragana": "いじょうで よろしいですか",
+          "kanji": "いじょうで よろしいですか",
+          "romaji": "Ijou de yoroshii desu ka",
+          "meaning": "Apakah pesanan sudah semuanya?",
+          "reading": "いじょうで よろしいですか"
+        },
+        {
+          "hiragana": "おまちがいないでしょうか",
+          "kanji": "おまちがいないでしょうか",
+          "romaji": "Omachi ga inai deshou ka",
+          "meaning": "Apakah tidak ada kesalahan?",
+          "reading": "おまちがいないでしょうか"
+        },
+        {
+          "hiragana": "ごめいわくをおかけします",
+          "kanji": "ごめいわくをおかけします",
+          "romaji": "Gomeiwaku o okakeshimasu",
+          "meaning": "Mohon maaf atas ketidaknyamanan ini",
+          "reading": "ごめいわくをおかけします"
+        },
+        {
+          "hiragana": "なんていってましたか",
+          "kanji": "なんていってましたか",
+          "romaji": "Nante ittemashita ka",
+          "meaning": "Apa katanya ?",
+          "reading": "なんていってましたか"
+        },
+        {
+          "hiragana": "ごりようください",
+          "kanji": "ごりようください",
+          "romaji": "Goriyou kudasai",
+          "meaning": "Silakan digunakan",
+          "reading": "ごりようください"
+        },
+        {
+          "hiragana": "みなさまのごらいじょうをおまちしています",
+          "kanji": "みなさまのごらいじょうをおまちしています",
+          "romaji": "Minasama no goraijou o omachi shite imasu",
+          "meaning": "Kami menantikan kehadiran Anda",
+          "reading": "みなさまのごらいじょうをおまちしています"
+        },
+        {
+          "hiragana": "おきがるにおこしください",
+          "kanji": "おきがるにおこしください",
+          "romaji": "Okigaru ni okoshi kudasai",
+          "meaning": "Silakan mampir/ berkunjung",
+          "reading": "おきがるにおこしください"
+        },
+        {
+          "hiragana": "おさそいあわせのうえで,おでかけください",
+          "kanji": "おさそいあわせのうえで,おでかけください",
+          "romaji": "Osasoiawase no ue de, odekake kudasai",
+          "meaning": "Silakan hadiri acara kami bersama teman dan keluarga",
+          "reading": "おさそいあわせのうえで,おでかけください"
+        },
+        {
+          "hiragana": "あけましておめでとうございます",
+          "kanji": "あけましておめでとうございます",
+          "romaji": "Akemashite omedetou gozaimasu",
+          "meaning": "Selamat tahun baru",
+          "reading": "あけましておめでとうございます"
+        },
+        {
+          "hiragana": "またこんど",
+          "kanji": "またこんど",
+          "romaji": "Mata kondo",
+          "meaning": "Maaf lain kali saja",
+          "reading": "またこんど"
+        },
+        {
+          "hiragana": "おまちください",
+          "kanji": "おまちください",
+          "romaji": "Omachi kudasai",
+          "meaning": "Tunggu sebentar",
+          "reading": "おまちください"
+        },
+        {
+          "hiragana": "これでおねがいします",
+          "kanji": "これでおねがいします",
+          "romaji": "Kore de onegaishimasu",
+          "meaning": "Minta dengan ini",
+          "reading": "これでおねがいします"
+        },
+        {
+          "hiragana": "おめでとうございます",
+          "kanji": "おめでとうございます",
+          "romaji": "Omedetou gozaimasu",
+          "meaning": "Ucapan selamat",
+          "reading": "おめでとうございます"
+        },
+        {
+          "hiragana": "おせわになりました",
+          "kanji": "おせわになりました",
+          "romaji": "Osewa ni narimashita",
+          "meaning": "Terima kasih (sudah repot)",
+          "reading": "おせわになりました"
+        },
+        {
+          "hiragana": "どうぞおげんきで。",
+          "kanji": "どうぞおげんきで。",
+          "romaji": "Douzo ogenki de.",
+          "meaning": "Semoga berhasil (waktu berpisah)",
+          "reading": "どうぞおげんきで。"
+        }
+      ]
+    }
+  ]
+}
