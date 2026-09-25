@@ -296,7 +296,7 @@ const App = {
         if (val) bunpouUnderstand['bab' + b] = JSON.parse(val);
       }
 
-      await fetch(`${API_BASE}/api/progress`, {
+      const res = await fetch(`${API_BASE}/api/progress`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -307,6 +307,7 @@ const App = {
           completed_levels: completedLevels
         })
       });
+      if (!res.ok) console.log('Progress sync failed: HTTP ' + res.status);
     } catch (e) {
       console.log('Could not sync progress to API');
     }
@@ -980,7 +981,7 @@ const App = {
     `).join('');
 
     const kombinasiHTML = kombinasi.map(row => `
-      <div class="hk-row">
+      <div class="hk-row hk-row-3">
         ${row.slice(0,3).map((ch,i) => `<span class="hk-char">${ch}<small>${row[i+3]}</small></span>`).join('')}
       </div>
     `).join('');
@@ -1673,6 +1674,7 @@ const App = {
       this.streak = 0;
     }
     document.getElementById('streak-count').textContent = this.streak;
+    this.saveProgress();
 
     this.updateQuestionNav();
 
@@ -1805,6 +1807,7 @@ const App = {
     document.getElementById('total-mastered').textContent = totalMastered;
     document.getElementById('total-studied').textContent = totalStudied;
     document.getElementById('best-score').textContent = `${this.bestScore}%`;
+    document.getElementById('streak-count').textContent = this.streak || 0;
   },
 
   getCategoryLevelsCompleted(category) {

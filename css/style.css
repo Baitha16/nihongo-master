@@ -2782,10 +2782,15 @@ body {
 }
 
 .hk-row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 8px;
+  width: 100%;
+  max-width: 420px;
+}
+
+.hk-row-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .hk-char {
@@ -2793,8 +2798,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-width: 56px;
-  padding: 8px 6px;
+  min-width: 0;
+  padding: 8px 4px;
   background: var(--bg-tertiary);
   border: 1px solid var(--border);
   border-radius: 10px;
@@ -2815,6 +2820,35 @@ body {
 
 .hk-char.hk-empty {
   visibility: hidden;
+}
+
+.hk-row-3 {
+  max-width: 260px;
+}
+
+@media (max-width: 480px) {
+  .hk-reference {
+    padding: 12px 8px;
+  }
+
+  .hk-row {
+    gap: 5px;
+    max-width: 100%;
+  }
+
+  .hk-char {
+    padding: 6px 2px;
+    font-size: 1.15rem;
+    border-radius: 8px;
+  }
+
+  .hk-char small {
+    font-size: 0.58rem;
+  }
+
+  .hk-row-3 {
+    max-width: 100%;
+  }
 }
 
 .reading-header h3 {
